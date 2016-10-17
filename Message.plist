@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Date</key>
+	<date>2016-10-10T17:51:36Z</date>
+	<key>Title</key>
+	<string>Switch to EASe 3</string>
+	<key>Message</key>
+	<string>We have decided to consolidate our EASe apps into one. It is now free to download. All your modules will transfer over nicely as long as you have iCloud enabled and have them all loaded in the app. EASe 3 will accept your module info from iCloud and unlock the modules right away for you. If you have a question, as always, please contact support.</string>
+	<key>showLink</key>
+	<string>NO</string>
+</dict>
+</plist>
