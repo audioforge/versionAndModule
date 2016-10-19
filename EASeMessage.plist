@@ -13,5 +13,7 @@
 		always, please contact support.</string>
 	<key>showLink</key>
 	<string>NO</string>
+	<key>Link</key>
+	<string>https://audioforge.net</string>
 </dict>
 </plist>
