@@ -7,10 +7,10 @@
 	<key>Title</key>
 	<string>Switch to EASe 3</string>
 	<key>Message</key>
-	<string>We have decided to consolidate our EASe apps into one. It is now free to download.\n
-		All your modules will transfer over nicely as long as you have iCloud enabled and have them all loaded in this app.\n
-		EASe 3 will accept your module info from iCloud and unlock the modules right away for you.\n
-		If you have a question, as always, please contact support.</string>
+	<string>We have decided to consolidate our EASe apps into one. It is now free to download.
+All your modules will transfer over nicely as long as you have iCloud enabled and have them all loaded in this app.
+EASe 3 will accept your module info from iCloud and unlock the modules right away for you.
+If you have a question, as always, please contact support.</string>
 	<key>showLink</key>
 	<string>YES</string>
 	<key>Link</key>
