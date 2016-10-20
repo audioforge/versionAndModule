@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Date</key>
+	<date>2017-10-16T17:51:36Z</date>
+	<key>Title</key>
+	<string>Welcome to EASe</string>
+	<key>Message</key>
+	<string>Please familiarize yourself with the new look of EASe.
+  While the interface has changed, we also did some tweak under the hood an have created an updated audio engine.
+  Also there will be soon an option to stream EASe music directly without the need to purchase modules separately.</string>
+</dict>
+</plist>
