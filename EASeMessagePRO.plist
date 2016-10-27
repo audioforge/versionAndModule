@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Date</key>
+	<date>2017-10-22T17:51:36Z</date>
+	<key>Title</key>
+	<string>Switch to EASe 3</string>
+	<key>Message</key>
+	<string>We have decided to consolidate our EASe apps into one. It is now free to download.
+To continue receiving updates and improvements, we switch our PRO features to a subscription based program.
+This allows us to focus on the PRO needs and enable new features and enhancements specifically for therapists.
+The current EASe PRO you are using will continue to work but will not be updated anymore</string>
+	<key>showLink</key>
+	<string>YES</string>
+	<key>Link</key>
+	<string>https://audioforge.net</string>
+</dict>
+</plist>
