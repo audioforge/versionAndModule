@@ -3,12 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>Date</key>
-	<date>2016-10-25T17:51:36Z</date>
+	<date>2016-11-15T17:51:36Z</date>
 	<key>Title</key>
 	<string>Welcome to EASe 3.0</string>
 	<key>Message</key>
 	<string>Please familiarize yourself with the new look of EASe.
   While the interface has changed, we also did some tweaks under the hood and have created an updated audio engine.
-  We are working on an option to stream EASe music modules directly without the need to purchase them separately.</string>
+  We are working on an option to stream EASe music modules directly without the need to purchase them separately.
+	In the mean-time please sign up for the legacy subscritpion so you can use your music modules.
+		Please contact support if you have any questions.
+		Remember you can transfer your music modules from the other EASe apps to the new EASe.</string>
 </dict>
 </plist>
