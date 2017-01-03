@@ -6,7 +6,7 @@
 <BODY bgcolor="ffffff">
     <font Size=10 color="000000">
         <DIV id="center-content">
-            <DIV align="justify"><h2>XML</h2>
+            <DIV align="left"><h2>XML</h2>
               <p>In order to display the desired object in the XML hierarchy, the path to it needs to be filled out correctly. 
               XML essentially consists of dictionaries and arrays. Dictionaries are shown as { } while arrays are represented as 
               ( ). The path to your desired object will always start with the top object and work its way down to the desired object.</p>
@@ -17,8 +17,9 @@
                 with a comma.</p>
                 <h2>Example</h2>
                 <p>entry,[0],title</p>
-                <p>The url https://itunes.apple.com/us/rss/topsongs/limit=10/ returns XML of the top 10 songs in iTunes. By using 
-                "entry,[0],title"</p>
+                <p>The url https://itunes.apple.com/us/rss/topsongs/limit=10/ returns XML of the top 10 songs in iTunes. By 
+                    using "entry,[0],title", the path goes from the root dictionairy to the entry dictionairy, selects the 
+                first object in the array and then the string with the key name = title.</p>
                 <h3>More help</h3>                                   
               <p>Please email support</p>
             </DIV>
