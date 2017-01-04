@@ -1,1 +1,30 @@
-PLIST
+<HTML>
+<HEAD>
+    <TITLE>PLIST</TITLE>
+    <META http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+</HEAD>
+<BODY bgcolor="77adff">
+    <font Size=10 color="000000">
+        <DIV id="center-content">
+            <DIV align="left"><h2>PLIST</h2>
+              <p>In order to display the desired object in the PLIST hierarchy, the path to it needs to be filled out correctly.
+                We developed a simple notation. 
+              XML essentially consists of dictionaries and arrays. Dictionaries are shown as { } while arrays are represented as 
+              ( ). The path to your desired object will always start with the top object and work its way down to the desired object.</p>
+                <h2>Notation</h2>
+                <p>If your current object is a dictionairy, use the key (name) associated with your next object. If your current object
+                is an array, use the [x] notation to communciate which object in the array should be used to continue the path. [0] is 
+                the first object in the array, [4] is the fifth object, [last] is the last object in the array. Delimit your objects 
+                with a comma. The final object should be a string but can be a date or similar. Make sure NOT to end with a comma.</p>
+                <h2>Example</h2>
+                <p>entry,[0],title</p>
+                <p>The url https://itunes.apple.com/us/rss/topsongs/limit=10/ returns XML of the top 10 songs in iTunes. By 
+                    using "entry,[0],title", the path goes from the root dictionairy to the array with the keyname = entry, 
+                    selects the first object in the array and then the string with the key name = title.</p>
+                <h3>More help</h3>                                   
+              <p>Please email support with the button top right.</p>
+            </DIV>
+      </DIV>
+    </font>
+</BODY>
+</HTML>
