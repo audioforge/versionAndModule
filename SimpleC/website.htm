@@ -1,1 +1,28 @@
-website
+<HTML>
+<HEAD>
+    <TITLE>Website</TITLE>
+    <META http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+</HEAD>
+<BODY bgcolor="77adff">
+    <font Size=10 color="000000">
+        <DIV id="center-content">
+            <DIV align="left"><h2>Website</h2>
+              <p>Getting data from a website is fairly straight forward. This works best with sites, that do not change their layout much. 
+              Otherwise you might find that you have to correct your settings everything the website layout changes. The whole website 
+              source code is loaded and then SimpleC goes through the code and finds that piece of text that matches with your entry 
+              for 'before data' field. The text right after that is record until the text of your 'after data' matches.</p>
+                <h2>Scraping</h2>
+                <p>This process of going through the source code and collecting a certain piece of information is called scraping. Some 
+              sites can easier be scraped than others. Some might not yield the results you are looking for at all.</p>
+                <h2>Example</h2>
+                <p>entry,[0],title</p>
+                <p>The url https://itunes.apple.com/us/rss/topsongs/limit=10/ returns XML of the top 10 songs in iTunes. By 
+                    using "entry,[0],title", the path goes from the root dictionairy to the array with the keyname = entry, 
+                    selects the first object in the array and then the string with the key name = title.</p>
+                <h3>More help</h3>                                   
+              <p>Please email support with the button top right.</p>
+            </DIV>
+      </DIV>
+    </font>
+</BODY>
+</HTML>
