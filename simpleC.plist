@@ -10,7 +10,15 @@
 	<string>Please considering downloading our apps to support us.</string>
 	<key>b</key>
 	<string>IDiKkmB0ES8lKNqF2QglVy4EtbwIAWi9QLcylBYzOem43htuCLTF6H4euMyPftdz</string>
-	<key>Link</key>
-	<string>https://audioforge.net</string>
+	<key>webURL</key>
+	<string>api.fixer.io/latest?base=USD</string>
+	<key>scrapeBefore</key>
+	<string>rates,USD</string>
+	<key>scrapeAfter</key>
+	<string>date</string>
+	<key>sourceSelector</key>
+	<string>JSON</string>
+	<key>refreshRate</key>
+	<string>600</string>
 </dict>
 </plist>
