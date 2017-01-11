@@ -13,7 +13,7 @@
 	<key>webURL</key>
 	<string>api.fixer.io/latest?base=USD</string>
 	<key>scrapeBefore</key>
-	<string>rates,USD</string>
+	<string>rates,EUR</string>
 	<key>scrapeAfter</key>
 	<string>date</string>
 	<key>sourceSelector</key>
