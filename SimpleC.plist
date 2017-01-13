@@ -5,8 +5,7 @@
 	<key>update</key>
 	<date>2017-01-09T17:51:36Z</date>
 	<key>news</key>
-	<string>Thank you for supporting Simple Complications. 
-		Let us know what you would like to have added to make your live easier keeping up-to-date.</string>
+	<string>Thank you for supporting Simple Complications. Let us know what you would like to have added to make your live easier keeping up-to-date.</string>
 	<key>webURL</key>
 	<string>api.fixer.io/latest?base=USD</string>
 	<key>scrapeBefore</key>
