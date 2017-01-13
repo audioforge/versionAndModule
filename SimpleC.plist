@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>update</key>
+	<date>2017-01-09T17:51:36Z</date>
+	<key>news</key>
+	<string>Thank you for supporting Simple Complications. We are trying to build the app up to serve the need of having the latest information that is relevant to you avaiable on a glance.</string>
+	<key>webURL</key>
+	<string>api.fixer.io/latest?base=USD</string>
+	<key>scrapeBefore</key>
+	<string>rates,EUR</string>
+	<key>scrapeAfter</key>
+	<string>date</string>
+	<key>sourceSelector</key>
+	<string>JSON</string>
+	<key>refreshRate</key>
+	<string>600</string>
+</dict>
+</plist>
