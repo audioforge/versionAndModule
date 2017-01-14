@@ -94,7 +94,7 @@
 		<key>scrapeBefore</key>
 		<string>entry,[0],title</string>
 		<key>scrapeAfter</key>
-		<string>entry,[0],published</string>
+		<string>entry,[0],author,name</string>
 		<key>sourceSelector</key>
 		<string>XML</string>
 		<key>refreshRate</key>
