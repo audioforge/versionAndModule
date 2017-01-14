@@ -38,7 +38,7 @@
 		<key>scrapeBefore</key>
 		<string>channel,item,[0],title</string>
 		<key>scrapeAfter</key>
-		<string>entry,[0],publishedchannel,item,[0],pubDate</string>
+		<string>channel,item,[0],category</string>
 		<key>sourceSelector</key>
 		<string>XML</string>
 		<key>refreshRate</key>
