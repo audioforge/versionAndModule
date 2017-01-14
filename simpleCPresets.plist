@@ -34,7 +34,7 @@
 		<key>webURL</key>
 		<string>sports.yahoo.com/nhl/teams/van/rss.xml</string>
 		<key>title</key>
-		<string>ESPN News</string>
+		<string>NHL Canucks News</string>
 		<key>scrapeBefore</key>
 		<string>channel,item,[0],title</string>
 		<key>scrapeAfter</key>
