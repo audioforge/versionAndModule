@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Date</key>
-	<date>2017-01-23T17:51:36Z</date>
+	<date>2017-01-24T17:51:36Z</date>
 	<key>Title</key>
 	<string>Switch to EASe 3</string>
 	<key>Message</key>
@@ -13,8 +13,8 @@ This allows us to focus on the PRO needs and enable new features and enhancement
 The current EASe PRO app you are using will continue to work but will not be updated anymore. 
 So there is no rush to switch over but be aware that there are no updates coming for this app anymore.</string>
 	<key>showLink</key>
-	<string>NO</string>
+	<string>YES</string>
 	<key>Link</key>
-	<string>https://audioforge.net</string>
+	<string>https://itunes.apple.com/us/app/ease-list…604387?ls=1&mt=8</string>
 </dict>
 </plist>
