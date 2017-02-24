@@ -8,6 +8,6 @@
 	<string>Welcome to CloudEQ</string>
 	<key>Message</key>
 	<string>CloudEQ allows you to stream audio from Dropbox and SoundCloud. 
-  If you want to stream from other sources, please contact us via the support button if you have any questions.</string>
+  If you want to stream from other sources, please contact us via the support button.</string>
 </dict>
 </plist>
