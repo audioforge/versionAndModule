@@ -3,16 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>Date</key>
-	<date>2017-01-15T17:51:36Z</date>
+	<date>2017-02-26T17:51:36Z</date>
 	<key>Title</key>
-	<string>Welcome to EASe 3.0</string>
+	<string>New Modules are coming</string>
 	<key>Message</key>
-	<string>Please familiarize yourself with the new look of EASe.
-  While the interface has changed, we also did some tweaks under the hood and have created an updated audio engine.
-  You can now stream all music modules without needing purchase them separatly by signing up for the PRO subscription.
-  Or use the legacy subscritpion so you can listen to your music modules.
+	<string>We are working on new music modules. They might show up in the list of modules but they are not ready yet.
+		So you cannot purchase nor stream them just yet.
   Please contact support if you have any questions.
-  Remember you can transfer your music modules from the other EASe apps to the new EASe. 
   We are still working on getting a guided mode up and running.</string>
 </dict>
 </plist>
