@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Adult Rock</key>
+	<array>
+		<string>Rock</string>
+	</array>
+	<key>Hip Hop/Rap</key>
+	<array>
+		<string>Hip</string>
+		<string>Hop</string>
+		<string>Rap</string>
+	</array>
+	<key>Adult Contemporary</key>
+	<array>
+		<string>Pop</string>
+		<string>Pop Song</string>
+	</array>
+</dict>
+</plist>
