@@ -2,49 +2,49 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>EQUALIZERYOUTH</key>
+	<key>EQUALIZERYOUTH</key>
 	<array>
 		<string>Youth</string>
 		<string>Kid</string>
 	</array>
-	<key>EQUALIZERTALK</key>
+	<key>EQUALIZERTALK</key>
 	<array>
 		<string>Talk</string>
 	</array>
-	<key>EQUALIZERSPORTS</key>
+	<key>EQUALIZERSPORTS</key>
 	<array>
 		<string>Sport</string>
 	</array>
-	<key>EQUALIZERSPLU</key>
+	<key>EQUALIZERSPLU</key>
 	<array>
 		<string>Latino Urban</string>
 		<string>Urbano latino</string>
 		<string>Salsa</string>
 	</array>
-	<key>EQUALIZERSPC</key>
+	<key>EQUALIZERSPC</key>
 	<array>
 		<string>Flamenco</string>
 		<string>Latin</string>
 		<string>Spanish</string>
 		<string>español</string>
 	</array>
-	<key>EQUALIZERTRACKS</key>
+	<key>EQUALIZERTRACKS</key>
 	<array>
 		<string>Soundtrack</string>
 		<string>Cinema</string>
 		<string>Movie</string>
 	</array>
-	<key>EQUALIZERNEWS</key>
+	<key>EQUALIZERNEWS</key>
 	<array>
 		<string>News</string>
 	</array>
-	<key>EQUALIZERAMBIENT</key>
+	<key>EQUALIZERAMBIENT</key>
 	<array>
 		<string>Downtempo</string>
 		<string>Ambient</string>
 		<string>New Age</string>
 	</array>
-	<key>EQUALIZERMETAL</key>
+	<key>EQUALIZERMETAL</key>
 	<array>
 		<string>Punk</string>
 		<string>Metal</string>
@@ -52,21 +52,21 @@
 		<string>Hardrock</string>
 		<string>Hard Rock</string>
 	</array>
-	<key>EQUALIZERJAZZ</key>
+	<key>EQUALIZERJAZZ</key>
 	<array>
 		<string>Jazz</string>
 	</array>
-	<key>EQUALIZERGOSPEL</key>
+	<key>EQUALIZERGOSPEL</key>
 	<array>
 		<string>Gospel</string>
 	</array>
-	<key>EQUALIZERFOLK</key>
+	<key>EQUALIZERFOLK</key>
 	<array>
 		<string>Folk</string>
 		<string>Americana</string>
 		<string>Bluegrass</string>
 	</array>
-	<key>EQUALIZERDANCE</key>
+	<key>EQUALIZERDANCE</key>
 	<array>
 		<string>Club</string>
 		<string>Dubstep</string>
@@ -76,40 +76,40 @@
 		<string>Electronic</string>
 		<string>Chill</string>
 	</array>
-	<key>EQUALIZERCOUNTRY</key>
+	<key>EQUALIZERCOUNTRY</key>
 	<array>
 		<string>Country</string>
 	</array>
-	<key>EQUALIZERCOMEDY</key>
+	<key>EQUALIZERCOMEDY</key>
 	<array>
 		<string>Comedy</string>
 		<string>Fun</string>
 	</array>
-	<key>EQUALIZERCLASSICAL</key>
+	<key>EQUALIZERCLASSICAL</key>
 	<array>
 		<string>Classical</string>
 	</array>
-	<key>EQUALIZERBLUES</key>
+	<key>EQUALIZERBLUES</key>
 	<array>
 		<string>Blues</string>
 	</array>
-	<key>EQUALIZERALTROCK</key>
+	<key>EQUALIZERALTROCK</key>
 	<array>
 		<string>Indie</string>
 		<string>Alternative</string>
 		<string>Modern Rock</string>
 	</array>
-	<key>EQUALIZERAC</key>
+	<key>EQUALIZERAC</key>
 	<array>
 		<string>Easy</string>
 		<string>Pop</string>
 		<string>Acoustic</string>
 	</array>
-	<key>EQUALIZERAROCKEQUALIZERAROCK</key>
+	<key>EQUALIZERAROCK</key>
 	<array>
 		<string>Rock</string>
 	</array>
-	<key>EQUALIZERRAP</key>
+	<key>EQUALIZERRAP</key>
 	<array>
 		<string>Soul</string>
 		<string>R&amp;B</string>
