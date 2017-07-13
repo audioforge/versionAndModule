@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>La radio mas innovadora del momento con los mejores temas. Somos extrovertidos nos encanta hacer locuras y sobretodo hacer que los dem&amp;#xe1;s se diviertan escuch&amp;#xe1;ndonos. Estamos esperando a que te unas a la diversi&amp;#xf3;n que te unas al ritmo de zonafly al rit</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>100%Dubstep</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/100Dubstep</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Liquidsoap Radio!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>4Play.fm - The world's best club music (192kbps)</string>
+		<key>url</key>
+		<string>http://radio.4play.fm:80/192.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>desc</key>
+		<string>Liquidsoap Radio!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>4Play.fm - The world's best club music (24kbps)</string>
+		<key>url</key>
+		<string>http://radio.4play.fm:80/24.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>80</string>
+		<key>desc</key>
+		<string>Liquidsoap Radio!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>4Play.fm - The world's best club music (80kbps)</string>
+		<key>url</key>
+		<string>http://radio.4play.fm:80/80.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>On Air DJ Toma Retroking</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>:::{On Air} ** DJ MusicHits ** {MusicHits DJ Party}:::</string>
+		<key>url</key>
+		<string>http://94.199.181.143:7310/live.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>First Dram&amp;Bass Radio from Lviv by GuRu</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Acid-Radio.com DramNBass Radio from Lviv</string>
+		<key>url</key>
+		<string>http://radio.acid-radio.com:88/128k</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>320</string>
+		<key>desc</key>
+		<string>A music hub from Zuerich</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Audioasyl</string>
+		<key>url</key>
+		<string>http://stream.nocloud.ch:80/audioasyl</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>A music hub from Zuerich</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Audioasyl</string>
+		<key>url</key>
+		<string>http://stream.nocloud.ch:80/audioasyl_low</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Bassjunkees.com - Drum &amp; Bass, Oldskool, Jungle &amp; Dubstep 24/7 - Once Locked Addicted for Life!</string>
+		<key>url</key>
+		<string>http://relay1.oxyradio.net:8000/bassjunkees.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Bassjunkees.com - Drum &amp; Bass, Oldskool, Jungle &amp; Dubstep 24/7 - Once Locked Addicted for Life!</string>
+		<key>url</key>
+		<string>http://ducks.and.ponies.listen.bassjunkees.com:80/bjr_128.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Non-stop mixes from the ChastFM crew!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ChastFM 24/7 Radio</string>
+		<key>url</key>
+		<string>http://31.171.131.75:8000/fallback</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Cross Contamination Radio</string>
+		<key>url</key>
+		<string>http://lin3.ash.fast-serv.com:6060/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>288169</string>
+		<key>desc</key>
+		<string>Recordings of live acts from the digital mayhem sound system. MP3 version.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Digital Mayhem Archive Radio (mp3)</string>
+		<key>url</key>
+		<string>http://gnr.spahan.ch:8000/dmp.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>DnB Ufa Society Radiostation</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>DnB Ufa Society Radiostation</string>
+		<key>url</key>
+		<string>http://host.fm:7777/15559_default</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>DubTerrain.net</string>
+		<key>url</key>
+		<string>http://ic2255.c471.fast-serv.com:80/listen_lo</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Dubstep Radio powered by FastServ.com</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>DubTerrain.net</string>
+		<key>url</key>
+		<string>http://ic2255.c471.fast-serv.com:80/autodj</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>480</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Dublovers.FM</string>
+		<key>url</key>
+		<string>http://ml0.t4e.dj:80/dublovers_low.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dublovers.FM</string>
+		<key>url</key>
+		<string>http://ml0.t4e.dj:80/dublovers_high.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Dublovers.FM</string>
+		<key>url</key>
+		<string>http://ml0.t4e.dj:80/dublovers_high.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>(Dubstep) Uturn Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dubstep) (Uturn Radio</string>
+		<key>url</key>
+		<string>http://listen-eu.uturnradio.com:80/dubstep</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>(Dubstep) Uturn Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dubstep) (Uturn Radio</string>
+		<key>url</key>
+		<string>http://listen-us.uturnradio.com:80/dubstep_64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Dubstepside Radio radio devoted entirely to the sounds grime dubstep drum &amp;amp; bass underground style and 100% dubz a radio Wobble bass sounds to make you vibrate  dubz.  http://www.dubsideradio.com  find on dubstepsideradio mix and albums for free down</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dubstepsideradio</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/dubstepsideradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Dubstepside Radio radio devoted entirely to the sounds grime dubstep drum &amp;amp; bass underground style and 100% dubz a radio Wobble bass sounds to make you vibrate  dubz.  http://www.dubsideradio.com  find on dubstepsideradio mix and albums for free down</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dubstepsideradio</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/dubstepsideradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>(Electro House) Uturn Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Electro House) (Uturn Radio</string>
+		<key>url</key>
+		<string>http://listen-ca.uturnradio.com:80/electro_house</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>(Electro House) Uturn Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Electro House) (Uturn Radio</string>
+		<key>url</key>
+		<string>http://listen-ca.uturnradio.com:80/electro_house_64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>(Electro House) Uturn Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Electro House) (UturnRadio</string>
+		<key>url</key>
+		<string>http://play.uturnradio.com:80/electro_house</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Drum and Bass internet radio streaming all sub-genres. Live Dj's - 24/7 Streaming - Chatroom - Download Archives - Video Feeds - Forums - Gallery - Games - Mobiles Supported</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>EmergencyFM</string>
+		<key>url</key>
+		<string>http://67.159.28.74:8799/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Lo mejor del electropop lo escuchas solo aqui en technomania.hostoi.com</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Freeze05</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/freeze-05</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>My station description</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>NOT FM EXTRA  24 / 7 RADIO</string>
+		<key>url</key>
+		<string>http://listen.moeradio.ru:10000/notfmradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>My station description</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>NOT FM Extra</string>
+		<key>url</key>
+		<string>http://host.fm:7777/2571_default</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>R1 Dubstep promoting best of new electronic music  including genre dubstep drum&amp;amp;bass glitch hop electro house and all other styles of EDM.   Site R1 http://goo.gl/Nw8qc  Radio Fan Page: http://goo.gl/98LwY</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>R1Dubstep</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/R1Dubstep</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>320</string>
+		<key>desc</key>
+		<string>UFO Dancefloor Live 320Kbit</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>UFO Club LIVE</string>
+		<key>url</key>
+		<string>http://stream.ufostation.ru:80/UFO-320-2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>UFO Dancefloor Live 128Kbit</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>UFO Club LIVE</string>
+		<key>url</key>
+		<string>http://stream.ufostation.ru:80/UFO-128-2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>UFO Dancefloor Live 96Kbit</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>UFO Club LIVE</string>
+		<key>url</key>
+		<string>http://stream.ufostation.ru:80/UFO-96-2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>live128.UFOstation.ru MP3 128 Kbps</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>UFO Station</string>
+		<key>url</key>
+		<string>http://stream.ufostation.ru:80/UFO-128</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>320</string>
+		<key>desc</key>
+		<string>live320.UFOstation.ru MP3 320 Kbps</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>UFO Station</string>
+		<key>url</key>
+		<string>http://stream.ufostation.ru:80/UFO-320</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>live96.UFOstation.ru MP3 96 Kbps</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>UFO Station</string>
+		<key>url</key>
+		<string>http://stream.ufostation.ru:80/UFO-96</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radionomy Radio create your own at http://www.radionomy.com</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>WobbleveryDay</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/Wobblevery-Day</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>256</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Yet Another Dubstep Stream</string>
+		<key>url</key>
+		<string>http://kalujny.com:8000/dubstep:8000/dubstep</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>256</string>
+		<key>desc</key>
+		<string>Ð Ð°Ð´Ð¸Ð¾ Drum Theatre - ÑÐµÐ°ÑÑ ÑÐ²Ð¾ÐµÐ¹ Ð¶Ð¸Ð·Ð½Ð¸!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Радио Drum Theatre</string>
+		<key>url</key>
+		<string>http://host.fm:7777/16554_DT-Radio</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AddictedToRadio  Big Band Cantina</string>
+		<key>url</key>
+		<string>http://wms-13.streamsrus.com:16530</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>LOW BANDWIDTH STREAM</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Big Blue Swing.com</string>
+		<key>url</key>
+		<string>http://radio.BigBlueSwing.com:8000/bigblueswing-32.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Playing music for  Lindy Hop,  Charleston,  Balboa,  Swing, and  Blues</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Big Blue Swing.com</string>
+		<key>url</key>
+		<string>http://radio.BigBlueSwing.com:8000/bigblueswing-64.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Jazz Swing Radio stream from publicdomainproject.org (former Swiss Internet Radio)</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Public Domain Jazz - Swiss Internet Radio</string>
+		<key>url</key>
+		<string>http://relay.publicdomainproject.org:80/jazz_swing.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Big Band</string>
+		<key>url</key>
+		<string>http://79.120.39.202:9023/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RadioCrazy - Jazz</string>
+		<key>url</key>
+		<string>http://friends-of-radius.ethz.ch:80/radiocrazy-jazz.mp3</string>
+	</dict>
+</array>
+</plist>

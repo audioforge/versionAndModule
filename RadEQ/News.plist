@@ -1,0 +1,2674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Entertainment-News-Music</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>** Dreamcatch-Radio **</string>
+		<key>url</key>
+		<string>http://stream.dreamcatch-radio.net:10000/audio.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>256</string>
+		<key>encoding</key>
+		<string>video/nsv</string>
+		<key>name</key>
+		<string>** Dreamcatch-Radio **</string>
+		<key>url</key>
+		<string>http://stream.dreamcatch-radio.net:10000/video.nsv</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>100.9 myFM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/CIYM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>50</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>102.3 The Wave</string>
+		<key>url</key>
+		<string>http://CKWV.streamon.fm:8000/CKWV-48k.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Kebanggan Kediri Raya</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>105.7 Andika FM</string>
+		<key>url</key>
+		<string>http://cast5.onlivestreaming.net:1057/andikafm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>12vda webradio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>12vda webradio (www.12vda.eu)</string>
+		<key>url</key>
+		<string>http://stream.martini-multimedia.net:9009/12vda.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>94.1 myFM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/CKZM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>94.2 RGS FM PONOROGO</string>
+		<key>url</key>
+		<string>http://cast5.onlivestreaming.net:9420/aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>KnoxTalkRadio</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>94.3FM WNFZ</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/wnfz-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>95.5 myFM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/CIYN</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>ABC News Radio 103.9 FM</string>
+		<key>url</key>
+		<string>http://shoutmedia.abc.net.au:10324/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>ABC Radio 660 AM</string>
+		<key>url</key>
+		<string>http://2523.live.streamtheworld.com:80/NOTIRADIOAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>ABC Radio Australia Asia Service</string>
+		<key>url</key>
+		<string>http://shoutmedia.abc.net.au:10370/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>desc</key>
+		<string>HUB TELECOM MEDIA</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>ADN Radio 90.7</string>
+		<key>url</key>
+		<string>http://lortel28.lorini.net:11000/ADN</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>20</string>
+		<key>desc</key>
+		<string>News Talk Sports</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>AM 680 WOGO</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/wogo-am2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>News Talk Sports</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>AM 680 WOGO</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/wogo-am</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>News &amp; Commentary</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>APS Radio News</string>
+		<key>url</key>
+		<string>http://208.115.231.11:8000/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Progressive Talk</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Air Progressive</string>
+		<key>url</key>
+		<string>http://airprogressive.org:8000/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Alex Jones - Infowars.com</string>
+		<key>url</key>
+		<string>http://208.67.5.202:8000/infowars</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>IslamiCity Radio: Alajazeera TV  Arabic</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>AljazeeraArabic</string>
+		<key>url</key>
+		<string>http://66.226.10.51:8000/AljazeeraArabic</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>IslamiCity Radio: - AlJazeera English</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>AljazeeraEnglish</string>
+		<key>url</key>
+		<string>http://66.226.10.51:8000/AljazeeraEnglish</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>America Tonight: Sun-Fri 11:00pm-3:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>America Tonight - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/america-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>America Tonight: Sun-Fri 11:00pm-3:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>America Tonight - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/america-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>americasHealthcareadvocate: Sat 10:00am-11:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Americas Healthcare Advocate - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/americasHealthcareadvocate-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Auto World: Sun 4:00pm-7:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Auto World - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/autoWorld-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Backyard Radio</string>
+		<key>url</key>
+		<string>http://s2.stationplaylist.com:8180</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>20</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Band News FM Belo Horizonte (Minas Gerais)</string>
+		<key>url</key>
+		<string>http://5133.live.streamtheworld.com:80/NEWSBHZAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>20</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Band News FM Brasilia</string>
+		<key>url</key>
+		<string>http://5923.live.streamtheworld.com:80/NEWSBSBAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>20</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Band News FM Curitiba</string>
+		<key>url</key>
+		<string>http://1351.live.streamtheworld.com:80/NEWSCWBAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>20</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Band News FM Porto Alegre</string>
+		<key>url</key>
+		<string>http://3353.live.streamtheworld.com:80/NEWSPOAAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>20</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Band News FM Rio de Janeiro</string>
+		<key>url</key>
+		<string>http://5923.live.streamtheworld.com:80/NEWSRIOAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>20</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Band News FM Salvador</string>
+		<key>url</key>
+		<string>http://5923.live.streamtheworld.com:80/NEWSSALAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>20</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Band News FM Sao Paulo</string>
+		<key>url</key>
+		<string>http://5133.live.streamtheworld.com:80/NEWSSAOAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Building America: Sun 2:00pm-3:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Building America - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/buildingAmerica-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Building America: Sun 2:00pm-3:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Building America - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/buildingAmerica-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Voice of the Shuswap</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>CKVS-FM</string>
+		<key>url</key>
+		<string>http://s2.stationplaylist.com:9240/listen.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Cette WebRadio est bas&amp;#xe9;e sur diff&amp;#xe9;rents styles musicaux  des Ann&amp;#xe9;es 60 &amp;#xe0; Aujourd hui</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CherryRadiooff</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/CherryRadiooff</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Common Sences Club: Mon-Fri 11:00am-2:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Common Sences Club - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/commonSenseClub-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Common Sences Club: Mon-Fri 11:00am-2:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Common Sences Club - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/commonSenseClub-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Culture Shocks: Mon-Fri 3:00pm-4:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Culture Shocks - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/cultureShocks-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Culture Shocks: Mon-Fri 3:00pm-4:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Culture Shocks - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/cultureShocks-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Dead Doctors Don't Lie: Mon-Fri 2:00pm-3:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dead Doctors Dont Lie - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/deadDoctors-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Dead Doctors Don't Lie: Mon-Fri 2:00pm-3:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dead Doctors Dont Lie - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/deadDoctors-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>desc</key>
+		<string>RADIO DEL MAR HD</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Del Mar</string>
+		<key>url</key>
+		<string>http://65.254.42.234:10020/vivo</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>24/7 Alternative Talk Radio - News, History, UFOs, Exopolitics, Mysteries &amp; Esoterica.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Deprogrammed Radio</string>
+		<key>url</key>
+		<string>http://37.59.43.223:8000/deprogrammedradio.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>24/7 Alternative Talk Radio - News, History, UFOs, Exopolitics, Mysteries &amp; Esoterica.</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Deprogrammed Radio</string>
+		<key>url</key>
+		<string>http://37.59.43.223:8000/deprogrammedradio.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Doctors Orders Sat 8:00am-9:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Doctors Orders - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/doctorsOrders-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Doctors Orders Sat 8:00am-9:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Doctors Orders - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/doctorsOrders-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Dr. Asa OnCall: Mon-Fri 7:00pm-11:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dr. Asa OnCall - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/drAsaOnCall-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Dr. Asa OnCall: Mon-Fri 7:00pm-11:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dr. Asa OnCall - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/drAsaOnCall-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Erskine Overnight: Sat 11:00pm-Sun 2:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Erskine Overnight - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/erskine-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Erskine Overnight: Sat 11:00pm-Sun 2:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Erskine Overnight - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/erskine-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Fercuencia Alterna Radio F.A.R. es un proyecto independiente que busca difundir nuevos g&amp;#xe9;neros musicales asi como brindar un espacio para todas las personas que buscan un punto de opinion libre.  F.A.R. busca crear una comunidad donde poder brindar e</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>FrecuenciaAlternaRadio</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/FrecuenciaAlternaRadio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Free Talk Live: Mon-Sat 6:00pm-9:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Free Talk Live - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/freeTalk-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Free Talk Live: Mon-Sat 6:00pm-9:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Free Talk Live - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/freeTalk-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>NPR news and talk from public radio station WGLT at Illinois State University</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>GLT News &amp; Ideas</string>
+		<key>url</key>
+		<string>http://wgltradio.ilstu.edu:8000/wgltmain.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Genesis Communications Network: Channel 1</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Genesis Communications Network: Channel 1 - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/channel1-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Genesis Communications Network: Channel 1</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Genesis Communications Network: Channel 1 - High Bitrate</string>
+		<key>url</key>
+		<string>http://216.218.230.154:80/channel5-lo.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Genesis Communications Network: Channel 1</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Genesis Communications Network: Channel 1 - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/channel1-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Genesis Communications Network: Channel 2</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Genesis Communications Network: Channel 2 - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/channel2-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Genesis Communications Network: Channel 1</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Genesis Communications Network: Channel 2 - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/channel2-lo.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Genesis Communications Network: Channel 2</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Genesis Communications Network: Channel 2 - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/channel2-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Genesis Communications Network: Channel 5</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Genesis Communications Network: Channel 5 - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/channel5-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Genesis Communications Network: Channel 5</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Genesis Communications Network: Channel 5 - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/channel5-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Genesis Communications Network: Channel 1</string>
+		<key>encoding</key>
+		<string>data</string>
+		<key>name</key>
+		<string>Genesis Communications Network: Channel 6 - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/channel6-lo.ogg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Genesis Communications Network: Channel 1</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Genesis Communications Network: Channel 6 - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/channel6-hi.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Good Day: Mon-Fri 5:00am-9:00am and Sat 5:00am-8:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Good Day - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/goodDay-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Good Day: Mon-Fri 5:00am-9:00am and Sat 5:00am-8:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Good Day - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/goodDay-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>HR1 (Prvi Program)</string>
+		<key>url</key>
+		<string>http://4633.live.streamtheworld.com:80/PROGRAM1AAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>HRT - Glas Hrvatske</string>
+		<key>url</key>
+		<string>http://5243.live.streamtheworld.com:80/VOICEOFCROATIAAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>HRT - Radio Dubrovnik</string>
+		<key>url</key>
+		<string>http://5243.live.streamtheworld.com:80/DUBROVNIKAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Herb Talk: Sat 6:00am-7:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Herb Talk - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/herb-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Easy Organic Gardener: Sunday 11:00am-12:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Herb Talk - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/herb-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Hitradio FM Plus</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Hitradio FM Plus</string>
+		<key>url</key>
+		<string>http://ice.abradio.cz:80/fmplus128.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Home Talk: Sat 3:00pm-6:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Home Talk - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/home-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Home Talk: Sat 3:00pm-6:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Home Talk - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/home-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Homeland Security Radio with Roger Fredinburg</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Homeland Security Radio - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/homelandSecurity-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Regional Station - Piemonte, Italy - Local news service, pop-rock music</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Homeland Security Radio - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/homelandSecurity-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Jim Brown's Common Sense: Sun 9:00am-11:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Jim Brown's Common Sense - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/jimBrownCommonSense-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Jim Brown's Common Sense: Sun 9:00am-11:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Jim Brown's Common Sense - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/jimBrownCommonSense-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Josh Tolley Show: Mon-Fri 9:00am-11:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Josh Tolley - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/joshTolley-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Josh Tolley Show: Mon-Fri 9:00am-11:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Josh Tolley Show - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/joshTolley-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>KBSX 91.5</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>KBSX 91.5</string>
+		<key>url</key>
+		<string>http://66.193.105.58:8000/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>KCAA 1050 AM</string>
+		<key>url</key>
+		<string>http://stream.kcaastreaming.com:8000/kcaa.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Newstalk</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>KCNR 1460</string>
+		<key>url</key>
+		<string>http://kcnr1460.com:8000/kcnr1460.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>54</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>KCPW Radio, Salt Lake City, Utah</string>
+		<key>url</key>
+		<string>http://stream.xmission.com:8000/kcpw</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40328</string>
+		<key>desc</key>
+		<string>KGED 1680 AM</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>KGED 1680 AM</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/kged-am</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KNZZ News Talk Radio 1100 AM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/KNZZAMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>87</string>
+		<key>desc</key>
+		<string>kpcw</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>KPCW Radio, Park City, Utah</string>
+		<key>url</key>
+		<string>http://stream.xmission.com:8000/kpcw</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KRVN 880 AM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/KRVNAMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>desc</key>
+		<string>Ozarks Public Radio</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>KSMU</string>
+		<key>url</key>
+		<string>http://war.str3am.com:7090/ksmu1</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>desc</key>
+		<string>Ozarks Public Radio</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>KSMU HD2</string>
+		<key>url</key>
+		<string>http://war.str3am.com:7110/ksmu2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>News Talk 92</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>KSRM 920AM</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/ksrm-am</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>desc</key>
+		<string>KTCH 1590-AM</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KTCH AM 1590</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/ktch-am</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KXLY Newsradio 920 AM</string>
+		<key>url</key>
+		<string>http://2513.live.streamtheworld.com:80/KXLYAMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Kevin McCullough: Mon-Fri 5:00pm-6:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Kevin McCullough - High Bitrate</string>
+		<key>url</key>
+		<string>http://216.218.230.154:80/kevinMcCullough-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>KevinMcCullough: Mon-Fri 5:00pm-6:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Kevin McCullough - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/kevinMcCullough-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>News</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Kool Hits 1057 NewsChannel</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/wlgc-am</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Local Sports1</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Kool Hits Sports1</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/wlgcsports</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>desc</key>
+		<string>Kossuth Rádió (aac+)</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Kossuth Rádió (aac+)</string>
+		<key>url</key>
+		<string>http://stream002.radio.hu:80/mr1.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Kossuth Rádió (mp3)</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Kossuth Rádió (mp3)</string>
+		<key>url</key>
+		<string>http://stream002.radio.hu:80/mr1.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>desc</key>
+		<string>Kossuth Rádió (ogg)</string>
+		<key>encoding</key>
+		<string>data</string>
+		<key>name</key>
+		<string>Kossuth Rádió (ogg)</string>
+		<key>url</key>
+		<string>http://stream002.radio.hu:80/mr1.ogg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>KrisAnne Hall Show: Sun 3:00am-4:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>KrisAnne Hall Show - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/krisAnne-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>KrisAnne Hall Show: Sun 3:00pm-4:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>KrisAnne Hall Show - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/krisAnne-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>La 1260  AM</string>
+		<key>url</key>
+		<string>http://2503.live.streamtheworld.com:443/XELAMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>1070 AM</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>La Voz del Tomebamba</string>
+		<key>url</key>
+		<string>http://184.154.173.148:8074/lavozdeltomebamba</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Lora Muenchen 92,4</string>
+		<key>url</key>
+		<string>http://live.lora924.de:8000/lora-hq.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Lora Muenchen 92,4 Livestream</string>
+		<key>url</key>
+		<string>http://live.lora924.de:8000/loramp3.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Mike Siegel Show: Mon-Fri 9:00pm-12:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Mike Siegel Show - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/mikeSiegel-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Mike Siegel Show: Mon-Fri 9:00pm-12:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Mike Siegel Show - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/mikeSiegel-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>MyFM 104.9</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net:80/CIMY</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>MyFM 88.7</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/CKYM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Renfrew/Arnprior</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>MyFM 96.1</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/CHMY</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>News Radio 950 KWOS</string>
+		<key>url</key>
+		<string>http://in.icy3.abacast.com/zimmer_mid_mo-kwosamaac-48</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>The Best In Talk Radio</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>NewsTalk AM 1270 - WYXC</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/wyxc-am</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Newsradio 960 WSBT AM</string>
+		<key>url</key>
+		<string>http://out2.cmn.icy.abacast.com/wsbtam-wsbtam-128</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>News and Talk programs from NPR, the BBC and Michigan State University</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Newstalk AM 870 WKAR East Lansing, MI</string>
+		<key>url</key>
+		<string>http://mozart.wkar.msu.edu:80/wkar-am-mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Onda Cero online desde cualquier lugar y con el dispositivo que prefieras.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Onda Cero Noroeste</string>
+		<key>url</key>
+		<string>http://stream.ondaceronoroeste.es:80/ondacero-64.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>PR Radio Olsztyn</string>
+		<key>url</key>
+		<string>http://213.73.25.178:7055</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>desc</key>
+		<string>Parlamenti adasok (aac+)</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Parlamenti adások (aac+)</string>
+		<key>url</key>
+		<string>http://stream002.radio.hu:80/mr5.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>desc</key>
+		<string>Parlamenti adasok (mp3)</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Parlamenti adások (mp3)</string>
+		<key>url</key>
+		<string>http://stream002.radio.hu:80/mr5.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>desc</key>
+		<string>Parlamenti adasok (ogg)</string>
+		<key>encoding</key>
+		<string>data</string>
+		<key>name</key>
+		<string>Parlamenti adások (ogg)</string>
+		<key>url</key>
+		<string>http://stream002.radio.hu:80/mr5.ogg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>RGMA Barangay 92.9 FM Super Radyo</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>RGMA Super Radyo Kalibo</string>
+		<key>url</key>
+		<string>http://ss2.amfmph.com:82/super-radyo-kalibo</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio Drenthe</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RTV Drenthe</string>
+		<key>url</key>
+		<string>http://91.208.60.77:9001/RTVRadio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Raadio Kuku</string>
+		<key>url</key>
+		<string>http://217.146.71.24:80/kuku.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Raadio Kuku</string>
+		<key>url</key>
+		<string>http://217.146.71.24:80/kuku64.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>256</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Raadio Kuku</string>
+		<key>url</key>
+		<string>http://217.146.71.24:80/kuku_high.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>desc</key>
+		<string>suara persaudaraan</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Anjangsana</string>
+		<key>url</key>
+		<string>http://live.radioanjangsanabogor.com:9180/anjangsanaradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Votre média local à Montpellier et son agglomération.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Aviva - 88FM</string>
+		<key>url</key>
+		<string>http://37.59.45.148:8000/radioaviva</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Radio Base Popolare Network</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Base Popolare Network</string>
+		<key>url</key>
+		<string>http://stream.radiobase.net:8000/live02.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Local Radio in the Bernese Oberland</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio BeO</string>
+		<key>url</key>
+		<string>http://87.237.169.123:8000/radiobeo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>RADIO CHIERI , ASCOLTA LA TUA CITTA'</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Chieri</string>
+		<key>url</key>
+		<string>http://stream15.top-ix.org:80/radiochieri</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>RADIO CHIERI , ASCOLTA LA TUA CITTA'</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Radio Chieri</string>
+		<key>url</key>
+		<string>http://stream15.top-ix.org:80/radiochieri-iphone</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Regional Station - Piemonte, Italy - Local news service, pop-rock music</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio City - La citta' che vive (High Quality Audio)</string>
+		<key>url</key>
+		<string>http://stream15.top-ix.org:80/radiocity-hq</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Whatcha Got?: Sun 7:00am-9:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio City - La citta' che vive (Low Quality Audio)</string>
+		<key>url</key>
+		<string>http://stream15.top-ix.org:80/radiocity</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>desc</key>
+		<string>Radio Ciutat de Tarragona</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Ciutat de Tarragona</string>
+		<key>url</key>
+		<string>http://rctgn.streaming-pro.com:8081/aac_autodj</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Cosa succede ad Alessandria e provincia</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Gold</string>
+		<key>url</key>
+		<string>http://stream15.top-ix.org:80/radiogold</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>data</string>
+		<key>name</key>
+		<string>Radio Jade Rundfunkgesellschaft gGmbH</string>
+		<key>url</key>
+		<string>http://stream.radiojade.de:80/live.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Radio Jade Rundfunkgesellschaft gGmbH</string>
+		<key>url</key>
+		<string>http://stream.radiojade.de:80/live.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Radio Liberty: Mon-Fri 5:00pm-7:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Liberty - High Rate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/radioLiberty-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Radio Liberty: Mon-Fri 5:00pm-7:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Liberty - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/radioLiberty-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>informazione libera e indipendente</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Radio Popolare Milano</string>
+		<key>url</key>
+		<string>http://livex.radiopopolare.it/radiopop2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Radio Popolare Roma - 103.3 FM - Popolare Network</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Popolare Roma - 103.3 FM - Popolare Network</string>
+		<key>url</key>
+		<string>http://94.23.15.36:80/rpr</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio Popolare Roma - 103.3 FM - Popolare Network</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Popolare Roma - 103.3 FM - Popolare Network</string>
+		<key>url</key>
+		<string>http://radio.oscr.it:80/rpr</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Svoboda - Russian service</string>
+		<key>url</key>
+		<string>http://svobodanews.fvds.ru:8000/Test_RFERL_stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Free Talk Live: Mon-Sat 6:00pm-9:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Tele-Sat</string>
+		<key>url</key>
+		<string>http://stream.melodiafm.spb.ru:8000/tele-sat</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Robert Scott Bell Show: Sun 12:00pm-2:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Robert Scott Bell Show - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/robertScottBell-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Robert Scott Bell Show: Sun 12:00pm-2:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Robert Scott Bell Show - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/robertScottBell-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Shattering Myths: Mon-Fri 9:00am-11:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Shattering Myths - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/shatteringMyths-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Shattering Myths: Mon-Fri 9:00am-11:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Shattering Myths - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/shatteringMyths-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Smoke Filled World: Sunday 6:00pm-8:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Smoke Filled World - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/smokeFilledwld-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Smoke Filled World: Sunday 6:00pm-8:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Smoke Filled World - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/smokeFilledwld-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Sons of Liberty: Mon-Fri 2:00-3:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Sons of Liberty - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/sonsOfLiberty-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Sons of Liberty: Mon-Fri 2:00-3:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Sons of Liberty - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/sonsOfLiberty-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio Base Popolare Network</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Streaming High-Quality Radio Base Popolare Network</string>
+		<key>url</key>
+		<string>http://stream.radiobase.net:8000/live01.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Talk Radio Countdown: Monday-Saturday 3:00am-5:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Talk Radio Countdown - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/talkRadioCountdown-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Talk Radio Countdown: Mon-Sat 3:00am-5:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Talk Radio Countdown - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/talkRadioCountdown-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>256</string>
+		<key>encoding</key>
+		<string>video/nsv</string>
+		<key>name</key>
+		<string>Test NSV</string>
+		<key>url</key>
+		<string>http://ice.atv-stream.de:8000/db0qi.nsv</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Alex Jones Show: Mon-Fri 11:00AM-2:00PM CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Alex Jones Show - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/alexJones-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Alex Jones Show: Mon-Fri 11:00am-2:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Alex Jones Show - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/alexJones-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Alison Slade Show: Sun 9:00pm-11:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Alison Slade Show - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/alisonSlade-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Baldwin McCullough Show Sat 8:00-10:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Baldwin McCullough Show - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/baldwinMcCullough-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Baldwin McCullough Show Sat 8:00-10:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Baldwin McCullough Show - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/baldwinMcCullough-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Bullet Wire: Sun 6:00pm - 9:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Bullet Wire - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/bulletWire-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Bullet Wire: Sat 6:00pm - 9:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Bullet Wire - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/bulletWire-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Dani Johnson Show Sun 8:00-10:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Dani Johnson Show - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/daniJohnson-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Dani Johnson Show Sun 8:00-10:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Dani Johnson Show - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/daniJohnson-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Dr Daliah Show Mon-Fri 11:00am-2:00pm and Sat 12:00pm-1:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Dr Daliah Show - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/drDaliah-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Dr Daliah Show Mon-Fri 11:00am-2:00pm and Sat 12:00pm-1:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Dr Daliah Show - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/drDaliah-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Easy Organic Gardener: Sunday 11:00am-12:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Easy Organic Gardener - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/easyOrganic-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Easy Organic Gardener: Sunday 11:00am-12:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Easy Organic Gardener - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/easyOrganic-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Geoff Metcalf Show: Mon-Fri 9:00pm-12:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Geoff Metcalf Show - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/geoffMetcalf-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Geoff Metcalf Show: Mon-Fri 9:00pm-12:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Geoff Metcalf Show - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/geoffMetcalf-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Jason Lewis Show: Mon-Fri 5:00pm-8:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Jason Lewis Show - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/jasonLewis-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Jason Lewis Show: Mon-Fri 5:00pm-8:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Jason Lewis Show - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/jasonLewis-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Karel Show: Mon-Fri 5:00pm-8:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Karel Show - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/karel-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Karel Show: Mon-Fri 5:00pm-8:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Karel Show - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/karel-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Katherine Albrecht Show: Mon-Fri 3:00pm-5:00pm and Sat 10:00am-12:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Katherine Albrecht Show - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/drKatherine-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Katherine Albrecht Show: Mon-Fri 3:00pm-5:00pm and Sat 10:00am-12:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Katherine Albrecht Show - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/drKatherine-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Magic Garden: Sat 7:00am-9:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Magic Garden - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/magicGarden-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Magic Garden: Sat 7:00am-9:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Magic Garden - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/magicGarden-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Nutrimedical Report: Mon-Fri 2:00pm-5:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Nutrimedical Report - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/nutrimedical-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Nutrimedical Report: Mon-Fri 2:00pm-5:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Nutrimedical Report - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/nutrimedical-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Officer Jack McLamb Show: Mon-Fri 8:00pm-9:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Officer Jack McLamb Show - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/jackMcLamb-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Officer Jack McLamb Show: Mon-Fri 8:00pm-9:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Officer Jack McLamb Show - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/jackMcLamb-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Paracast: Sun 2:00am-5:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Paracast - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/paracast-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Paracast: Sun 2:00am-5:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Paracast - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/paracast-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Paul Parent Garden Club Show: Sundays 5:00am-9:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Paul Parent Garden Club Show - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/paulParent-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Paul Parent Garden Club Show: Sunday 5:00am-9:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Paul Parent Garden Club Show - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/paulParent-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Power Hour: Mon-Fri 7:00am-10:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Power Hour - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/powerHour-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Power Hour: Mon-Fri 7:00am-10:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Power Hour - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/powerHour-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Radio Detective: Sat and Sun 9:00pm-12:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Radio Detective - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/radioDetective-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Radio Detective: Sat and Sun 9:00pm-12:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Radio Detective - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/radioDetective-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Redding News Review: Mon-Fri 3:00-6:00pm and Sun 6:00pm-9:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Redding News Review - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/reddingNews-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Redding News Review: Mon-Fri 3:00-6:00pm and Sun 6:00pm-9:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Redding News Review - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/reddingNews-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Secret Truth: Sat 7:00pm-9:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Secret Truth - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/secretTruth-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Secret Truth: Sat 7:00pm-9:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Secret Truth - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/secretTruth-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>WMNF Tampa 88.5 FM HD-3</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Source</string>
+		<key>url</key>
+		<string>http://stream.wmnf.org:8000/wmnf_hd3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>20</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Todelar Radio</string>
+		<key>url</key>
+		<string>http://i50.letio.com/7582.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Travelers411: Sat 10:00am-12:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Travelers411 - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/travelers411-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Travelers411: Sat 10:00am-12:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Travelers411 - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/travelers411-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>USAprepares: Mon-Fri 10:00am-11:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>USA Prepares - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/USAprepares-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>USApreapares: Mon-Fri 10:00am-11:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>USA Prepares - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/USAprepares-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>41</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Union La Radio AM 880</string>
+		<key>url</key>
+		<string>http://67.212.166.178:7042/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Univision America 1020</string>
+		<key>url</key>
+		<string>http://2083.live.streamtheworld.com:80/UNVAMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Voice of Australian Chinese</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Voice of Australian Chinese</string>
+		<key>url</key>
+		<string>http://ic2253.c1031.fast-serv.com/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Voice of Barbados</string>
+		<key>url</key>
+		<string>http://in.icy2.abacast.com/starcom-vobaac-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WADO 1280 AM</string>
+		<key>url</key>
+		<string>http://2093.live.streamtheworld.com:80/WADOAMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WATD FM 95.9</string>
+		<key>url</key>
+		<string>http://in.icy2.abacast.com/marshfield-watdfm-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WAUB 1590 AM</string>
+		<key>url</key>
+		<string>http://ice3.securenetsystems.net/WAUB</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WBOI Indiana Public Radio NPR 89.1 FM</string>
+		<key>url</key>
+		<string>http://2793.live.streamtheworld.com:3690/WBOIFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WDOR 93.9 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/WDORFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WEBO 1330 AM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/WEBO</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WFAW 940 AM</string>
+		<key>url</key>
+		<string>http://1721.live.streamtheworld.com:80/WFAWAMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>desc</key>
+		<string>***WGAC only streams  8:30 to 9 am and 3 to 6pm</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WGAC News 95.1 FM</string>
+		<key>url</key>
+		<string>http://3103.live.streamtheworld.com:80/WGACAMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WHSR 980 AM</string>
+		<key>url</key>
+		<string>http://3303.live.streamtheworld.com:80/WHSRAMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>KnoxTalkRadio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>WNFZ 94.3FM</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/wnfz-fm2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>News - Sports - Information</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>WODI 2</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/wodi</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Noticias WPAB RADIO</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WPAB 550 Ponce</string>
+		<key>url</key>
+		<string>http://ice2.securenetsystems.net/WPAB</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WPTF NewsRadio 680</string>
+		<key>url</key>
+		<string>http://6713.live.streamtheworld.com:80/WPTFAMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WPUL 1590 AM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/WPUL</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>NOTIUNO</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WUNO Notiuno</string>
+		<key>url</key>
+		<string>http://ic2.mainstreamnetwork.com/unoradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>On Air, Online, In the Community</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WURD 900 AM</string>
+		<key>url</key>
+		<string>http://208.43.60.66/wurd-am</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>On Air, Online, In the Community</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>WURD 900 AM</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/wurd-am</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>The Voice</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>WVNJ 1160AM</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/wvnj-am</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WXTK Newsradio</string>
+		<key>url</key>
+		<string>http://in.icy3.abacast.com/cool102-wxtkfmaac-48</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Whatcha Got?: Sun 7:00am-9:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Whatcha Got? - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/whatchaGot-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Whatcha Got?: Sun 7:00am-9:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Whatcha Got? - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/whatchaGot-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>World Crisis Radio: Sat 1:00pm-3:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>World Crisis Radio - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/worldCrisis-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>World Crisis Radio: Sat 1:00pm-3:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>World Crisis Radio - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/worldCrisis-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>XEDA Imagen</string>
+		<key>url</key>
+		<string>http://5203.live.streamtheworld.com:443/XEDAFMAAC_SC</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Somafm.com Doomed</string>
+		<key>name</key>
+		<string>Doomed</string>
+		<key>url</key>
+		<string>http://205.234.246.42:8300</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Somafm.com Indie pop rocks!</string>
+		<key>name</key>
+		<string>Indie Pop Rocks!</string>
+		<key>url</key>
+		<string>http://mp2.somafm.com:8074</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Somafm.com Underground80s</string>
+		<key>name</key>
+		<string>Underground80s</string>
+		<key>url</key>
+		<string>http://mp2.somafm.com:2406</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Somafm.com Groove Salad</string>
+		<key>name</key>
+		<string>Groove Salad</string>
+		<key>url</key>
+		<string>http://mp2.somafm.com:9002</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Somafm.com Boot Liquor</string>
+		<key>name</key>
+		<string>Boot Liquor</string>
+		<key>url</key>
+		<string>http://mp2.somafm.com:2002</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Somafm.com Secret Agent</string>
+		<key>name</key>
+		<string>Secret Agent</string>
+		<key>url</key>
+		<string>http://mp2.somafm.com:9012</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>desc</key>
+		<string>Today&apos;s Best New Rock and... XtReme Rock, Alternative, Classic Rock -- 100xr</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>100 XR - The Net&apos;s #1 Rock Station!!!</string>
+		<key>url</key>
+		<string>http://184.107.191.197:8146/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>100Hitz Alternative Hitz Channel</string>
+		<key>url</key>
+		<string>http://206.217.213.235:8230</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>100Hitz Indie Rock Channel</string>
+		<key>url</key>
+		<string>http://206.217.213.236:8360</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>106.3 WJSE</string>
+		<key>url</key>
+		<string>http://ice7.securenetsystems.net/WJSE</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Free-form hand picked 80&apos;s/90&apos;s Indie Rock. Info: 3wk.com</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>3WK Classic Alternative Radio</string>
+		<key>url</key>
+		<string>http://sc2.3wk.com:80/3wk-ca-aac-lo</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Free-form hand picked 80&apos;s/90&apos;s Indie Rock. Info: 3wk.com</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>3WK Classic Alternative Radio - Free-form hand picked 80&apos;s/90&apos;s</string>
+		<key>url</key>
+		<string>http://sc2.3wk.com:80/3wk-ca-mp3-lo</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Free-form hand picked 80&apos;s/90&apos;s Indie Rock. Info: 3wk.com</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>3WK Classic Alternative Radio - Free-form hand picked 80&apos;s/90&apos;s</string>
+		<key>url</key>
+		<string>http://sc2.3wk.com:80/3wk-ca-mp3-hi</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Free-form Radio. Hand picked Indie Rock. We play music as</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>3WK Undergroundradio - Free-form Radio. Hand picked Indie Rock. We</string>
+		<key>url</key>
+		<string>http://sc2.3wk.com:80/3wk-u-mp3-lo</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Free-form Radio. Hand picked Indie Rock. We play music as</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>3WK Undergroundradio - Free-form Radio. Hand picked Indie Rock. We</string>
+		<key>url</key>
+		<string>http://sc2.3wk.com:80/3wk-u-mp3-hi</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>desc</key>
+		<string>Rat_on With the Oldies, Folk, Rock, &amp; countr</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>40s50s4fun</string>
+		<key>url</key>
+		<string>http://40s50s4fun.com:8000/low</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Rat_on With the Oldies, Folk, Rock, &amp; country</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>40s50s4fun</string>
+		<key>url</key>
+		<string>http://40s50s4fun.com:8000/high</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>So klingt Berlin</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>88vier - Kreatives Radio fuer Berlin</string>
+		<key>url</key>
+		<string>http://ice.rosebud-media.de:8000/88vier-aac1.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>So klingt Berlin</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>88vier - Kreatives Radio fuer Berlin</string>
+		<key>url</key>
+		<string>http://ice.rosebud-media.de:8000/88vier</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>So klingt Berlin</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>88vier - Kreatives Radio fuer Berlin</string>
+		<key>url</key>
+		<string>http://ice.rosebud-media.de:8000/88vier-aac2.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>91 Online</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/91online</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>93.7 KEGE The Edge is 90&apos;s Alt. Rock</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>93.7 TheEdge</string>
+		<key>url</key>
+		<string>http://icecast.wildghosts.com:8000/TheEdge</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>98.7 Modern Rock</string>
+		<key>url</key>
+		<string>http://in.icy2.abacast.com/sunrise-wrmrfmaac-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>99Rock WFRD</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/WFRDFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The absolute best in modern alternative, pop punk, and rock from your favorite bands and the hottest new artists.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Absolute Alternative @ Distortion Radio [www.distortionradio.com]</string>
+		<key>url</key>
+		<string>http://s1.distortionradio.com:80/absolute-alternative-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>The absolute best in modern alternative, pop punk, and rock from your favorite bands and the hottest new artists.</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Absolute Alternative @ Distortion Radio [www.distortionradio.com]</string>
+		<key>url</key>
+		<string>http://s1.distortionradio.com:80/absolute-alternative-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AddictedToRadio Classic Alternative</string>
+		<key>url</key>
+		<string>http://wms-15.streamsrus.com:13830</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Alternantes</string>
+		<key>url</key>
+		<string>http://91.121.155.20:8000/alternantes.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>160</string>
+		<key>desc</key>
+		<string>A little bit of everything with a heavy dose of 80s Alternative and lots of vintage vinyl.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Alternative Broadcast Technology</string>
+		<key>url</key>
+		<string>http://xymox.dyndns.org:5000/shout</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Aswaja Fm Ponorogo</string>
+		<key>url</key>
+		<string>http://cast5.onlivestreaming.net:10190/aswajafm.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Atrem&apos;s NAS Radio</string>
+		<key>url</key>
+		<string>http://82.95.93.127:8000/ices</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Broadcasting live from UAB</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>BlazeRadio - Live from the University of Alabama at Birmingham</string>
+		<key>url</key>
+		<string>http://stream.blazeradio.org:8000/blazeradio2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Canterbury&apos;s only alternative</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CSR 97.4 FM</string>
+		<key>url</key>
+		<string>http://stream.csrfm.com:80/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Canterbury&apos;s only alternative</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CSR 97.4 FM</string>
+		<key>url</key>
+		<string>http://stream.csrfm.com:80/dialup</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Click 101.5</string>
+		<key>url</key>
+		<string>http://icy2.abacast.com/mainline-wkswfm-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CondorWR</string>
+		<key>url</key>
+		<string>http://player.morcegaofm.com.br:8089/condor</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>D99 FM  98.9</string>
+		<key>url</key>
+		<string>http://2183.live.streamtheworld.com:443/D99AAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Dead Doctors Don&apos;t Lie: Mon-Fri 2:00pm-3:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dead Doctors Dont Lie - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/deadDoctors-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Dead Doctors Don&apos;t Lie: Mon-Fri 2:00pm-3:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dead Doctors Dont Lie - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/deadDoctors-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>Local Music. Worldwide.</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Double Down Radio</string>
+		<key>url</key>
+		<string>http://broadcast_03.dustdevilmedia.com:8119/64.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>rock, alternative, electro and club music station</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Drugoe Radio ::: Russia ::: Astrakhan</string>
+		<key>url</key>
+		<string>http://www.drugoeradio.net:8000/listen32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>rock, alternative, electro and club music station</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Drugoe Radio ::: Russia ::: Astrakhan</string>
+		<key>url</key>
+		<string>http://www.drugoeradio.net:8000/listen128</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>FM 102.1</string>
+		<key>url</key>
+		<string>http://2953.live.streamtheworld.com:3690/WLUMFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>FM 92.1</string>
+		<key>url</key>
+		<string>http://in.icy2.abacast.com/msoshamrock-wfuzfm-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Your Indie Music Alternative</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Fountain Radio</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/fountainradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Frequence Banane - Student radio EPFL UNIL Lausanne Switzerland</string>
+		<key>url</key>
+		<string>http://fbpc5.epfl.ch:8000/fb_128</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Gem FM New Wave</string>
+		<key>url</key>
+		<string>http://199.180.72.2:8105/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Graffiti Radio 93.7 HD</string>
+		<key>url</key>
+		<string>http://3093.live.streamtheworld.com:3690/WSTWHD2AAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>La Radio du Pays Yonnais</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Graffiti Urban-Radio</string>
+		<key>url</key>
+		<string>http://80.82.229.202:8000/graffiti.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>GridStream Productions</string>
+		<key>url</key>
+		<string>http://s7.viastreaming.net:7350/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Herb Talk: Sat 6:00am-7:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Herb Talk - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/herb-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Herb Talk: Sat 6:00am-7:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Herb Talk - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/herb-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Reaching Out for the Love of Music</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Ideal Clubworld Radio TV - Underground Electronic Music</string>
+		<key>url</key>
+		<string>http://50.7.242.114:7500/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Indie 97.9 Rock HD3</string>
+		<key>url</key>
+		<string>http://3103.live.streamtheworld.com:80/WIYYFM3AAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Official Radio stream for JPopsuki 2.0</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>JPopsuki Radio!</string>
+		<key>url</key>
+		<string>http://91.121.117.196:8000/autodj</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>desc</key>
+		<string>Amarillo College&apos;s FM-90</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>KACV-FM</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/kacv-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KFMA 92.1 FM</string>
+		<key>url</key>
+		<string>http://2633.live.streamtheworld.com:443/KFMAFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>desc</key>
+		<string>The Best Music for Santa Barbara</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KRUZ 97.5 FM</string>
+		<key>url</key>
+		<string>http://8323.live.streamtheworld.com:80/KRUZFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KUKQ</string>
+		<key>url</key>
+		<string>http://eawe.vip.dendc.liquidcompass.net/KUKQIRAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>KUOI FM Moscow - Free Form Radio</string>
+		<key>url</key>
+		<string>http://kuoi.org:8000/kuoi</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Kick Ass Radio-Live!</string>
+		<key>url</key>
+		<string>http://www.cyberdestiny.net:8000/ices</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192584</string>
+		<key>desc</key>
+		<string>L&apos;UniCo Campusradio Paderborn</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>L&apos;UniCo Campusradio Paderborn</string>
+		<key>url</key>
+		<string>http://vm-lunico-livestream.upb.de:8000/lunico_high_loud</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>127623</string>
+		<key>desc</key>
+		<string>L&apos;UniCo Campusradio Paderborn</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>L&apos;UniCo Campusradio Paderborn</string>
+		<key>url</key>
+		<string>http://vm-lunico-livestream.upb.de:8000/lunico_mid.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Loudness Rock&amp;apos;s You!  Alternative/Progressive music from &amp;apos;80/&amp;apos;90/&amp;apos;00 &amp;amp; Now!  Modern &amp;amp; Classic Alternative Pop/Rock/Indie/Dance music.  --- 24 hrs. --- Non-Stop/No-Dj&amp;apos;s ---</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>LOUDNESSRADIO</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/LOUDNESS-RADIO</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>87</string>
+		<key>desc</key>
+		<string>Libra @ iradiophilly</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Libra @ iradiophilly</string>
+		<key>url</key>
+		<string>http://peace.str3am.com:6320/libra</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Live 105 Halifax</string>
+		<key>url</key>
+		<string>http://1731.live.streamtheworld.com:80/CKHYFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Petõfi Rádió (aac+)</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Petőfi Rádió (aac+)</string>
+		<key>url</key>
+		<string>http://stream002.radio.hu:80/mr2.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>80</string>
+		<key>desc</key>
+		<string>Petõfi Rádió (mp3)</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Petőfi Rádió (mp3)</string>
+		<key>url</key>
+		<string>http://stream002.radio.hu:80/mr2.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Polska Scena Alternatywna</string>
+		<key>url</key>
+		<string>http://91.121.236.251:80</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Everything Alternative</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Q101 Chicago&apos;s Alternative</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/Q101</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>La Radio du Diois</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>R-Dwa</string>
+		<key>url</key>
+		<string>http://live.francra.org:8000/R-Dwa</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radar Radio</string>
+		<key>url</key>
+		<string>http://sc.radarradio.com.au:80/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio 94.7</string>
+		<key>url</key>
+		<string>http://3083.live.streamtheworld.com:3690/KKDOFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio Campus Bruxelles MP3 feed</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Campus Bruxelles</string>
+		<key>url</key>
+		<string>http://streamer.radiocampusbruxelles.org:8000/stream.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Alternative Rock</string>
+		<key>url</key>
+		<string>http://79.120.39.202:9037/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Art Rock</string>
+		<key>url</key>
+		<string>http://79.120.39.202:9107/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Glam Rock</string>
+		<key>url</key>
+		<string>http://79.120.39.202:9055/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Grunge</string>
+		<key>url</key>
+		<string>http://79.120.39.202:9011/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Indie Rock</string>
+		<key>url</key>
+		<string>http://79.120.39.202:9033/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - New Wave</string>
+		<key>url</key>
+		<string>http://79.120.39.202:9065/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Post-Punk</string>
+		<key>url</key>
+		<string>http://79.120.39.202:9071/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Punk</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9043/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Rapcore</string>
+		<key>url</key>
+		<string>http://79.120.39.202:9043/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Live-Moderation und Musik von den 1950ern bis heute</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Cisaria International</string>
+		<key>url</key>
+		<string>http://stream.radio-cisaria.de:80/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Regional Station - Piemonte, Italy - Local news service, pop-rock music</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio City - La citta&apos; che vive (High Quality Audio)</string>
+		<key>url</key>
+		<string>http://stream15.top-ix.org:80/radiocity-hq</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Regional Station - Piemonte, Italy - Local news service, pop-rock music</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio City - La citta&apos; che vive (Low Quality Audio)</string>
+		<key>url</key>
+		<string>http://stream15.top-ix.org:80/radiocity</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>99</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Fabryka</string>
+		<key>url</key>
+		<string>http://195.191.180.5:8000</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>256</string>
+		<key>desc</key>
+		<string>Music from Indiana University Kokomo</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Free Kokomo</string>
+		<key>url</key>
+		<string>http://hannibal.ucs.indiana.edu:80/radio_free_kokomo_high</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Music from Indiana University Kokomo</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Free Kokomo</string>
+		<key>url</key>
+		<string>http://hannibal.ucs.indiana.edu:80/radio_free_kokomo_low</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Free Monkey.  Quit Complaining.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Free Monkey</string>
+		<key>url</key>
+		<string>http://radio.feedbucket.com:9000/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>256</string>
+		<key>desc</key>
+		<string>Flux Frap (site Radio G!)</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio G! 1</string>
+		<key>url</key>
+		<string>http://80.82.229.202:8000/radiog.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Radio Liberty: Mon-Fri 5:00pm-7:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Liberty - High Rate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/radioLiberty-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Radio Liberty: Mon-Fri 5:00pm-7:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Liberty - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/radioLiberty-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Seagull</string>
+		<key>url</key>
+		<string>http://hera.jarasoft.org:8000/seagull24</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32000</string>
+		<key>desc</key>
+		<string>Student Radio Chemnitz, Germany</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio UNiCC - einzig, nicht artig ...  - www.radio-unicc.de</string>
+		<key>url</key>
+		<string>http://stream.radio-unicc.de:8000/unicc_lq.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Student Radio Chemnitz, Germany</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio UNiCC - einzig, nicht artig ...  - www.radio-unicc.de</string>
+		<key>url</key>
+		<string>http://stream.radio-unicc.de:8000/unicc_hq.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>desc</key>
+		<string>Student Radio Chemnitz, Germany</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Radio UNiCC - einzig, nicht artig ...  - www.radio-unicc.de</string>
+		<key>url</key>
+		<string>http://stream.radio-unicc.de:8000/unicc_lq.aacp</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio You Boston WBOS 92.9 HD2</string>
+		<key>url</key>
+		<string>http://3143.live.streamtheworld.com:80/WBOSHD2AACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Robert Scott Bell Show: Sun 12:00pm-2:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Robert Scott Bell Show - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/robertScottBell-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>Robert Scott Bell Show: Sun 12:00pm-2:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Robert Scott Bell Show - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/robertScottBell-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Rolling Pods</string>
+		<key>url</key>
+		<string>http://rollingpods.ru:43200/stream.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>87</string>
+		<key>desc</key>
+		<string>Skin @ iradiophilly</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Skin @ iradiophilly</string>
+		<key>url</key>
+		<string>http://peace.str3am.com:6320/v</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Soundportal</string>
+		<key>url</key>
+		<string>http://rs8.stream24.net:8000/stream.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Soundportal</string>
+		<key>url</key>
+		<string>http://rs8.stream24.net:80/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>THIRD ROCK</string>
+		<key>url</key>
+		<string>http://2233.live.streamtheworld.com:80/THIRD_ROCKAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Playing the best in Alternative Music from yesterday and today.</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>The Alt Vault</string>
+		<key>url</key>
+		<string>http://s2.stationplaylist.com:9180/altvault</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Bright Side: Mon-Fri 10:00am-11:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Bright Side - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/brightSide-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Bright Side: Mon-Fri 10:00am-11:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Bright Side - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/brightSide-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Easy Organic Gardener: Sunday 11:00am-12:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Easy Organic Gardener - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/easyOrganic-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Easy Organic Gardener: Sunday 11:00am-12:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Easy Organic Gardener - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/easyOrganic-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Montgomery&apos;s New Rock Alternative</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Gump 104.9 FM</string>
+		<key>url</key>
+		<string>http://out1.tor.icy.abacast.com/bluewater-wacvfm-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Nutrimedical Report: Mon-Fri 2:00pm-5:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Nutrimedical Report - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/nutrimedical-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Nutrimedical Report: Mon-Fri 2:00pm-5:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Nutrimedical Report - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/nutrimedical-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Paracast: Sun 2:00am-5:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Paracast - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/paracast-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Paracast: Sun 2:00am-5:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Paracast - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/paracast-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Power Hour: Mon-Fri 7:00am-10:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Power Hour - High Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/powerHour-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Power Hour: Mon-Fri 7:00am-10:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Power Hour - Low Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/powerHour-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Always Aggressive, Always Progressive Christian music</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>TheBlast.FM: Christian Rock/32k AAC+</string>
+		<key>url</key>
+		<string>http://32.blast.fast-serv.com:80/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>desc</key>
+		<string>Always Aggressive, Always Progressive Christian music</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>TheBlast.FM: Christian Rock/48k AAC+</string>
+		<key>url</key>
+		<string>http://48.blast.fast-serv.com:80/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Rock, Alternative, Indie 24/7 Commercial Free AAC+</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Unconventional Radio</string>
+		<key>url</key>
+		<string>http://198.154.106.104:8426/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Vibe CT 105</string>
+		<key>url</key>
+		<string>http://tbcradionetwork.co.tt:8000/vibect105</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>67</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WBRU 95.5</string>
+		<key>url</key>
+		<string>http://2773.live.streamtheworld.com:80/WBRUFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WROX 96.1 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/WROXFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>X 95.9</string>
+		<key>url</key>
+		<string>http://3153.live.streamtheworld.com:80/WWSYFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>X 96</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/KXRKFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>X92.9 FM</string>
+		<key>url</key>
+		<string>http://2503.live.streamtheworld.com:80/CFEXFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Tulsa&apos;s Rock Alternative</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Z 104.5 The Edge</string>
+		<key>url</key>
+		<string>http://in.icy2.abacast.com/timesshamrock-kmyzfm-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Zeromix Radio - No DJs just music 24 hours a day. Genres Alternative Indie Rock Reggae Ska and the best of the decades 60s 70s 80s 90s and 00s.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ZeromixRadio</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Zeromix-Radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>[radio.wazee] Modern Alternative Rock (www.wazee.org)</string>
+		<key>url</key>
+		<string>http://icecast.relay.managemydedi.com:8000/wazee_192</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>[radio.wazee] Modern Alternative Rock (www.wazee.org)</string>
+		<key>url</key>
+		<string>http://icecast.relay.managemydedi.com:8000/wazee_128</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>[radio.wazee] Modern Alternative Rock (www.wazee.org)</string>
+		<key>url</key>
+		<string>http://icecast.relay.managemydedi.com:8000/wazee_64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>l&apos;unique alternative aux radios soupes depuis 1977</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>oOo EKO DES GARRIGUES oOo live radio from montpellier [f][128][mp3] oOo</string>
+		<key>url</key>
+		<string>http://91.121.159.124:8000/eko-des-garrigues-128k.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>l&apos;unique alternative aux radios soupes depuis 1977</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>oOo EKO DES GARRIGUES oOo live radio from montpellier [f][32][mp3] oOo</string>
+		<key>url</key>
+		<string>http://91.121.159.124:8000/eko-des-garrigues-32k.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Radio Fiat+/-Lux - En direct de Quebec City - AAC+ 32kbps</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>radio.fiatlux.tk</string>
+		<key>url</key>
+		<string>http://attic.fiatlux.tk:8008/stream.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Ðàäèî Ãðóïïû ÕÇ</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Радио ХЗ</string>
+		<key>url</key>
+		<string>http://80.251.112.141:8002/live</string>
+	</dict>
+</array>
+</plist>

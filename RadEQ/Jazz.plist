@@ -1,0 +1,1996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>L'Identité Antillaise</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>((( ANTILLES RADIO )))</string>
+		<key>url</key>
+		<string>http://streamantille.com:8024/gsm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>11Radio All-Jazz Music</string>
+		<key>url</key>
+		<string>http://streams.primesite7.com:8000/11Radio-All-Jazz.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>11Radio Blues/Jazz and MORE Mix</string>
+		<key>url</key>
+		<string>http://streams.primesite7.com:8000/11Radio-Blues-Jazz-Mix.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>var</string>
+		<key>desc</key>
+		<string>All the best music from the last 50+ years.  Pop, Rock, Oldies, Adult, Jazz, Classical, Misc.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>50+ Years</string>
+		<key>url</key>
+		<string>http://206.255.35.49:8000/music</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>INTO THE MUSIC S HEART LISTEN THE BEST WORLD S JAZZ-MUSIC OR NOTHING !   GENUINE-JAZZ/SMOOTH/FUSION/LATIN/ACID-JAZZ/JAZZROCK/SWING/BIG-BAND/NU-JAZZ/ELECTRO-JAZZ/MANOUCHE-JAZZ/BEBOP/FREEJAZZ/ etc........  A LVDA-TELEVISION S WEB RADIO BROADCAST total</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>A-JAZZ-FM-WEB</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/A-JAZZ-FM-WEB</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The sound of the classic &amp;amp; new jazz 24 Hours</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>AJAZZDREAM-Classic&amp;NewJazz24H</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/AJAZZDREAM-Classic-NewJazz24H</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Jazz from the 1920s to 1940s on Abacus.fm Vintage Jazz. Visit our website at http://www.abacus.fm</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Abacus.fmVintageJazz</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/abacusfm-vintage-jazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Smooth, soft &amp; lazy..jazz, blues, soul [CD-Quality]</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Absolute smooth mix-jazz,blues,soul [CD-Quality]</string>
+		<key>url</key>
+		<string>http://joweb.dyndns.org:8052/live2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Smooth, soft &amp; lazy..jazz, blues, soul  [Radio-Quality]</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Absolute smooth mix-jazz,blues,soul [Radio-Quality]</string>
+		<key>url</key>
+		<string>http://joweb.dyndns.org:8052/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Absolutely Smooth Jazz - SKY.FM - the world's smoothest jazz 24 hours a day</string>
+		<key>url</key>
+		<string>http://pub6.sky.fm:80/sky_smoothjazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Le nouveau souffle du Jazz and Soul</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>AirJazz</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/Air-Jazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Only the best of Jazz</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Alldayjazz</string>
+		<key>url</key>
+		<string>http://adj-dnas-eu.alldayjazz.nl:8000/stream1</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Allegro Jazz</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>AllegroJazz</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/Allegro-Jazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>A FINEST SELECTION OF LOUNGE CHILLOUT &amp;amp; JAZZ BLENDS</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>AmysFMVintage</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/AmysFM-Vintage</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Jazz</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Astra - Jazz Low stream</string>
+		<key>url</key>
+		<string>http://orion.shoutca.st:8708/stream2_autodj</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Do not look further JAZZ radio on the Web. Stay with us. No busque m&amp;#xe1;s radios de jazz en Internet qu&amp;#xe9;dese con nosotros. Radio Station Cartagena Colombia  Jazz Station N 1 in Colombia</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ÁBACOLIBROSYCAFÉRADIO</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/-BACO-LIBROS-Y-CAF--RADIO</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>BOOYAA.RU .:. JAZZ</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>BOOYAA.RU .:. JAZZ</string>
+		<key>url</key>
+		<string>http://194.63.140.214:8000/booyaa_128_mp3_jazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Le Blues et le Jazz au fil du Mississipi. Des in&amp;#xe9;dits des nouveaut&amp;#xe9;s des exclusivit&amp;#xe9;s... Si vous avez des probl&amp;#xe8;mes le Blues est votre meilleur ami. [Otis Spann] En vain fermera-t-on l oreille au jazz. Il est vie. Il est art. Il est ivresse des sons</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>BaieDesAngesClubbing</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/Baie-Des-Anges-Clubbing</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>All 80s All The Time!!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Be Good Radio - 80s Jazz</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/BeGoodSmoothJazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>beejazzy 100% jazz and jazz electro</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Beejazzy</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/beejazzy</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Coinche FM la radio de la belote coinch&amp;#xe9;e gratuite sur le net</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Beloteenligne</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Belote-en-ligne</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>LOW BANDWIDTH STREAM</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Big Blue Swing.com</string>
+		<key>url</key>
+		<string>http://radio.BigBlueSwing.com:8000/bigblueswing-32.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Playing music for  Lindy Hop,  Charleston,  Balboa,  Swing, and  Blues</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Big Blue Swing.com</string>
+		<key>url</key>
+		<string>http://radio.BigBlueSwing.com:8000/bigblueswing-64.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>La vita &amp;#xe8; come la musica... ci vogliono tempo ritmo e pause.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>BlueBop</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Blue-Bop</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Vivez Jazzy ! JAZZ MUSIC 128 Kbps - THE SOUND THAT EMBRACES THE LIFE. Join us on facebook.com/boozikwebradios</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Boozikjazzy</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/boozik-jazzy</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>desc</key>
+		<string>Default description</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CALMRADIO.COM - JAZZ VOCALISTS - Sampler</string>
+		<key>url</key>
+		<string>http://calm6.calmradio.com:8356/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Default description</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CALMRADIO.COM - JAZZ VOCALISTS - Sampler</string>
+		<key>url</key>
+		<string>http://calm6.calmradio.com:8328/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Ð Ð°Ð´Ð¸Ð¾ CARRAMBA - Jazz</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CARRAMBA JAZZ Radio Station</string>
+		<key>url</key>
+		<string>http://carrambatk.ru:8000/jazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>High Bitrate MP3</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CJSW - University of Calgary Radio</string>
+		<key>url</key>
+		<string>http://stream.cjsw.com:80/cjsw.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>desc</key>
+		<string>Low Bitrate MP3</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CJSW - University of Calgary Radio</string>
+		<key>url</key>
+		<string>http://stream.cjsw.com:80/cjsw-low.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>160</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CampusFM Toulouse, 94.0MHz</string>
+		<key>url</key>
+		<string>http://live.radio-campus.org:8000/radio_tlse</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Caribbean Vibes Radio spins an eclectic blend of music 24-7!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Caribbean Vibes Radio</string>
+		<key>url</key>
+		<string>http://s4.streammonster.com:8494/CaribbeanVibesRadio_autodj</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Jazz</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Clapas</string>
+		<key>url</key>
+		<string>http://37.59.45.148:8000/Radio-Clapas</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Clasicos del Jazz</string>
+		<key>url</key>
+		<string>http://radioubb.cl:8000/Jazz.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Que vous pr&amp;#xe9;f&amp;#xe9;riez Play Misty for Me ou Classicalways voici les meilleures plages des deux radios enfin r&amp;#xe9;unies. Plus d autres encore toujours tr&amp;#xe8;s douces soft &amp;#xe9;l&amp;#xe9;gantes et sophistiqu&amp;#xe9;es.  http://www.classyradio.com</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Classy</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/Classy</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>A part of clubberry.fm - fastest growing EDM internet radio</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Clubberry Chill</string>
+		<key>url</key>
+		<string>http://stream.clubberry.fm:8000/chill_aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>A part of clubberry.fm - fastest growing EDM internet radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Clubberry Chill</string>
+		<key>url</key>
+		<string>http://clubberry.fm:8000/chill</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Cool Jazz, Vocal Jazz, Classic  Jazz</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Cool Jazz Florida with the Coolest Jazz on the Planet!</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/cooljazzflorida</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>DELUXE RADIO</string>
+		<key>url</key>
+		<string>http://audio1.ipercast.net:8000/deluxemusic.tv/radio_web/mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>DELUXE RADIO mobile</string>
+		<key>url</key>
+		<string>http://audio1.ipercast.net:8000/deluxemusic.tv/radio_mobile/aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>DONZI 102</string>
+		<key>url</key>
+		<string>http://donzilasse.no-ip.biz:8000/donzi102.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>An eclectic mix of personal favorites. For playlist statistics visit www.last.fm/user/dionysian-mind</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dionysian Mind - mp3</string>
+		<key>url</key>
+		<string>http://dionysian-mind.net:8000/mpd.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Pohoda, jazz!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>E-Rádio JAZZINEC</string>
+		<key>url</key>
+		<string>http://ice.abradio.cz:80/jazzinec128.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Pohoda, jazz!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>E-Rádio JAZZINEC</string>
+		<key>url</key>
+		<string>http://ice.abradio.cz:80/jazzinec64.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The radio that plays music that touches. So let the music play and let the music take your mind.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>EighthNote</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/Eighth-Note</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>FD Jazz Radio le meilleur mix en Jazz Free Jazz Swing Bebop. Une programmation musicale exclusive inspir&amp;#xe9;e par le Festival Jazz in Marciac. FD Jazz Radio la radio de tous les jazz !</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>FDJAZZRADIO</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/FDJAZZRADIO</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Fine Music Radio</string>
+		<key>url</key>
+		<string>http://216.246.37.52:8038</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Formula Jazz FM</string>
+		<key>url</key>
+		<string>http://201.148.81.100:8400/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Jazz 24/7 from public radio station WGLT at Illinois State University</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>GLT Jazz Radio</string>
+		<key>url</key>
+		<string>http://wgltradio.ilstu.edu:8000/wgltjazz.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Rel&amp;#xe1;jate cuando quieras con nuestra mejor m&amp;#xfa;sica Jazz las 24 horas del d&amp;#xed;a...</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>GreenRadioJazz</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/GreenRadioJazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>Cafe Style Radio</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Groove 107.7 FM</string>
+		<key>url</key>
+		<string>http://live.outcastdigital.com:8000/groove</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Cafe Style Radio</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Groove 107.7FM Wgtn Live!</string>
+		<key>url</key>
+		<string>http://us1.outcastdigital.com:8000/groove</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>87</string>
+		<key>desc</key>
+		<string>Hang @ iradiophilly</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Hang @ iradiophilly</string>
+		<key>url</key>
+		<string>http://peace.str3am.com:6320/hang</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>60</string>
+		<key>desc</key>
+		<string>Hang @ iradiophilly</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Hang @ iradiophilly</string>
+		<key>url</key>
+		<string>http://kmr.iad.streamguys1.com:80/hang</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>shamelessly eclectic</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>HolyCrow</string>
+		<key>url</key>
+		<string>http://johnallenbydouglas.ca:8000/listen</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Une autre id&amp;#xe9;e du Jazz.    Des ann&amp;#xe9;es 60 &amp;#xe0; aujourdâhui.   Retrouvez 24h/24 les grands th&amp;#xe8;mes du Jazz Funk Fusion ou Electro.   Et d&amp;#xe9;couvrez les cr&amp;#xe9;ations contemporaines.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>JAZZCLUB</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/JAZZCLUB</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Swing bebop classic and modern jazz</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>JamPRO:Jazz</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/JamPRO-Jazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Jamendo Radio by Nicole</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Jamendo Jazz Radio</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/JamJazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>JAZZ</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Jazz</string>
+		<key>url</key>
+		<string>http://stream.100000000000000.com:8000/JAZZ</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>JAZZ</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Jazz</string>
+		<key>url</key>
+		<string>http://stream.100000000000000.com:8000/JAZZ2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>desc</key>
+		<string>LORINI MEDIA STREAMING</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Jazz 95.5 FM</string>
+		<key>url</key>
+		<string>http://lortel305.lorini.net:1020/JAZZCARACAS</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Smooth Jazz to Uplift Your Soul</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Jazz Cafe</string>
+		<key>url</key>
+		<string>http://radio.wanderingsheep.net:8000/wsr</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Jazz Experimental</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Jazz Experimental</string>
+		<key>url</key>
+		<string>http://50.7.77.114:8293/autodj</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Jazz FM</string>
+		<key>url</key>
+		<string>http://83.170.89.103:8000</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>256</string>
+		<key>desc</key>
+		<string>Be Jazzy</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Jazz Radio HomeNet</string>
+		<key>url</key>
+		<string>http://radio.hnet.ru:8008/jazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Soulful easy listening</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Jazz-spirit</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/jazz-spirit</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Le meilleur du jazz ! -- Listen us : http://listen.radionomy.com/jazz1max.m3u .</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Jazz1Max</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/Jazz1Max</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>An accurate selection of Jazz Fusion and Funky-Jazz with a sprinkle of sparkly Smooth Jazz.    Find us at www.jazz4ever.net</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Jazz4ever</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/Jazz4ever</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>JAZZ LIGHT : L Esprit Jazz ! Retrouvez les nouvelles m&amp;#xe9;lodies jazzy d aujourd hui mix&amp;#xe9;es aux grands standards du jazz ! En deux mots : De Sinatra &amp;#xe0; Adele ! D&amp;#xe9;couvrez la nouvelle sc&amp;#xe8;ne internationale jazzy : Norah Jones Amy Winehouse Lana Del Rey Pink</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>JazzLight</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/Jazz-Light</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>JAZZ LOVERS features the beautiful ballads jazz standards the great love songs all the best from the Great American Song Book Broadway and the cinemaâ¦ for jazz lovers.  The most listenable jazz in the world.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>JazzLoversRadio</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/jazzlovers</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>41</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>JazzRadio - Current Jazz</string>
+		<key>url</key>
+		<string>http://pub2.jazzradio.com/jr_currentjazz_aacplus</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>A relaxing JAZZ selection from Barcelona Night &amp;amp; Day....</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>JazzRadioBcn</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/JazzRadioBcn</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Jazz Radio France</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>JazzRadioFrance</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/JazzRadioFrance</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Jazz in Bolz est la radio du jazz d hier &amp;#xe0; aujourd hui.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>JazzinBolz</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/Jazz-in-Bolz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Jazznet - 128 bit</string>
+		<key>url</key>
+		<string>http://91.230.23.188:8000/jazznet128</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Une nouvelle radio jazz encore plus soft glamour et urbaine...  http://www.jazzopolitan.com</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Jazzopolitan</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Jazzopolitan</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Default description</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Jazzradionetwork.com</string>
+		<key>url</key>
+		<string>http://199.180.72.2:8070/autodj</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Du swing au Jazz Manouche du Bebop au Ragtime c est un tourbillon qui vous entraine dans JSM Radio.    From the swing to the Gipsy Jazz the Bebop and the Ragtime it is the whirl which take you in âJazz Swing Manouche Radioâ.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Jazzswingmanoucheradio</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/jazz-swing-manouche-radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>K-JAZZY: FEEL THE JAZZ.... SmoothJazz ClassicJazz LatinJazz Soul Swing &amp;amp; Jazzy Oldies.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>K-JAZZY</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/K-JAZZY</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Broadcasting 24/7 from North Newton, KS, USA</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>KBCU-FM Bethel College Radio</string>
+		<key>url</key>
+		<string>http://kbcu-live.bethelks.edu:8000/kbcu</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>141</string>
+		<key>desc</key>
+		<string>KIEE 88.3 FM</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>KIEE 88.3 FM</string>
+		<key>url</key>
+		<string>http://76.72.168.18:8005/KIEE</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Smooth Jazz 24/7 from Dublin....Jazz to suit you and your life-style</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>KISSJazz</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/KISSJazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>KRML</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KRML 1410 AM</string>
+		<key>url</key>
+		<string>http://icy2.abacast.com/krml-krml-128</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>desc</key>
+		<string>Ozarks Public Radio</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>KSMU HD2</string>
+		<key>url</key>
+		<string>http://war.str3am.com:7110/ksmu2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>KOCZ 92.9 FM Radio Broadcast</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Kocz 103.7 FM</string>
+		<key>url</key>
+		<string>http://76.72.168.18:8000/kocz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Indie Creative Commons radio --cc-radio-- 24h de jazz,funk,urban,hip-hop,trip-hop,indie...musica de alto standing</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>La noche del hombre lobo - aac</string>
+		<key>url</key>
+		<string>http://lobocast.org.es:8000/noche-aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Indie Creative Commons radio --cc-radio-- 24h de jazz,funk,urban,hip-hop,trip-hop,indie...musica de alto standing</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>La noche del hombre lobo - mp3</string>
+		<key>url</key>
+		<string>http://lobocast.org.es:8000/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Indie Creative Commons radio --cc-radio-- 24h de jazz,funk,urban,hip-hop,trip-hop,indie...musica de alto standing</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>LanochedelhombrelobO --Canal La Noche-- Formato aacplus 64kbs</string>
+		<key>url</key>
+		<string>http://lanoche.lanochedelhombrelobo.org:8000/noche-aacplus</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Indie Creative Commons radio --cc-radio-- 24h de jazz,funk,urban,hip-hop,trip-hop,indie...musica de alto standing</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>LanochedelhombrelobO --Canal La Noche-- Formato mp3 128kbs</string>
+		<key>url</key>
+		<string>http://lanoche.lanochedelhombrelobo.org:8000/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Indie Creative Commons radio --cc-radio-- 24h de jazz clasico,jazz contemporaneo,indie....musica de alto standing</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>LanochedelhombrelobO --Canal Luna Azul-- Formato aacplus 64kbs</string>
+		<key>url</key>
+		<string>http://lunazul.lanochedelhombrelobo.org:8005/lunaazul-aacplus</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Indie Creative Commons radio --cc-radio-- 24h de jazz clasico,jazz contemporaneo,indie....musica de alto standing</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>LanochedelhombrelobO --Canal Luna Azul-- Formato mp3 128kbs</string>
+		<key>url</key>
+		<string>http://lunazul.lanochedelhombrelobo.org:8005/lunaazul-mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>un!f0rm</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Laut.fm/ab33t</string>
+		<key>url</key>
+		<string>http://stream.laut.fm:80/ab33t</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>tune in...</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Leki4koFM</string>
+		<key>url</key>
+		<string>http://dirolix.dyndns.org:8000/leki4koFM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>LiteJazz.com - Listen 24/7  Free Jazz Online Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>LiteJazz</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/LiteJazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Lounge Motion FM - Downtempo Rhythms &amp; Laid Back Lounge</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Lounge Motion FM - MotionFM.com</string>
+		<key>url</key>
+		<string>http://199.58.160.66:80/motionthree_aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Love Jazz Florida - Love is in the Air with Smooth Jazz  - Relax wiht the Best Smooth Jazz anywhere!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Love Jazz Florida</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/lovejazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Jazz Recordings and Liveconcerts</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Lucerne University of Applied Sciences and Arts - Jazz Department</string>
+		<key>url</key>
+		<string>http://musicradio.hslu.ch:8000/channel1.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>M2 JAZZ : ONLY JAZZ - Live From Paris France - www.m2radio.fr</string>
+		<key>url</key>
+		<string>http://88.191.118.145:80/m2jazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Hi-Fi Internet Audio Stream</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>MITM 128k MP3-R</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/mitm2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>totally jazz music</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>MRJazz</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/MRJazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Official web-radio for world music band Mynta.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>MYNTA Radio</string>
+		<key>url</key>
+		<string>http://radio.blarg.se:8000/mynta</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Hi-Fi Internet Audio Stream</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Martini in the Morning - Radionomy</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/mitm64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Hi-Fi Internet Audio Stream</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Martini in the Morning - Radionomy</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/mitm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Hi-Fi Internet Audio Stream</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Martini in the Morning - Radionomy 32</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/mitm32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Smikey, dreamy</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Misty Radio</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/mistyradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Monica Radio</string>
+		<key>url</key>
+		<string>http://ns301365.ovh.net:8000/monica.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Motion FM &gt; Lounge - Downtempo Rhythms &amp; Laid Back Lounge</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Motion FM &gt; Lounge - Downtempo Rhythms &amp; Laid Back Lounge</string>
+		<key>url</key>
+		<string>http://199.58.160.66:80/motionthree_monde</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Motion FM &gt; Smooth - Silky Soul, Cool Grooves &amp; Jazz Rhythms</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Motion FM &gt; Smooth  - MotionFM.com</string>
+		<key>url</key>
+		<string>http://199.58.160.66:80/motiontwo_monde</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Motion FM &gt; Smooth : Silky Soul &amp; Jazz Rhythms</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Motion FM &gt; Smooth  - MotionFM.com</string>
+		<key>url</key>
+		<string>http://199.58.160.66:80/motiontwo_aacp</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Motion FM &gt; Smooth : Silky Soul &amp; Jazz Rhythms</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Motion FM &gt; Smooth - MotionFM.com</string>
+		<key>url</key>
+		<string>http://199.58.160.66:80/motiontwo_aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>320</string>
+		<key>desc</key>
+		<string>Nice chillout music for easy listening</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Music for cafe</string>
+		<key>url</key>
+		<string>http://95.31.250.16:7000/ices</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Jazz de siempre.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>NOCTAMBLUES</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/NOCTAMBLUES</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The Home of Streamin' Hot Gumbo!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>New Orleans Radio</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/neworleansradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>OnlyJazz c est 100% Jazz 100% Web.  On vous r&amp;#xe9;serve le meilleur du Jazz. Une programmation Jazz et smooth jazz. En &amp;#xe9;coutant OnlyJazz vous vous sentirez d&amp;#xe9;tendu. Id&amp;#xe9;al au bureau ou &amp;#xe0; la maison en fond musical.  site: www.onlyjazz.fr</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>OnlyJazz</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/OnlyJazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Our Place Radio KOPR-db</string>
+		<key>url</key>
+		<string>http://216.245.217.70:8218/opr.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>PVPJazz - Before The Music Dies</string>
+		<key>url</key>
+		<string>http://ice.pvpjamz.com:8888/pvpjazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Du Jazz du jazz du jazz et quelques surprises toujours tr&amp;#xe8;s cool...  http://www.playmisty4.me</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>PlayMistyforMe</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Play-Misty-for-Me</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Jazz Swing Radio stream from publicdomainproject.org (former Swiss Internet Radio)</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Public Domain Jazz - Swiss Internet Radio</string>
+		<key>url</key>
+		<string>http://relay.publicdomainproject.org:80/jazz_swing.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>RADIO WEB ET FM</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RCOFM</string>
+		<key>url</key>
+		<string>http://streamantille.com:8008/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>RADIO WEB ET FM</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RCOFM</string>
+		<key>url</key>
+		<string>http://streamantille.com:8008/rco64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Ambiance Jazz sur cette radio avec du Classic Jazz Blues Swing Modern Jazz des classiques du Jazz aux derni&amp;#xe8;res nouveaut&amp;#xe9;s. Jazzy mood on this radio with Classic Jazz Blues Swing Jazz Modern Jazz classics to the latest.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RJMJazzy</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/RJM-Jazzy</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Powered by Infomaniak.Net</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio 3DFM</string>
+		<key>url</key>
+		<string>http://radio3dfm.ice.infomaniak.ch/radio3dfm-high.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Live-Moderation und Musik von den 1950ern bis heute</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Cisaria International</string>
+		<key>url</key>
+		<string>http://stream.radio-cisaria.de:80/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Nordsjælland FM</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Humleborg &amp; Jazzkanalen</string>
+		<key>url</key>
+		<string>http://media.wlmm.dk:80/humleborg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Southern Marin's Community Radio Station</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Sausalito</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/RadioSausalito</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>"Your Parade of Hits from the 30s &amp; 40s!"</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Swing Worldwide</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/radioswingworldwide</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Cette radio 100% jazz pr&amp;#xe9;sente le jazz dans tous ses &amp;#xe9;tats. Elle vous fera d&amp;#xe9;couvrir progressivement mes compositeurs et interpr&amp;#xe8;tes favoris mes d&amp;#xe9;couvertes dans l histoire du jazz ou les nouveaux talents.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio-jazz</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/radio-jazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>RÃ¡dioCafÃ© Online | CafÃ©StÃ¹dio WebRadio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RadioCafé | www.cafe.radio.br | www.arqs.com.br</string>
+		<key>url</key>
+		<string>http://stream01.arqs.com.br:10000/autodj</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RadioCrazy - Jazz</string>
+		<key>url</key>
+		<string>http://friends-of-radius.ethz.ch:80/radiocrazy-jazz.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>WebRadio essentially musical styles in: Jazz Vocal Jazz Blues Swing BigBand Latin Jazz Caribbean Brazil...</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RadioSkyMusic</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/RadioSky-Music</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>La Web Radio del Polo di Prato</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RadioSpin</string>
+		<key>url</key>
+		<string>http://www.radiospin.poloprato.unifi.it:8000/airtime96.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Expand your musical horizons!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radiolla Jiraffe 128k</string>
+		<key>url</key>
+		<string>http://air.radiolla.com:80/jiraffe.128k.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Expand your musical horizons!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radiolla Jiraffe 192k</string>
+		<key>url</key>
+		<string>http://air.radiolla.com:80/jiraffe.192k.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Expand your musical horizons!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radiolla Jiraffe 32k</string>
+		<key>url</key>
+		<string>http://air.radiolla.com:80/jiraffe.32k.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Black Music &amp; News on the Internet</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Ramjam Radio - Where The Sun Always Shines</string>
+		<key>url</key>
+		<string>http://188.138.16.143:21300/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>My station description</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Real house music just released trax (realhouse-newtraxroom)</string>
+		<key>url</key>
+		<string>http://83.81.14.21:7711/pre.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>My station description</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Real house music just released trax (realhouse-newtraxroom)</string>
+		<key>url</key>
+		<string>http://83.81.14.21:7711/pre.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>My station description</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Realhouse.nl Guru Room MP3</string>
+		<key>url</key>
+		<string>http://83.81.14.21:7711/guru.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Relax channel of "Internet Radio Cast Studio"</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Relax Channel - IRCStudio.com</string>
+		<key>url</key>
+		<string>http://live.ircstudio.com:8808/ircstudio-relax-128</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>0</string>
+		<key>desc</key>
+		<string>Streaming best alternative music from Russia with love... SanFM.ru</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>SanFM.ru=Alternative</string>
+		<key>url</key>
+		<string>http://sanfm.ru:8000/alternative</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>0</string>
+		<key>desc</key>
+		<string>Streaming best Drum and bass music from Russia with love... SanFM.ru</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>SanFM.ru=Drum and bass</string>
+		<key>url</key>
+		<string>http://sanfm.ru:8000/drum_nonstop</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>0</string>
+		<key>desc</key>
+		<string>Streaming latest pop/dance/club worldwide hits from Russia with love... SanFM.ru</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>SanFM.ru=Pop</string>
+		<key>url</key>
+		<string>http://sanfm.ru:8000/pop</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>0</string>
+		<key>desc</key>
+		<string>Streaming best trance music from Russia with love... SanFM.ru</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>SanFM.ru=Trance</string>
+		<key>url</key>
+		<string>http://online.znradio.ru:8000/radio_194_128kb</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Sanza Radio diffuse les diff&amp;#xe9;rentes formes musicales pr&amp;#xe9;sentes en Afrique. Notre programmation laisse une place de choix aux nouvelles formes d expression musicale  : African Jazz/Blues African Pop  sans pour autant ignorer les formes musicales plus</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>SanzaRadio</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Sanza-Radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Blues, Jazz, Retro, Rock, Rock'n'Roll</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Second Shadow of The Yellow Submarine I</string>
+		<key>url</key>
+		<string>http://radio.rikt.ru:8000/ys-radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Sibwave, Novosibirsk</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Sibwave.Ru</string>
+		<key>url</key>
+		<string>http://listen.sibwave.ru:8000/sibwave.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Sibwave, Novosibirsk</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Sibwave.Ru</string>
+		<key>url</key>
+		<string>http://listen.sibwave.ru:8000/sibwave</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Station that helps you Free your Mind and Liberate your Soul!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Sir Sax Gospel Skate Party Radio Network</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/sirsax</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Smooth Jazz Florida with the Smoothest Jazz on the Planet</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Smooth Jazz Florida</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/smoothjazzflorida</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Smooth Jazz Florida Plus (+) - More Smooth Jazz from Smooth Jazz Florida - Stream 2</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Smooth Jazz Florida Plus (+)</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/sjfplus</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>SmoothJazz.com Global Radio - The World's First 24/7 Since 2000 - KJAZ.DB</string>
+		<key>url</key>
+		<string>http://ns1.smart-com.si:8000/stream/10</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Selection of the best smooth jazz music 24/7</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Smoothbestmusicradio</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/Smoothbestmusicradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192000</string>
+		<key>desc</key>
+		<string>192Kbit mp3 codec ! Smooth,Contemporary,Instrumental Jazz from lossless see http://smj.delfa.net for details</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Smoothest Jazz station</string>
+		<key>url</key>
+		<string>http://radioserver1.delfa.net:80/192.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Gumbo Mix of Genre's  from all eras of recorded sound</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Snakeice's House of Beats (128kbps-IceCast)</string>
+		<key>url</key>
+		<string>http://dhoytt.com:8030/128kbps</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>160</string>
+		<key>desc</key>
+		<string>Gumbo Mix of Genre's  from all eras of recorded sound</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Snakeice's House of Beats (160kbps-IceCast)</string>
+		<key>url</key>
+		<string>http://dhoytt.com:8030/160kbps</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Gumbo Mix of Genre's</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Snakeice's House of Beats (64kbps-IceCast)</string>
+		<key>url</key>
+		<string>http://dhoytt.com:8030/64kbps</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>320</string>
+		<key>desc</key>
+		<string>Gumbo Mix of Genre's  from all eras of recorded sound</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Snakeice's House of Beats (IceCast- 320kbps)</string>
+		<key>url</key>
+		<string>http://dhoytt.com:8030/320kbps</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Soulful Classic Jazz Radio</string>
+		<key>url</key>
+		<string>http://67.159.12.5:80/SoulfulClassicJazz_lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Soulful Classic Jazz Radio</string>
+		<key>url</key>
+		<string>http://50.7.53.2:80/SoulfulClassicJazz_hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Soulful Smooth Jazz Radio</string>
+		<key>url</key>
+		<string>http://50.7.53.2:80/SoulfulSmoothJazz_hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Soulful Smooth Jazz Radio</string>
+		<key>url</key>
+		<string>http://50.7.53.2:80/SoulfulSmoothJazz_lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>"The Voice" - Playing What We Like!</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Super 91.7 WMPH</string>
+		<key>url</key>
+		<string>http://s2.stationplaylist.com:9100/wmph.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Swiss Internet Radio - swissradio Modern Jazz</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Swiss Internet Radio - swissradio Modern Jazz</string>
+		<key>url</key>
+		<string>http://relay.swissradio.ch:80/modern_jazz.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The Cosmopolitan Sound of New York!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Penthouse</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/penthouse</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>57</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Pittsburgh Jazz Channel</string>
+		<key>url</key>
+		<string>http://war.str3am.com:7600/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>concert time: we-sa 20.30 - 22.30</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The bird's eye jazz club</string>
+		<key>url</key>
+		<string>http://rs33.stream24.org:8610/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Danceable Jazzy funky soulful electronic chill-out music! Dansante Jazzy funky soul musique &amp;#xe9;lectronique chill-out! Tanzbare Jazzy funky seelenvollen elektronischen Chill-out-Musik! Ballabile Jazzy funky soul chill-out di musica elettronica!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>TheBocX</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/TheBocX</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>An easy beat journey spiced with romance and laced with memories.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>TheMostMusic</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/TheMostMusic</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WBOI Indiana Public Radio NPR 89.1 FM</string>
+		<key>url</key>
+		<string>http://2793.live.streamtheworld.com:3690/WBOIFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Jazz music - all day - from WKAR</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>WKAR Jazz</string>
+		<key>url</key>
+		<string>http://mozart.wkar.msu.edu:80/wkar-jazz</string>
+	</dict>
+</array>
+</plist>

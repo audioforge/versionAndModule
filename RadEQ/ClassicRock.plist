@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>101 WRIF</string>
+		<key>url</key>
+		<string>http://5833.live.streamtheworld.com:443/WRIFFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>105.3 The Point</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/WPTQFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>105.5 Frank FM</string>
+		<key>url</key>
+		<string>http://3093.live.streamtheworld.com:80/WBYAFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>105.5 Spreeradio Trus Collection</string>
+		<key>url</key>
+		<string>http://5243.live.streamtheworld.com:80/SPR_TRCAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>106.1 The Path </string>
+		<key>url</key>
+		<string>http://2963.live.streamtheworld.com:80/WQTLFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>50</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>106.7 The Drive</string>
+		<key>url</key>
+		<string>http://CFDV.streamon.fm:8000/CFDV-48k.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>106.9 The Fox</string>
+		<key>url</key>
+		<string>http://eawe.vip.dendc.liquidcompass.net/WAFXFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>50</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>106.9 The Wolf</string>
+		<key>url</key>
+		<string>http://CHWF.streamon.fm:8000/CHWF-48k.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>107.3 K ROCK</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/WKAZFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>107.3 WRSW</string>
+		<key>url</key>
+		<string>http://icy1.abacast.com:80/federatedmedia-wrswfm-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>93 Rock</string>
+		<key>url</key>
+		<string>http://3313.live.streamtheworld.com:80/WRQEFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>93.9 Classic Hits</string>
+		<key>url</key>
+		<string>http://1.ice1.firststreaming.com/kjmk_fm.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>94 WYSP</string>
+		<key>url</key>
+		<string>http://6093.live.streamtheworld.com:80/WYSPFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Big Land FM</string>
+		<key>url</key>
+		<string>http://1852.live.streamtheworld.com:80/CFLNFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Big R Radio - 100.5 Classic Rock</string>
+		<key>url</key>
+		<string>http://173.193.14.53/100point5</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>CIDR The River 93.9 FM</string>
+		<key>url</key>
+		<string>http://3103.live.streamtheworld.com:80/CIDRFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>41</string>
+		<key>desc</key>
+		<string>CJAY aac+v2 48k stream</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>CJAY FM 92</string>
+		<key>url</key>
+		<string>http://icecastsource2.amri.ca:80/cjay-aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>51</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>CKLZ Power 104 FM</string>
+		<key>url</key>
+		<string>http://CKLZ.streamon.fm:8000/CKLZ-48k.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>CKNL The Bear 101.5 FM</string>
+		<key>url</key>
+		<string>http://icecastsource2.amri.ca:80/cknl-aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>CKX 96 FM</string>
+		<key>url</key>
+		<string>http://icecastsource2.amri.ca:80/ckx-aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Cidade Classic Rock</string>
+		<key>url</key>
+		<string>http://2633.live.streamtheworld.com:80/CIDADECLASSICROCKAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Classic Hits 100.1 KKWK FM</string>
+		<key>url</key>
+		<string>http://in.icy2.abacast.com/goodradio-kkwkfm-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Classic Rock 98.1 KKFM</string>
+		<key>url</key>
+		<string>http://2563.live.streamtheworld.com:443/KKFMFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Clash of the Classics. Old versus new Classic Rock. A musical journey through the beautiful jungle of Classic Rock.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ClassicRockRecords</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/Classic-Rock-Records</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Clear 101.7</string>
+		<key>url</key>
+		<string>http://2233.live.streamtheworld.com:80/KLRRFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Cool 102</string>
+		<key>url</key>
+		<string>http://in.icy2.abacast.com/cool102-wcibfm-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>50</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>CrystalOne Music Radio</string>
+		<key>url</key>
+		<string>http://neptune.crystalone.net:8000</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Generations 102.3 FM</string>
+		<key>url</key>
+		<string>http://2093.live.streamtheworld.com:80/WZGNFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Hippie Radio 106.9</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/WPLZHD</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KDKB 93.3 FM </string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/KDKBFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KEZO 92 FM</string>
+		<key>url</key>
+		<string>http://1402.live.streamtheworld.com:80/KEZOFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KHRD-FM RED 103.1</string>
+		<key>url</key>
+		<string>http://2433.live.streamtheworld.com:80/KHRDFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KINK 101.9 FM</string>
+		<key>url</key>
+		<string>http://2453.live.streamtheworld.com:3690/KINKFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KKLH The Cave 104.7 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/KKLHFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KOZZ 105.7 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/KOZZFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KPOI 105.9</string>
+		<key>url</key>
+		<string>http://2353.live.streamtheworld.com:80/KPOIFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KPRI 102.1 FM</string>
+		<key>url</key>
+		<string>http://2633.live.streamtheworld.com:80/KPRIFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KPTV FM</string>
+		<key>url</key>
+		<string>http://87.117.228.94:7222/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KSLX 100.7 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/KSLXFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KSNX 105.5 FM</string>
+		<key>url</key>
+		<string>http://ice3.securenetsystems.net/KSNX</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KZOZ 93.3 FM</string>
+		<key>url</key>
+		<string>http://ice2.securenetsystems.net/KZOZ</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Entre West-CoastClassic Rock et Rock FM ...  ...Let the Music play</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>LRC</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/LRC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Streaming by Securenet Systems</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Pixy 103</string>
+		<key>url</key>
+		<string>http://ice7.securenetsystems.net/WPXC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Greatest Hits Of All Time</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Q 96.1 FM</string>
+		<key>url</key>
+		<string>http://out1.tor.icy.abacast.com/bluewater-wqksfm-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Q Rock 100.7</string>
+		<key>url</key>
+		<string>http://3093.live.streamtheworld.com:80/WRXQFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>QFM 96WLVQ</string>
+		<key>url</key>
+		<string>http://3313.live.streamtheworld.com:80/WLVQFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>desc</key>
+		<string>RTL ROCK</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>RTL Power FM</string>
+		<key>url</key>
+		<string>http://82.201.100.23/WEB04-RTL_ROCK</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>97</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio City</string>
+		<key>url</key>
+		<string>http://icelive0.43660-icelive0.cdn.qbrick.com/4917/43660_radio_city.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Real Radio XS 106.1 FM</string>
+		<key>url</key>
+		<string>http://shoutcast.gmgradio.com:10103</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Real Radio XS 96.3 FM</string>
+		<key>url</key>
+		<string>http://shoutcast.gmgradio.com:10001</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Real Radio XS Digital</string>
+		<key>url</key>
+		<string>http://shoutcast.gmgradio.com:10104</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Rock 105</string>
+		<key>url</key>
+		<string>http://eawe.vip.dendc.liquidcompass.net/XHIMFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Rock 107</string>
+		<key>url</key>
+		<string>http://in.icy2.abacast.com/msoshamrock-wezxfm-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Rock 98.3 The Twins </string>
+		<key>url</key>
+		<string>http://2563.live.streamtheworld.com:80/KTWSFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Rock FM 100.6 FM</string>
+		<key>url</key>
+		<string>http://80.86.106.35:800/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Rocket 95.1 FM</string>
+		<key>url</key>
+		<string>http://out2.cmn.icy.abacast.com/wrtt-wrttfmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>THE MOUNTAIN 93.9</string>
+		<key>url</key>
+		<string>http://2513.live.streamtheworld.com:80/KMGNFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Bandit 92.9 FM</string>
+		<key>url</key>
+		<string>http://4673.live.streamtheworld.com:443/KURKFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Bay 100.7 FM</string>
+		<key>url</key>
+		<string>http://in1.atl.icy.abacast.com/shamrock-wzbafm-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>41</string>
+		<key>desc</key>
+		<string>CFBR aac+ v2 48k stream</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Bear 100.3 FM</string>
+		<key>url</key>
+		<string>http://icecastsource2.amri.ca:80/cfbr-aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Bull 94.5</string>
+		<key>url</key>
+		<string>http://3103.live.streamtheworld.com:80/CIBUFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Coast 91.7 FM</string>
+		<key>url</key>
+		<string>http://ice7.securenetsystems.net/CKAY</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>923 The Dock</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Dock 92.3 FM</string>
+		<key>url</key>
+		<string>http://ice3.securenetsystems.net/CJOS</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Eagle 104.9 FM</string>
+		<key>url</key>
+		<string>http://2283.live.streamtheworld.com:80/WEGEFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Eagle 106.9 FM</string>
+		<key>url</key>
+		<string>http://1382.live.streamtheworld.com:80/WWEGFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Fox 95.7 FM</string>
+		<key>url</key>
+		<string>http://4673.live.streamtheworld.com/KJFXFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Fox 99.1 FM</string>
+		<key>url</key>
+		<string>http://icy1.abacast.com:80/eldorado-kxfm-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Hawk 104.9 FM</string>
+		<key>url</key>
+		<string>http://2943.live.streamtheworld.com:3690/WLKZFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Hawk 99.9 FM</string>
+		<key>url</key>
+		<string>http://1852.live.streamtheworld.com:3690/WODEFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Krush 95.9 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/KRSHFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Loop 97.9 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/WLUPFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Penguin 98.3 FM</string>
+		<key>url</key>
+		<string>http://out2.cmn.icy.abacast.com/wuin-wuinfmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Rebel 105.9</string>
+		<key>url</key>
+		<string>http://3313.live.streamtheworld.com:80/WXTLFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The River 95.9</string>
+		<key>url</key>
+		<string>http://3313.live.streamtheworld.com:443/WERVFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Rock 94.9</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/KPKYFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Revivez l&amp;apos;atmosph&amp;#xe8;re avec Vinyle Rock des ann&amp;#xe9;es &amp;apos;60 &amp;apos;70 avec la musique rock rock and roll garage psych&amp;#xe9;d&amp;#xe9;lique et aussi de la musique qu&amp;apos;on entend nulle part ailleurs!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>VinyleRock</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Vinyle-Rock</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WABX 107.5 FM</string>
+		<key>url</key>
+		<string>http://2903.live.streamtheworld.com:80/WABXFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WAOR 95.7 FM</string>
+		<key>url</key>
+		<string>http://icy3.abacast.com:80/federatedmedia-waor2fmaac-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WCSX Deep Trax 94.7 HD 2</string>
+		<key>url</key>
+		<string>http://3153.live.streamtheworld.com:80/WCSXHD2AAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WDHA 105.5 FM</string>
+		<key>url</key>
+		<string>http://1651.live.streamtheworld.com:443/WDHAFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WECL The Big Cheese 92.9 FM</string>
+		<key>url</key>
+		<string>http://2573.live.streamtheworld.com:3690/WECLFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WEHM 92.9</string>
+		<key>url</key>
+		<string>http://in1.atl.icy.abacast.com/longisland-wehmfm-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WEXP The Fox 101.5 FM</string>
+		<key>url</key>
+		<string>http://1681.live.streamtheworld.com:80/WEXPFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WFNK Frank FM 107.5 FM</string>
+		<key>url</key>
+		<string>http://3103.live.streamtheworld.com:3690/WFNKFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WFNQ Frank 106.3 FM</string>
+		<key>url</key>
+		<string>http://2933.live.streamtheworld.com:80/WFNQFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WGKC Classic Rock 105.9</string>
+		<key>url</key>
+		<string>http://2573.live.streamtheworld.com:80/WGKCFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WHDQ 106 FM</string>
+		<key>url</key>
+		<string>http://1541.live.streamtheworld.com:80/WHDQFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>The Rock Station</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WHMH 101.7 FM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/WHMH</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WIHG iHOG 105.7 FM</string>
+		<key>url</key>
+		<string>http://206.130.108.33:8000/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WIMZ 103.5 FM</string>
+		<key>url</key>
+		<string>http://1651.live.streamtheworld.com:80/WIMZFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WIND FM 92.5</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/WNDDFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WJJO Solid Rock 94.1 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/WJJOFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WKLC ROCK 105 FM</string>
+		<key>url</key>
+		<string>http://out1.cmn.icy.abacast.com/wklc-wklcfmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WMGK 102.9 FM</string>
+		<key>url</key>
+		<string>http://1601.live.streamtheworld.com:443/WMGKFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WMMR 93.3 FM</string>
+		<key>url</key>
+		<string>http://3023.live.streamtheworld.com:80/WMMRFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WPKE 103.1 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/WPKEFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>WSFM 101.7 Sydney</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WSFM Plus</string>
+		<key>url</key>
+		<string>http://icecast.arn.com.au/1017.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Y108 Rocks </string>
+		<key>url</key>
+		<string>http://3163.live.streamtheworld.com:80/CJXYFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Z 102.3 FM</string>
+		<key>url</key>
+		<string>http://1731.live.streamtheworld.com:80/WQHZFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Z 95.3 FM</string>
+		<key>url</key>
+		<string>http://in.icy2.abacast.com/dowdy-wznffm-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>257</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Zappateers Radio</string>
+		<key>url</key>
+		<string>http://176.28.48.138:8000/zappa.aac</string>
+	</dict>
+</array>
+</plist>

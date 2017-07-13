@@ -1,0 +1,2420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Classic Soul from the 50's, 60's. 70's and 80's</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>(((The Classic Soul Network)))</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/classicsoulnetwork</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Entertainment-News-Music</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>** Dreamcatch-Radio **</string>
+		<key>url</key>
+		<string>http://stream.dreamcatch-radio.net:10000/audio.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>256</string>
+		<key>encoding</key>
+		<string>video/nsv</string>
+		<key>name</key>
+		<string>** Dreamcatch-Radio **</string>
+		<key>url</key>
+		<string>http://stream.dreamcatch-radio.net:10000/video.nsv</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Music from a Good Time</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>0ldies</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/0ldies</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The Music Of Your Life   50s-60s-70s-80s-90s-00s...  1000 Hits by decade!   Toda tu m&amp;#xfa;sica sin pausas</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>1000HITSSweetRadio</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/1000-HITS-Sweet-Radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>106.1 Superhits</string>
+		<key>url</key>
+		<string>http://2343.live.streamtheworld.com:80/KIYXFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>3CS</string>
+		<key>url</key>
+		<string>http://2633.live.streamtheworld.com:80/ACE_3CSAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>3SH Swan Hill 1332</string>
+		<key>url</key>
+		<string>http://2573.live.streamtheworld.com:80/ACE_3SHAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>3WM Horsham 1090</string>
+		<key>url</key>
+		<string>http://2633.live.streamtheworld.com:80/ACE_3WMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>3YB Warrnambool 882</string>
+		<key>url</key>
+		<string>http://2293.live.streamtheworld.com:80/ACE_3YBAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>var</string>
+		<key>desc</key>
+		<string>All the best music from the last 50+ years.  Pop, Rock, Oldies, Adult, Jazz, Classical, Misc.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>50+ Years</string>
+		<key>url</key>
+		<string>http://206.255.35.49:8000/music</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>desc</key>
+		<string>88.9 FM Richmond Valley Radio Live Internet Stream</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>88.9 FM Richmond Valley Radio</string>
+		<key>url</key>
+		<string>http://s2.stationplaylist.com:9300/listen.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>93.9 Classic Hits</string>
+		<key>url</key>
+		<string>http://1.ice1.firststreaming.com/kjmk_fm.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>95.5 Classic Hit Radio</string>
+		<key>url</key>
+		<string>http://121.97.68.107:8000/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>97.1 The Wave</string>
+		<key>url</key>
+		<string>http://6713.live.streamtheworld.com:80/WAVDFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>51</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>97.3 The Eagle</string>
+		<key>url</key>
+		<string>http://CKLR.streamon.fm:8000/CKLR-48k.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>98.9 Fun FM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/WWIK</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>A fine selection of 80 s 90 s Rock New Wave and Alternative.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>A.r.s.radio</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/ars-radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>A Better Oldies Radio Station playing your favorite Malt Shop Jukebox Memories from the 50s and 60s.    Website: http://abetterradio.com</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ABetterOldiesStation</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/a-better-oldies-station</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Oldies 50 s Classics.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>AERO50S</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/AERO50S</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>WHHW The Island</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AM 1130 The Island</string>
+		<key>url</key>
+		<string>http://ice2.securenetsystems.net/WHHW</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AM 1230 WFVA</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/WFVAAMAACS</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AM 580 </string>
+		<key>url</key>
+		<string>http://1852.live.streamtheworld.com:80/CKWWAMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>desc</key>
+		<string>CISL aac+v2 48k stream</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AM 650</string>
+		<key>url</key>
+		<string>http://icecastsource2.amri.ca:80/cisl-aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>THE BEST OLDIES FROM 1955 TO 1970 and THE GREAT TOP 40 STATIONS...</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>AMERICANGRAFFITI</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/AMERICAN-GRAFFITI</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>desc</key>
+		<string>ANTENNE VORARLBERG - Oldies</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>ANTENNE VORARLBERG - Oldies</string>
+		<key>url</key>
+		<string>http://webradio.antennevorarlberg.at:80/oldies.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>ANTENNE VORARLBERG - Oldies</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ANTENNE VORARLBERG - Oldies</string>
+		<key>url</key>
+		<string>http://webradio.antennevorarlberg.at:80/oldies</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The best Oldies from the fifties sixties and seventies.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Abacus.fmOldies</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/abacusfm-oldies</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AddictedToRadio  80s Pop Hits</string>
+		<key>url</key>
+		<string>http://wms-13.streamsrus.com:9330</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AddictedToRadio  Easy Listening</string>
+		<key>url</key>
+		<string>http://wms-15.streamsrus.com:16730</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AddictedToRadio - 70s Pop Hits</string>
+		<key>url</key>
+		<string>http://wms-13.streamsrus.com:9130</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AddictedToRadio Jammin' Oldies</string>
+		<key>url</key>
+		<string>http://wms-13.streamsrus.com:9030</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AddictedToRadio Studio 54</string>
+		<key>url</key>
+		<string>http://wms-13.streamsrus.com:9830</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>This station goes back to the 50s. Enjoy this decade with the best hits...   Visit our website http://www.radio-addictive-50s.eu</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Addictive-50s</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/Addictive-50s</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>This radio plays the best of the sixties.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Addictive-60s</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/Addictive-60s</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>KeepFreeMusic.com - the 60's!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>All 60s All the Time</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/keepfree60s</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>60s' - 70s' Pop Rock Oldies</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>All-Star Radio</string>
+		<key>url</key>
+		<string>http://87.229.24.114:8040/live60s.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>60s' - 70s' Pop Rock Oldies</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>All-Star Radio</string>
+		<key>url</key>
+		<string>http://87.229.24.114:8040/live60s.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Una emisora que destaca toda la m&amp;#xfa;sica de calidad independientemente de cu&amp;#xe1;ndo se public&amp;#xf3;. Temas antiguos pero vivos recuerdos para algunos y quiz&amp;#xe1; descubrimientos para otros. No pretendemos ser nost&amp;#xe1;lgicos sino recuperar todo lo que nos sirva para d</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Antiguos,perobuenos</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Antiguos--pero-buenos</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Great Oldies from both sides of the Atlantic</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Atlantic Oldies 2NG</string>
+		<key>url</key>
+		<string>http://208.85.243.134:80/2ngtest</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>desc</key>
+		<string>WBZO</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>B 103.1 FM</string>
+		<key>url</key>
+		<string>http://208.43.60.66/wbzo-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Der GEMA-freie Sender fuer Pop, Rock, Dance, Loungemusik uvm. abwechslungsreich abgemischt</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>BOfH-Radio: Pop, Rock, Dance, Lounge, RocknRoll</string>
+		<key>url</key>
+		<string>http://bofh-radio.de:8000/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Backyard Radio</string>
+		<key>url</key>
+		<string>http://s2.stationplaylist.com:8180</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>87</string>
+		<key>desc</key>
+		<string>Bandstand</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Bandstand</string>
+		<key>url</key>
+		<string>http://peace.str3am.com:6320/bandstand</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Belgian Oldies Radio brengt 24u/dag 7/7 non-stop muziek uit de jaren 506070 en 80. Naast de bekende Hits besteedt B.O.R ook ruime aandacht aan minder gekende platen uit deze periode. M.a.w echte Rariteiten of Collectors-items die je zelden of nooit h</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>BelgianOldiesRadio</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/Belgian-Oldies-Radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Diverse Selection Of Music (The King Fab Four Classic Crooners Early Rock n Roll and More)</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>BestoftheOldies-LudwigRadio.com</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/BestoftheOldies-LudwigRadiocom</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>50</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Big R Radio - 70s and 80s Pop Mix</string>
+		<key>url</key>
+		<string>http://173.193.14.53/70s80s</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Good times and great oldies 24/7/365.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Blazing Star Radio - Playing all the Hottest Stars of Yesteryear!</string>
+		<key>url</key>
+		<string>http://listen.blazingstarradio.com:4489/broadband.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Good times and great oldies 24/7/365.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Blazing Star Radio - Playing all the Hottest Stars of Yesteryear!</string>
+		<key>url</key>
+		<string>http://listen.blazingstarradio.com:4489/dialup.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The best pop music. Top Hits and Oldies 80&amp;#xb4;s 90&amp;#xb4;s. Pop Ingles y exitos latinos desde los 80 hasta ahora.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CITYPOPRADIO</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/CITY-POP-RADIO</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>CKDO 107.7 FM</string>
+		<key>url</key>
+		<string>http://3313.live.streamtheworld.com:80/CKDOFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>CKKW KFUN 99.5 FM</string>
+		<key>url</key>
+		<string>http://2893.live.streamtheworld.com:80/CKKWFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>CLASSIC HITS...LOCAL SPORTS!</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>COOL101.7 WMVL-FM</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/wmvl-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Cadillac Radio Classic Rock 60s - 80s 128kb</string>
+		<key>url</key>
+		<string>http://thebig429.no-ip.org:9000/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>desc</key>
+		<string>6SEN Capital Community Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Capital 101.7DAB+ (Digital: AAC) - Perth's Radio for Seniors (Western Australia) - "The Golden Years of Radio"</string>
+		<key>url</key>
+		<string>http://ic2489.c1788.fast-serv.com:80/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Central FM - aus Liebe zum Radio. Wir senden aus Pulheim in alle Welt. Oldies, Rock, Pop</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Central FM Pulheim</string>
+		<key>url</key>
+		<string>http://www.radiobrauweiler.de:8000/livetest</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Central FM - aus Liebe zum Radio. Wir senden aus Pulheim in alle Welt. Oldies, Rock, Pop</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Central FM Pulheim</string>
+		<key>url</key>
+		<string>http://www.radiobrauweiler.de:8000/liveaacptest</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Classic 96.7 FM</string>
+		<key>url</key>
+		<string>http://in.icy3.abacast.com/firstmedia-wwzwfmaac-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Classic Hits * C100 - Classic Hit Music 70s &amp; 80s Music Power, UK</string>
+		<key>url</key>
+		<string>http://www1.c1hundred.co.uk:7146/C100.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>desc</key>
+		<string>Classic Hit Music of the 70s &amp;80s LIVE from Buckinghamshire</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Classic Hits * C100 - Classic Hit Music 70s &amp; 80s Music Power, UK</string>
+		<key>url</key>
+		<string>http://www1.c1hundred.co.uk:7146/C100</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>(Classic Rock) Uturn Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Classic Rock) (UturnRadio</string>
+		<key>url</key>
+		<string>http://play.uturnradio.com:80/classic_rock</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Cool 101.3 FM</string>
+		<key>url</key>
+		<string>http://1731.live.streamtheworld.com:80/WNCLFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Die Schlagergarage</string>
+		<key>url</key>
+		<string>http://icecast.schlagergarage.de:8080/stream.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>112</string>
+		<key>desc</key>
+		<string>24/7 luxury music radio station.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Filter www.radiofilter.org</string>
+		<key>url</key>
+		<string>http://bcast.radiofilter.org:80/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Gammagioiosa GoldenHits</string>
+		<key>url</key>
+		<string>http://95.110.186.253:8000/gammagioiosagold.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>GREATEST OLDIES &amp;amp; GOLDIES FROM THE 50 s 60 s 70 s. Elvis Presley-Matt Monro-Andy Williams-Demis Roussos-Al Martino-Paul Anka-Shirley Bassey- Beattles-Bee Gees-Carpenters-Joe Dolan-Engelbert Humperdinck-Tom Jones-Franck Sinatra-Cliff Richard-Barbra St</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Golden50/70sHits</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/golden-50-70s-hits</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Golden Years radio plays the best music from the 60 s and the 70 s.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Goldenyearsradionet</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/goldenyearsradionet</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Oldies Gone Wrong</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Great Big Radio</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/greatbigradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Hits - and the Songs That Should ve Been - Great Big Radio plays two generations of truly dazzling power pop without cobwebs treacle or apologies. We strive to play the best sounding hits and the songs you never EVER thought you d hear on the rad</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>GreatBigRadio</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/greatbigradio_64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Groove 99.3 FM</string>
+		<key>url</key>
+		<string>http://out2.cmn.icy.abacast.com/kkbb-kkbbfmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Harmony Radio [Belgium]  www.harmonyradio.be</string>
+		<key>url</key>
+		<string>http://mp3alt.harmonyradio.be:8000/harmonyradio.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Hippie Radio 94.5</string>
+		<key>url</key>
+		<string>http://ice6.securenetsystems.net:80/WHPYFM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Besten Oldie Hits der 60 s bis 90 s Ihr werdet es  kaum glaubenaber auch wir waren einmal KINDER und  einige von uns haben noch alte CDs Keller oder auf  dem Dachboden liegen....  Wir sind daum euch die alten Zeiten und ein kleinen Teil unser und eue</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>HitRadioRocky</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/HitRadioRocky</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>K-Hits 92.1 FM</string>
+		<key>url</key>
+		<string>http://2173.live.streamtheworld.com:80/KCCLFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KAAM 770 AM Legends</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/KAAMAMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>desc</key>
+		<string>The Lost Goldmine</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>KFXM</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/kfxm-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>desc</key>
+		<string>The Lost Goldmine</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KFXM 96.7 FM</string>
+		<key>url</key>
+		<string>http://ic1.nwrnetwork.com/kfxm-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>desc</key>
+		<string>The Lost Goldmine</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>KFXM The Lost Goldmine</string>
+		<key>url</key>
+		<string>http://50.22.253.45:8000/kfxm-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KIXI 880 AM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/KIXIAMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>KJUL</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KJUL 104.7 FM</string>
+		<key>url</key>
+		<string>http://208.43.60.66/kjul-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KKHA Happy Radio 92.5 FM</string>
+		<key>url</key>
+		<string>http://in.icy2.abacast.com/youreasttexas-kkhafm-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KMCQ 104.5 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/KMCQFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>50</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KOLA 99.9 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/KOLAFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>KQLL</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KOOL 102.3 FM</string>
+		<key>url</key>
+		<string>http://208.43.60.66//kqll-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>KQLL</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KOOL 1280 AM</string>
+		<key>url</key>
+		<string>http://208.43.60.66/kqll-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>KQLL</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>KQLL</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/kqll-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KSNX 105.5 FM</string>
+		<key>url</key>
+		<string>http://ice3.securenetsystems.net/KSNX</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KXKL 105.1 FM</string>
+		<key>url</key>
+		<string>http://7289.live.streamtheworld.com:80/KXKLFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>desc</key>
+		<string>U100 - Playing the 60's and 70's - 24Kbit AAC+</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>KY00 - U100</string>
+		<key>url</key>
+		<string>http://icecast.wildghosts.com:8000/U100low</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>U100 - Playing the 60's and 70's - 64Kbit AAC+</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>KYOO - U100</string>
+		<key>url</key>
+		<string>http://icecast.wildghosts.com:8000/U100mid</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Hot Talk - Cool Oldies</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>KZQZ AM</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/kzqz-am</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>L.M.Radio 87.8 FM</string>
+		<key>url</key>
+		<string>http://stream-16.streamsolutions.co.uk/9102</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>LM Radio</string>
+		<key>url</key>
+		<string>http://stream-16.streamsolutions.co.uk:9102</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Mitmachradio von Hörer für Hörer!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Laut.fm/radioclub</string>
+		<key>url</key>
+		<string>http://stream.laut.fm:80/radioclub</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Altid En Go' Sang</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Limfjord Plus</string>
+		<key>url</key>
+		<string>http://media.wlmm.dk:80/limfjordplus</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>60 s Oldies</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>LonestarRadio60's</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/LonestarRadio60-s</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>60s &amp; 70s Oldies in STEREO 24/7</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>MS Radio #1</string>
+		<key>url</key>
+		<string>http://66.55.85.17:8001/live1</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The Best Oldies The best Classic Hits  Every song is a memory  Every song is a hit!!! No Remakes</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>MYGENERATIONFM</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/MY-GENERATION-FM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Magic 102.7</string>
+		<key>url</key>
+		<string>http://1721.live.streamtheworld.com:80/WMXJFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Magic Oldies with the Hits from the 60's, 70's and 80's</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Magic Oldies</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/MagicOldies</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Magic Oldies Florida with the Best Oldies on the Planet!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Magic Oldies Florida</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/MagicOldiesFlorida</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>"Nothing But The Seventies...24/7!"</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Musicradio Bop 70s</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/musicradiobop70s</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>My Oldies Music</string>
+		<key>url</key>
+		<string>http://gordgibb.com:8257/live.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>When we are not playing your game we are playing your favorites</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>NewSong Sports</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/cinb-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The soft side of the Oldies. Top hits from 60s to 80s. Classic Rock Love Songs Soft Rock New Oldies Classic Hits and much more!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>OldiesInternetRadioPlus</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/OldiesInternetRadioPlus</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio en l&amp;#xed;nea desde M&amp;#xe9;xico con los &amp;#xe9;xitos musicales que te hacen vibrar hoy y desde siempre: las melod&amp;#xed;as del recuerdo que simplemente son &amp;#xa1;Viejitas pero bonitas!  &amp;#xa1;Oldies but goodies! = Baladas en espa&amp;#xf1;ol + Rock en espa&amp;#xf1;ol + Pop en espa&amp;#xf1;ol + 80 s +</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>OldiesMexico</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/Oldies-Mexico</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>oldies 60's 70's</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Oldiesradio RGR</string>
+		<key>url</key>
+		<string>http://uplink.intronic.nl:80/rgrfm_oldiesradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Una vecchia radio per emozioni sempre nuove  An old radio for every new emotions</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>OldradioWeb</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/oldradioweb</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Onda Brava</string>
+		<key>url</key>
+		<string>http://198.105.220.12:7893/Live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM 60s &amp; 70s Hits</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/56</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Ballady Wszech Czasow</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/20</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Biesiada</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/59</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Biesiada Slaska</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/66</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Classical Hits</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/46</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Po Polsku Classic</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/79</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Early 60 s poppie 70 s disco 80 s influencing 90 s. On www.dejukebox.com request you re own favourite songs. Enjoy the music on the all hits webradio.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>OurJukebox</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/Our-Jukebox</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Those were the days. That was the music.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Potpouradio</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/potpouradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Producciones JPC - Radio Clasica</string>
+		<key>url</key>
+		<string>http://audio3.streamingfrankyessi.com:9220</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>desc</key>
+		<string>RADIO GOLDEN FLASH</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>RADIO GOLDEN FLASH</string>
+		<key>url</key>
+		<string>http://uplink.intronic.nl:80/goldenflash_mobile</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>RADIO GOLDEN FLASH</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RADIO GOLDEN FLASH</string>
+		<key>url</key>
+		<string>http://uplink.intronic.nl:80/goldenflash</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>RADIO fresh80s - Hier sind die Achtziger zuhause!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RADIO fresh80s - Hier sind die Achtziger zuhause!</string>
+		<key>url</key>
+		<string>http://80.237.157.78:8000/live.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>http://radiosatellite.co or http://radiosatellite.canalblog.com  Oldies US UK  popcountry music jazz   and wordlwilde musics 24/7</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RADIOSATELLITE</string>
+		<key>url</key>
+		<string>http://198.50.250.195:7064/RADIOSATELLITE</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Oldies, Classics, 60s, 70s</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>RFM Radio Gold</string>
+		<key>url</key>
+		<string>http://stream.rfmmedia.nl:81/gold</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Oldies, Classics, 60s, 70s</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RFM Radio Gold</string>
+		<key>url</key>
+		<string>http://stream.rfmmedia.nl:81/goldwm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>My station description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio 10 Gold 60's &amp; 70's Hits</string>
+		<key>url</key>
+		<string>http://82.201.100.23/WEB09-R10G-6070sHits</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>My station description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio 10 Gold 80's Hits</string>
+		<key>url</key>
+		<string>http://82.201.100.23/WEB05-R10G-80sHits</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>160</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio 19</string>
+		<key>url</key>
+		<string>http://streams.movemedia.eu:80/radio19</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>"Your Never-Ending Nonstop Sock Hop!"</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Bop</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/radiobop</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>"Boss Radio Is Back!" - All 60s...all 60 minutes of every hour!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Bop 60s</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/Radio-Bop-60s</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Eileen</string>
+		<key>url</key>
+		<string>http://radioeileen.dlinkddns.com:8000/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Dat moet je Horen en niet Zien!</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Radio Eileen</string>
+		<key>url</key>
+		<string>http://radioeileen.dlinkddns.com:8000/live.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Erzgebirge 107.7 FM</string>
+		<key>url</key>
+		<string>http://streams2.321stream.de:9004</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>67</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Express</string>
+		<key>url</key>
+		<string>http://stream.nadaje.com:8064/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Gold FM</string>
+		<key>url</key>
+		<string>http://80.86.106.110:8002/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>131</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Happy Days</string>
+		<key>url</key>
+		<string>http://91.121.104.139:8110/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Javiera 92.7 FM</string>
+		<key>url</key>
+		<string>http://stream.digitalproserver.com:9650/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Merseywaves</string>
+		<key>url</key>
+		<string>http://188.138.16.28:8000/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio Oldies Rock</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Oldies Rock</string>
+		<key>url</key>
+		<string>http://mp3stream4.abradio.cz:8000/oldiesrock128.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Radio Oldies Rock</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Oldies Rock</string>
+		<key>url</key>
+		<string>http://mp3stream4.abradio.cz:80/oldiesrock64.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>desc</key>
+		<string>Radio Plus Gent (AACv2)</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Radio Plus Gent (AACv2)</string>
+		<key>url</key>
+		<string>http://stream6.topradio.be:8000/radioplus.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio Plus Gent (MP3)</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Plus Gent (MP3)</string>
+		<key>url</key>
+		<string>http://stream3.topradio.be:8000/radioplus.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio Saint-Barth Douce France</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Saint-Barth Douce France</string>
+		<key>url</key>
+		<string>http://2stream.dyndns.org:8000/rsbdfmp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Die besten und schönsten Schlager für Ihr Herz. Rund um die Uhr 24 Stunden. Schlagermelodie - Wir bringen Ihnen die besten Schlager!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Schlagermelodie</string>
+		<key>url</key>
+		<string>http://radio.schlagermelodie.de:8100/schlagermelodie</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Tenneberg</string>
+		<key>url</key>
+		<string>http://fra.radiostream.de:37085</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Timisoara FM 105.9</string>
+		<key>url</key>
+		<string>http://89.238.220.178:8001/rtmFM.aacp</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Tygerberg</string>
+		<key>url</key>
+		<string>http://216.246.37.52:8066</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>De Grootste Hits Allertijden</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio10Gold</string>
+		<key>url</key>
+		<string>http://82.201.100.23/Radio10Gold</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>A station that rocks the world. Oldies goldies and classics radio station on the web. 24Hrs Oldies 4 Ever. Don t forget to listen to us !!!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio14FM</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/radio-14fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Alleen de beste oldies uit de jaren 50 60 en 70    Only the best oldies from the fifties sixties and seventies</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RadioNostalgia</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/Radio-Nostalgia</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>This is your radio station to stay in touch with the 50 s60 s70 s and 80 s music. Streaming the best oldies from those great musical years. All this never to be forgotten songs are here 7/24. Enjoy our  Artist of the Week  daily hour too.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RadioOldiesMusic4Ever</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/RadioOldiesMusic4Ever</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Nationale en internationale nostalgie 24 uur per dag non-stop bij Radio Tijdloos!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RadioTijdloos</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Radio-Tijdloos</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radyo Alaturka</string>
+		<key>url</key>
+		<string>http://92.48.118.17:9100/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Ran FM</string>
+		<key>url</key>
+		<string>http://adsl.ranfm.lk</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Recuerdo 103.9 FM</string>
+		<key>url</key>
+		<string>http://2473.live.streamtheworld.com:3690/KRCDFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Recuerdo 106.5 FM</string>
+		<key>url</key>
+		<string>http://2473.live.streamtheworld.com:80/KRCDFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Retro 1260 KGIL</string>
+		<key>url</key>
+		<string>http://2353.live.streamtheworld.com:80/KMZTFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>It's not how old it is... It's how GOOD it is!</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Rewound Radio</string>
+		<key>url</key>
+		<string>http://rewoundradio.com:5000/rewound</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Not Just Oldies Fron the 50's - 80's</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Rock And Roll Thru Time</string>
+		<key>url</key>
+		<string>http://162.251.160.2:80/gapfreeradiohigh</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Rockabilly Radio</string>
+		<key>url</key>
+		<string>http://lin3.ash.fast-serv.com:6026/stream_32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Rockhausradio - Be true, be hard, be Rockhausradio.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Rockhausradio - Be true, be hard, be Rockhausradio.</string>
+		<key>url</key>
+		<string>http://84.19.182.20:31883/rockhausradio.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Oldies Tropical ... A really full station .... Without music fill .. 24 hours just for you that does not want to get bored ...</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Rockytikas</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/Rockytikas</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>LIVE OLDIES REQUEST 50 s 60 s 70 s and 80 s  Luister mee en vraag je verzoekplaat aan in onze automaat.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Rolradio</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/rolradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>LIVE OLDIES REQUEST 50 s 60 s 70 s and 80 s  Luister mee en vraag je verzoekplaat aan in onze automaat.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Rolradio</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/rolradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>SUPER 80S</string>
+		<key>url</key>
+		<string>http://s4.myfreenetradio.com/super80s.aacp</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Smooth Radio 70's</string>
+		<key>url</key>
+		<string>http://shoutcast.gmgradio.com:10008</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>desc</key>
+		<string>Smooth 915 Melbourne</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>SmoothFM 91.5</string>
+		<key>url</key>
+		<string>http://117.53.175.113:15018/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>desc</key>
+		<string>Soft and easy songs from yesterday and today.</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Soft 'N Easy Net Radio</string>
+		<key>url</key>
+		<string>http://208.85.243.134:80/sne24kaac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>129</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Solid Gold Gem AM</string>
+		<key>url</key>
+		<string>http://usa1-pn.mixstream.net:8070/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Sunny 94.1 FM</string>
+		<key>url</key>
+		<string>http://CJUV.streamon.fm:8000/CJUV-32k.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>34</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Super 70s</string>
+		<key>url</key>
+		<string>http://s4.myfreenetradio.com/super70s.aacp</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>"World Class Music"</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>SuperNova Radio</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/supernovaradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>THE BEST OF FRENCH AND AMERICAN OLDIES FROM THE 60 s &amp;amp; 70 s. TUBES ANGLAIS ET FRAN&amp;#xc7;AIS DES ANN&amp;#xc9;ES 60s et 70s.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>SuperOldies</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/Super-Oldies</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The best in the west Surfradio-int</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Surfradio-Int MP3 128 kbps</string>
+		<key>url</key>
+		<string>http://stream.surfradio.nl:8000/128.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Revive los éxitos de tu vida</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>TOP EsLa Radio (((Live Radio)))</string>
+		<key>url</key>
+		<string>http://72.46.136.154:7059/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Breeze 107.1 FM</string>
+		<key>url</key>
+		<string>http://out1.cmn.icy.abacast.com/brze-brzefmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>50s 60s</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Doo-Wop Express Plus</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/doowop</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>50</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Lounge 99.9 FM</string>
+		<key>url</key>
+		<string>http://CHPQ.streamon.fm:8000/CHPQ-48k.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Memory Lane Show with Big Bob</string>
+		<key>url</key>
+		<string>http://listen.powercastmedia.net:8000/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Oldies</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Sweet Sxties</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/sweetsixties</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>TOP 40 Hits of 1955-1982 in the order they charted!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The TOP 40 Time Clock</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/top40timeclock</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Vault 92.3 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/KJYEFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>****Playing decades of all the Timeless Tunes!**** ***24/7 Timeless Music Hits Playing all day all week***</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>TimelessTunes</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/TimelessTunes</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The greatest hits from the sixties seventies and eighties.  De grootste hits uit de jaren zestig zeventig en tachtig.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ToppersvanToen</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/Toppers-van-Toen</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>50's &amp; 60's music 24/7</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Tunedex Memories</string>
+		<key>url</key>
+		<string>http://199.180.72.58:8000/128K</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>50's &amp; 60's music 24/7</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Tunedex Memories</string>
+		<key>url</key>
+		<string>http://199.180.72.58:8000/32K</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>50's &amp; 60's music 24/7</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Tunedex Memories</string>
+		<key>url</key>
+		<string>http://199.180.72.58:8000/64K</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>60s Rock &amp; Roll</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Tuner24 - 60s</string>
+		<key>url</key>
+		<string>http://67.159.12.5:80/tuner24_60s_hifi</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>U100 Playing music from the 60's - 70's</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>U100</string>
+		<key>url</key>
+		<string>http://icecast.wildghosts.com:8000/U100</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>120</string>
+		<key>desc</key>
+		<string>unserRadio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>UnserRadio</string>
+		<key>url</key>
+		<string>http://rs4.stream24.net:80/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Up 99.3</string>
+		<key>url</key>
+		<string>http://3313.live.streamtheworld.com:80/CIUPFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Sit back and relax. Get comfortable. Now close your eyes and enjoy pure music.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>VitteseRadio</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/Vittese-Radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>W 1440 AM</string>
+		<key>url</key>
+		<string>http://1741.live.streamtheworld.com:80/CKJRAMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WAJP Kentucky Oldies</string>
+		<key>url</key>
+		<string>http://rs3.radiostreamer.com:8080</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WAKR 1590 AM</string>
+		<key>url</key>
+		<string>http://out2.cmn.icy.abacast.com/wakr-wakramaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WAVV 101.1 FM</string>
+		<key>url</key>
+		<string>http://out2.cmn.icy.abacast.com/wavv-wavvfmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Music from the 50's, 60's and 70's</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>WDGY-Oldies</string>
+		<key>url</key>
+		<string>http://icecast.wildghosts.com:8000/WDGY-OLDIES64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>WDGY 1130AM from the 50's - the 70's</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>WDGY-Oldies</string>
+		<key>url</key>
+		<string>http://icecast.wildghosts.com:8000/WDGY-OLDIES</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>country hits</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WEHH AM</string>
+		<key>url</key>
+		<string>http://ice3.securenetsystems.net/WEHH</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WEZO 1230 AM</string>
+		<key>url</key>
+		<string>http://ice3.securenetsystems.net:80/WEZO</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>SuperHits 95.9 WGRQ Live Online</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WGRQ 95.9 FM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/WGRQ</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>WHLI</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WHLI 1100 AM</string>
+		<key>url</key>
+		<string>http://208.43.60.66/whli-am</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WIQK</string>
+		<key>url</key>
+		<string>http://pgholdies.no-ip.biz:9000/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Pumping out the hits of the 60's, 70's and beyond!</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>WIXY1260Online</string>
+		<key>url</key>
+		<string>http://199.180.72.2:8100/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Pumping out the hits of the 60's, 70's and beyond!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>WIXY1260Online</string>
+		<key>url</key>
+		<string>http://77.67.106.13:8012/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Star Spangled Rock n Roll WJBB</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>WJBB 1300 AM</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/wjbb</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WLMI 92.9  FM</string>
+		<key>url</key>
+		<string>http://3153.live.streamtheworld.com:80/WLMIFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WMBS 590 AM</string>
+		<key>url</key>
+		<string>http://ice3.securenetsystems.net:80/WMBS</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Ocean 104.7 Cape Cod's Decades of Favorites</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WOCN FM Ocean 104.7</string>
+		<key>url</key>
+		<string>http://ice7.securenetsystems.net/WOCN</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WROR HD2 105.7 FM</string>
+		<key>url</key>
+		<string>http://3093.live.streamtheworld.com:80/WRORHD2AACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Best Music You Forgot</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Web Radio Classics - WRC</string>
+		<key>url</key>
+		<string>http://199.180.72.2:8174/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>YouSee Radio from Beesel, The Netherlands</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>YouSee Radio</string>
+		<key>url</key>
+		<string>http://stream2.youseeradio.nl:8000/kartoffel.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>This is YouSee Radio Beesel</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>YouSee Radio From Beesel Netherlands,the best station in Holland</string>
+		<key>url</key>
+		<string>http://stream2.youseeradio.nl:8000/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ZOE.FM - hier zijn de classics !</string>
+		<key>url</key>
+		<string>http://streams.movemedia.eu:80/zoe</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ZOE.FM - hier zijn de classics !</string>
+		<key>url</key>
+		<string>http://streams.movemedia.eu:80/zoe192</string>
+	</dict>
+</array>
+</plist>

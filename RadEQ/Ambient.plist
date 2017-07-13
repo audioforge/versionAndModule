@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>New Age Music</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>(new age) www.servicesbyone.se.</string>
+		<key>url</key>
+		<string>http://78.70.61.69:8000/newage</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>1.FM Destination: SPA</string>
+		<key>url</key>
+		<string>http://sc-spa.1.fm:6004</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>electronic music for experienced ears</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>16BIT.FM IDEA Channel - electronic music for experienced ears</string>
+		<key>url</key>
+		<string>http://16bit.fm:8000/idea_mp3_128</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>La radio en apesanteur m&amp;#xe9;lange d&amp;apos;Ambient d&amp;apos;Indie cool de Folktronic pop ect...  Flux pour Winampwmp... http://listen.radionomy.com/a1-quiet-radio.m3u.   vous aimez ? alors dites le ! if you like leave a comment !</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>A1QuietRadio</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/A1-Quiet-Radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AddictedToRadio Day Spa</string>
+		<key>url</key>
+		<string>http://wms-15.streamsrus.com:15030</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Music from, by, and about space... by Sonic Lens. An eclectic mixture of electronic ambient, space, and sci-fi sounds.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Ambient by Sonic Lens</string>
+		<key>url</key>
+		<string>http://tripe.blitter.com:8000/slambient</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Big R Radio - Erin&apos;s Chill</string>
+		<key>url</key>
+		<string>http://173.193.14.53/erinschill</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Chillout - DIGITALLY IMPORTED - ambient psy chillout, check out our trippy flavors!</string>
+		<key>url</key>
+		<string>http://uaplayer.com:8000/6</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>DELUXE LOUNGE RADIO</string>
+		<key>url</key>
+		<string>http://audio1.ipercast.net:8000/deluxemusic.tv/lounge_web/mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>98</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Dark Ambient Radio </string>
+		<key>url</key>
+		<string>http://sc7.spacialnet.com:22018/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>127650</string>
+		<key>desc</key>
+		<string>An Eclectic Mix of Trance, Triphop, and Chill</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dude Suit Radio</string>
+		<key>url</key>
+		<string>http://www.dude-suit.net:8000/live.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Gaia FM</string>
+		<key>url</key>
+		<string>http://stream.stationplaylist.com:8000</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>59</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Groovera Jet City Lounge</string>
+		<key>url</key>
+		<string>http://groovera.com/jetcitylounge/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>Music on Futurenet</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>HBR1 Dream Factory</string>
+		<key>url</key>
+		<string>http://radio.hbr1.com:19800/ambient.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>HRT - Radio Dubrovnik</string>
+		<key>url</key>
+		<string>http://5243.live.streamtheworld.com:80/DUBROVNIKAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>LOUNGE-RADIO.COM - swiss made</string>
+		<key>url</key>
+		<string>http://swisslounge.net:8030/test</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>.. 192Kbit/s MP3! All new music from our hdd ..</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>LSD-25 . live . radio</string>
+		<key>url</key>
+		<string>http://a1.lsd-25.ru:8000/new</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Tribute to Lord Lloigor</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Lord Lloigor`s Stream</string>
+		<key>url</key>
+		<string>http://liquiddoom.net:8000/lloigor</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>M2 CHILLOUT : ONLY LOUNGE - Live From Paris France - www.m2radio.fr</string>
+		<key>url</key>
+		<string>http://88.191.118.145:80/m2chillout</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>HI-DEF 192Kbps MP3 - NO RECORDS RADIO - SINCE 2007</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Make Some Noise - Breakcore And Disturbed Musics</string>
+		<key>url</key>
+		<string>http://icecast.norecords.org:8000/nrc-192.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Music for Adults</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Network 23</string>
+		<key>url</key>
+		<string>http://hoden.dyndns.tv:10000/stream.ogg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>34</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Odglosy Natury</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/52</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>131</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Power XL</string>
+		<key>url</key>
+		<string>http://46.20.4.34:8110</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Soundscapes for daydreamers, stargazers and fellow liquid minds.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RADIO.MASCHINENGEIST.ORG Deep Field Transmissions 192k</string>
+		<key>url</key>
+		<string>http://i.20hz.biz:8000/maschinengeist.org.192.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>50</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Chill Out</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9111/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Dark Ambient</string>
+		<key>url</key>
+		<string>http://79.120.39.202:9095/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Lounge</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9113/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Meditation/Relaxation</string>
+		<key>url</key>
+		<string>http://79.120.39.202:9109/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Musica ambiental</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radionomy</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/LARDENAN</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>75</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Relax FM 90.8</string>
+		<key>url</key>
+		<string>http://217.29.51.162:8000/relaxfm-72k.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Meditation Relaxation Zen... Smooth Riviera is a music program for live peacefully</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>SMOOTHRIVIERA</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/SMOOTH-RIVIERA</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Welcome to my webradio. I hope you enjoy listening to my relaxation music. It can help you reduce stress relax and nurture body mind and spirit.. These recordings are ideal for relaxation self healing meditation yoga massage ...  http://www.thierrymo</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ThierryMoratidotcom</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Thierry-Morati-dotcom</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>24/7/365</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Uri 32 GreenTune RADIO</string>
+		<key>url</key>
+		<string>http://217.147.162.239:8009/stream.ogg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>24/7/365</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Uri 32 GreenTune RADIO</string>
+		<key>url</key>
+		<string>http://217.147.162.239:8000/stream.ogg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>24/7/365</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Uri 32 GreenTune RADIO</string>
+		<key>url</key>
+		<string>http://217.147.162.239:8005/stream.ogg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>music for relaxation &amp; conversation, nice background for</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Wines.FM &amp; 16Bit.FM pres CAFE channel</string>
+		<key>url</key>
+		<string>http://16bit.fm:8000/cafe_aac_32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>ZEN FOR YOU la petite soeur de POP FOR YOU.  100% AMBIENT LOUNGE CHILL OUT   24/24  7/7    Available on ITUNES/ RADIO/ AMBIENT/ ZEN FOR YOU.  FIND US ON FREE APP for IPHONE &amp;amp; ANDROID: LIVERADIO RADIONOMY TUNEIN  et sur FREEBOX v6 ( webradios) !  WIDG</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ZENFORYOU</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/ZEN-FOR-YOU</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>[1337 4M8I3N7] MASCHINENGEIST.ORG RADIO Deep Field Transmissions</string>
+		<key>url</key>
+		<string>http://185.32.125.42:7331/maschinengeist.org.64.aacp</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>[1337 4M8I3N7] MASCHINENGEIST.ORG RADIO Deep Field Transmissions</string>
+		<key>url</key>
+		<string>http://178.209.52.163:7331/maschinengeist.org.128.aacp</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>RadioSpin la web Radio degli studenti del polo universitario di prato</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>airtime.mp3</string>
+		<key>url</key>
+		<string>http://www.radiospin.poloprato.unifi.it:8000/airtime.mp3</string>
+	</dict>
+</array>
+</plist>

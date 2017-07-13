@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitrate</key>
+		<string>112</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>.::Kis_Hab_Leány::..</string>
+		<key>url</key>
+		<string>http://94.199.181.143:7400/live.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>000PS.NET - NEWAGE</string>
+		<key>url</key>
+		<string>http://67.159.12.5:80/000ps_newage_hi</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>&gt;&gt;&gt; POLSKASTACJA .PL  &gt;&gt;&gt; EDEN (New Age &amp; World Music) (Polskie Radio)</string>
+		<key>url</key>
+		<string>http://188.230.62.254:8888/alt</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>desc</key>
+		<string>Activeradio.gr</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Activeradio.gr</string>
+		<key>url</key>
+		<string>http://activeradio.gr:8000/mp324</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Music from all around the world : mix fusion roots  M&amp;#xfa;sica de todo el mundo mezcla fusi&amp;#xf3;n  Musique du monde entier world mix fusion roots  Musik aus der ganzen Welt mix Fusion  Musica da tutto il mondo mix fusion roots</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>AllAroundTheWorldMusic</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/AllAroundTheWorldMusic</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Alpha FM</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Alpha FM</string>
+		<key>url</key>
+		<string>http://50-7-66-170.webnow.net.br:80/alpha.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>BELRADIO Martinique</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>BELRADIO</string>
+		<key>url</key>
+		<string>http://96.31.64.240:8000/belradiomq.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>109</string>
+		<key>desc</key>
+		<string>BELRARIO Guadeloupe</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>BELRARIO Guadeloupe</string>
+		<key>url</key>
+		<string>http://2stream.dyndns.org:8000/belradiogp.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Sit back and relax. Get comfortable. Now close your eyes and enjoy pure music.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Bloggyanonym-ssgiga</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/bloggyanonym-ssgiga</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>99</string>
+		<key>desc</key>
+		<string></string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CBC Radio 1 Vancouver</string>
+		<key>url</key>
+		<string>http://1451.live.streamtheworld.com:80/CBC_R1_VCR_H_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>99</string>
+		<key>desc</key>
+		<string></string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CBC Radio 2 Vancouver</string>
+		<key>url</key>
+		<string>http://2793.live.streamtheworld.com:443/CBC_R2_VCR_H_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>99</string>
+		<key>desc</key>
+		<string></string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CBC Radio 3</string>
+		<key>url</key>
+		<string>http://1661.live.streamtheworld.com:3690/CBC_R3_WEB_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Voice of the Shuswap</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>CKVS-FM</string>
+		<key>url</key>
+		<string>http://s2.stationplaylist.com:9240/listen.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>160</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CampusFM Toulouse, 94.0MHz</string>
+		<key>url</key>
+		<string>http://live.radio-campus.org:8000/radio_tlse</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Caribbean Vibes Radio spins an eclectic blend of music 24-7!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Caribbean Vibes Radio</string>
+		<key>url</key>
+		<string>http://s4.streammonster.com:8494/CaribbeanVibesRadio_autodj</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Chillout</string>
+		<key>url</key>
+		<string>http://50.7.53.2:80/chillout_hifi</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>All Music, All Mixed, All Desi 24/7 Requests: desimusicmix.com</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>DesiMusicMix! Hindi, Punjabi, Bollywood, All Indian 24/7! Requests: Visit desimusicmix.com</string>
+		<key>url</key>
+		<string>http://desimusicmix.com:8000/LQ</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>DesiMusicMix! Hindi, Punjabi, Bollywood, All Indian, 24/7! Requests: desimusicmix.com</string>
+		<key>url</key>
+		<string>http://desimusicmix.com:8000/prvsrc-hq</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>We promote independent and unsigned musicians from around the world if you would like to get your music hear please let us via via the contact form.  We play all styles of music.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>EDAMusicRadio2</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/EDAMusicRadio2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>World new-age spiritual ambient chill-out traditional mantra.  Radio Earthbeat biedt non-stop een lekker luisterbare mix van bijzondere muziek uit alle hoeken van de wereld.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Earthbeat</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/Earthbeat</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>European Music</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>European Radio</string>
+		<key>url</key>
+		<string>http://Radio.YerevanNights.com:81/European</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>European Music</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>European Radio</string>
+		<key>url</key>
+		<string>http://Radio.YerevanNights.com:81/European.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>28</string>
+		<key>desc</key>
+		<string>African Afro Jazz Zouk Reggae Rap RnB Coupe Decale Mix</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Farafina 100% Hits (en Bas Debit) - Le son KAINFRI</string>
+		<key>url</key>
+		<string>http://ns301365.ovh.net:8000/farafinahits.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>African Afro Jazz Zouk Reggae Rap RnB Coupe Decale Mix</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Farafina 100% Hits (en Haut Debit) - Le son KAINFRI</string>
+		<key>url</key>
+		<string>http://ns301365.ovh.net:8000/farafinahits.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>112</string>
+		<key>desc</key>
+		<string>24/7 luxury music radio station.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Filter www.radiofilter.org</string>
+		<key>url</key>
+		<string>http://bcast.radiofilter.org:80/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>125727</string>
+		<key>desc</key>
+		<string>Groovalization stream</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Groovalizacion</string>
+		<key>url</key>
+		<string>http://icecast.arscenic.tv:8000/groovalizacion</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>157278</string>
+		<key>desc</key>
+		<string>Groovalization stream</string>
+		<key>encoding</key>
+		<string>data</string>
+		<key>name</key>
+		<string>Groovalizacion</string>
+		<key>url</key>
+		<string>http://icecast.arscenic.tv:8000/groovalizacion.ogg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>GULLI</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Gulli</string>
+		<key>url</key>
+		<string>http://stream.100000000000000.com:8000/GULLI</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>112</string>
+		<key>desc</key>
+		<string>Leo</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Happy Rádió @ Örömre Hangolunk (Adásban Joe)</string>
+		<key>url</key>
+		<string>http://87.229.24.114:9990/live.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Your Persian Entertainment Channel, Live 24/7!</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>I7 Radio</string>
+		<key>url</key>
+		<string>http://5.9.18.26:80/Low</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Your Persian Entertainment Channel, Live 24/7!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>I7 Radio</string>
+		<key>url</key>
+		<string>http://5.9.18.26:80/high</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Imprensa FM 101,5 MHz Vargem Grande do Sul</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Imprensa  FM</string>
+		<key>url</key>
+		<string>http://174-37-58-160.webnow.net.br:80/imprensafm192k.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>FM de Qualidade</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Imprensa FM</string>
+		<key>url</key>
+		<string>http://174-37-58-160.webnow.net.br:80/imprensafm128k.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>FM de Qualidade</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Imprensa FM</string>
+		<key>url</key>
+		<string>http://174-37-58-160.webnow.net.br:80/imprensafm64k.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Khosh khabar va khosh avaz</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Iran Radio Mojdeh</string>
+		<key>url</key>
+		<string>http://ic2326.c1261.fast-serv.com:80/rm128</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Japan-A-Radio - Japan's best music mix!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Japan-A-Radio - Japan's best music mix!</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/japanaradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>AM-1460</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>KCWM</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/kcwm-am</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>La radio des Cultures du Monde o&amp;#xf9; vous retrouverez les artistes programm&amp;#xe9;s au Festival Kulturarte avec le S&amp;#xe9;n&amp;#xe9;gal en 2014 et l Irlande &amp;#xe0; l honneur en 2015 et aussi bien d autres horizons.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>KulturarteRadio</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/KulturarteRadio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>WorldMusic  Chillout   Lounge  Pearls</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Laut.fm/travel-trends</string>
+		<key>url</key>
+		<string>http://stream.laut.fm:80/travel-trends</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>tune in...</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Leki4koFM</string>
+		<key>url</key>
+		<string>http://dirolix.dyndns.org:8000/leki4koFM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The most romantic sound of music.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>LoungeTimeRadio</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/LoungeTimeRadio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Machine FM one</string>
+		<key>url</key>
+		<string>http://listen.moeradio.ru:10000/ONEmashineFM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Musically Reaching You.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Maddflava</string>
+		<key>url</key>
+		<string>http://maddflava.dyndns-server.com:8010/maddflava</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Meghedi</string>
+		<key>url</key>
+		<string>http://www.Meghedi.com:8000/Meghedi</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Your second chance.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>MisteriumII</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/misterium-ii</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>A Dedicated Tamil Rdio..Total Entertainment</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>NJ TAMIL Radio</string>
+		<key>url</key>
+		<string>http://radio.njtamil.com:802/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>New Age - SKY.FM - soothing sounds of new age and world music!</string>
+		<key>url</key>
+		<string>http://pub6.sky.fm:80/sky_newage</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Onda Cero online desde cualquier lugar y con el dispositivo que prefieras.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Onda Cero Noroeste</string>
+		<key>url</key>
+		<string>http://stream.ondaceronoroeste.es:80/ondacero-64.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Our Place Radio KOPR-db</string>
+		<key>url</key>
+		<string>http://216.245.217.70:8218/opr.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Petõfi Rádió (aac+)</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Petőfi Rádió (aac+)</string>
+		<key>url</key>
+		<string>http://stream002.radio.hu:80/mr2.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>80</string>
+		<key>desc</key>
+		<string>Petõfi Rádió (mp3)</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Petőfi Rádió (mp3)</string>
+		<key>url</key>
+		<string>http://stream002.radio.hu:80/mr2.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>80</string>
+		<key>desc</key>
+		<string>Petõfi Rádió (ogg)</string>
+		<key>encoding</key>
+		<string>data</string>
+		<key>name</key>
+		<string>Petőfi Rádió (ogg)</string>
+		<key>url</key>
+		<string>http://stream002.radio.hu:80/mr2.ogg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>** Wir haben den Bass, damit Eure Boxen rocken **</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio BassRock-Live</string>
+		<key>url</key>
+		<string>http://85.25.152.184:10090/BassRock-Live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio Saint-Barth Zouk</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Saint-Barth Zouk</string>
+		<key>url</key>
+		<string>http://2stream.dyndns.org:8000/rsbzoukmp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>african</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Services By One(african)</string>
+		<key>url</key>
+		<string>http://78.70.61.69:8000/african</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>we put 'des' in pardes</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Radio asia</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/radioasia</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>we put 'des' in pardes</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Radio asia</string>
+		<key>url</key>
+		<string>http://50.22.253.45:8000/radioasia</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Vous &amp;#xea;tes &amp;#xe0; l &amp;#xe9;coute de RADIO WASSOUOLOU INTERNATIONALE avec sa musique traditionelle du pays de Wassoulou au Mali et &amp;#xe0; la Guin&amp;#xe9;e. Beaucoup de plaisir!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RadioWassoulouInternationale</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Radio-Wassoulou-Internationale</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Introducing independent Japanese artists and bands to an English-speaking audience</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Rufus Lin Radio</string>
+		<key>url</key>
+		<string>http://ic2340.c1351.fast-serv.com:80/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Russian Music</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Russian Radio</string>
+		<key>url</key>
+		<string>http://Radio.YerevanNights.com:81/Russian</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Russian Music</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Russian Radio</string>
+		<key>url</key>
+		<string>http://Radio.YerevanNights.com:81/Russian.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Suara Gontor Fm</string>
+		<key>url</key>
+		<string>http://suarofm.onlivestreaming.net:10290/suargofm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Alex Jones Show: Mon-Fri 11:00AM-2:00PM CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Alex Jones Show - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/alexJones-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Alex Jones Show: Mon-Fri 11:00am-2:00pm CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Alex Jones Show - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/alexJones-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Caribbean Muzic @ its best 24/7</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Vibes891 Radio</string>
+		<key>url</key>
+		<string>http://s04.whooshclouds.net:8136/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Liquidsoap Radio!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>We Love MusiC! Do U?! - 128kbps/MP3/Stereo - http://XTRadio.ORG - Like us on http://fb.com/XTRadio.ORG</string>
+		<key>url</key>
+		<string>http://xtradio.org:8080/mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Liquidsoap Radio!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>We Love MusiC! Do U?! - 192kbps/MP3/Stereo - http://XTRadio.ORG - Like us on http://fb.com/XTRadio.ORG</string>
+		<key>url</key>
+		<string>http://xtradio.org:8080/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Liquidsoap Radio!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>We Love MusiC! Do U?! - 32kbps/AAC+/Stereo - http://XTRadio.ORG - Like us on http://fb.com/XTRadio.ORG</string>
+		<key>url</key>
+		<string>http://xtradio.org:8080/aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>desc</key>
+		<string>LPFM station in Tawa, Wellington, New Zealand</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>World FM 88.2 MHz Tawa, Wellington, New Zealand</string>
+		<key>url</key>
+		<string>http://www.worldfm.co.nz:8882/worldfm.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>LPFM station in Tawa, Wellington, New Zealand</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>World FM 88.2 MHz Tawa, Wellington, New Zealand</string>
+		<key>url</key>
+		<string>http://www.worldfm.co.nz:8882/worldfm.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>LPFM station in Tawa, Wellington, New Zealand</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>World FM 88.2 MHz Tawa, Wellington, New Zealand</string>
+		<key>url</key>
+		<string>http://www.worldfm.co.nz:8882/worldfmstereo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>24 hour Free Armenian Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Yerevan Nights Radio</string>
+		<key>url</key>
+		<string>http://Radio.YerevanNights.com:81/YerevanNights</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>24 Hour Free Armenian Radio</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Yerevan Nights Radio</string>
+		<key>url</key>
+		<string>http://Radio.YerevanNights.com:81/YerevanNights.aac</string>
+	</dict>
+</array>
+</plist>

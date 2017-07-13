@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>El Blues.. un mismo sentimiento del alma.. compartido</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>"ConAlmadeBlues"</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Con-Alma-de-Blues</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Smooth, soft &amp; lazy..jazz, blues, soul - Christmas Mix</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Absolute smooth mix-jazz,blues,soul [CD-Quality]</string>
+		<key>url</key>
+		<string>http://joweb.dyndns.org:8052/live2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Smooth, soft &amp; lazy..jazz, blues, soul - Christmas Mix</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Absolute smooth mix-jazz,blues,soul [Radio-Quality]</string>
+		<key>url</key>
+		<string>http://joweb.dyndns.org:8052/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AddictedToRadio  Bar Rockin Blues</string>
+		<key>url</key>
+		<string>http://wms-15.streamsrus.com:11730</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AddictedToRadio  Bluegrass</string>
+		<key>url</key>
+		<string>http://wms-15.streamsrus.com:12430</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AddictedToRadio Blues Classics</string>
+		<key>url</key>
+		<string>http://wms-15.streamsrus.com:11630</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Backstage Radio News la radio sans fronti&amp;#xe8;re ni limite musicale !</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>BackstageRadioNews</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/Backstage-Radio-News</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>LOW BANDWIDTH STREAM</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Big Blue Swing.com</string>
+		<key>url</key>
+		<string>http://radio.BigBlueSwing.com:8000/bigblueswing-32.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Playing music for  Lindy Hop,  Charleston,  Balboa,  Swing, and  Blues</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Big Blue Swing.com</string>
+		<key>url</key>
+		<string>http://radio.BigBlueSwing.com:8000/bigblueswing-64.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>High Bitrate MP3</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CJSW - University of Calgary Radio</string>
+		<key>url</key>
+		<string>http://stream.cjsw.com:80/cjsw.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Bienvenid@s a las ondas hercianas de la Cocktelera Blues Radio !!! Emitiendo m&amp;#xfa;sica las 24 horas del d&amp;#xed;a ininterrumpidamente hay una gran selecci&amp;#xf3;n de estilos musicales referentes al Blues Rythm&amp;apos;n&amp;apos;Blues Electric Blues Blues Rock Clasic Blues Chicago</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CockteleraBlues</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/Cocktelera-Blues</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Detour Blues</string>
+		<key>url</key>
+		<string>http://arizona.thedetour.us:7200</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>An eclectic mix of personal favorites. For playlist statistics visit www.last.fm/user/dionysian-mind</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dionysian Mind - mp3</string>
+		<key>url</key>
+		<string>http://dionysian-mind.net:8000/mpd.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio-Farwater-Blues</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Farwater-Blues(http://Radio-Farwater.org)</string>
+		<key>url</key>
+		<string>http://radio-farwater.org:8000/blues.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio-Farwater-Live</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Farwater-Live(http://Radio-Farwater.org)</string>
+		<key>url</key>
+		<string>http://radio-farwater.org:8000/nonstop.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio-Farwater-OldBlues</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Farwater-Old Blues(http://Radio-Farwater.org)</string>
+		<key>url</key>
+		<string>http://radio-farwater.org:8000/oldblues.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>shamelessly eclectic</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>HolyCrow</string>
+		<key>url</key>
+		<string>http://johnallenbydouglas.ca:8000/listen</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KNES Texas 99.1 FM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net:80/KNES</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Kocz 103.7 FM Radio broadcast</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Kocz 103.7 FM</string>
+		<key>url</key>
+		<string>http://76.72.168.18:8000/kocz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Indie Creative Commons radio --cc-radio-- 24h de pop,rock,blues,indie....musica de alto standing</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>La noche del hombre lobo - Poprocks - aac</string>
+		<key>url</key>
+		<string>http://poprocks.lobocast.org.es:8002/poprocks-aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Indie Creative Commons radio --cc-radio-- 24h de pop,rock,blues,indie....musica de alto standing</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>La noche del hombre lobo - Poprocks - aacplus</string>
+		<key>url</key>
+		<string>http://poprocks.lobocast.org.es:8002/poprocks-aacplus</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Indie Creative Commons radio --cc-radio-- 24h de pop,rock,blues,indie....musica de alto standing</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>La noche del hombre lobo - Poprocks - mp3</string>
+		<key>url</key>
+		<string>http://poprocks.lobocast.org.es:8002/poprocks</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>M2 JAZZ : ONLY JAZZ - Live From Paris France - www.m2radio.fr</string>
+		<key>url</key>
+		<string>http://88.191.118.145:80/m2jazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>R.A.D.I.O...G.A.L.A.X.Y...GREECE</string>
+		<key>url</key>
+		<string>http://amber.hydrosila.com:8000/galaxy.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Polska Bluesowa Stacja Radiowa / Polish Blues Radio Station</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Baobab - Warszawa, Polska</string>
+		<key>url</key>
+		<string>http://stream.radiobaobab.pl:8000/radiobaobab.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>132</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Derf - Delta</string>
+		<key>url</key>
+		<string>http://91.121.119.60:8007/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>134</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Derf - Polish Blues</string>
+		<key>url</key>
+		<string>http://91.121.119.60:8026/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio-Farwater-Live</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio-Farwater-Live</string>
+		<key>url</key>
+		<string>http://radio-farwater.org:8000/live.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>La Web Radio del Polo di Prato</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RadioSpin</string>
+		<key>url</key>
+		<string>http://www.radiospin.poloprato.unifi.it:8000/airtime96.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Blues, Jazz, Retro, Rock, Rock'n'Roll</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Second Shadow of The Yellow Submarine I</string>
+		<key>url</key>
+		<string>http://radio.rikt.ru:8000/ys-radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>The People's Station</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>The Awesome AM</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/wabg-am</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Le blues sur internet</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>W3 bluesRadio</string>
+		<key>url</key>
+		<string>http://w3bluesradio.com:8000/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Wild West Radio - High Cholesterol, Low Protein Radio - 94.5% Saturated Fat</string>
+		<key>url</key>
+		<string>http://veebikaamera.ee:8008/WildWestRadio</string>
+	</dict>
+</array>
+</plist>

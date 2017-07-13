@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>best of the best of the classical core, with a particular focus on live music from New York’s unparalleled cultural scene.</string>
+		<key>name</key>
+		<string>WQXR - New York&apos;s Classical Music</string>
+		<key>url</key>
+		<string>http://wnyc-wqxr-ice.streamguys.com:80/wqxr.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>electronic music for experienced ears</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>16BIT.FM IDEA Channel - electronic music for experienced ears</string>
+		<key>url</key>
+		<string>http://16bit.fm:8000/idea_mp3_128</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>90.5 FM WKAR presents the world&apos;s best classical music, weekday mornings with Mark Schwitzgoebel and afternoons with Jody Knol</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>90.5 Classical from WKAR</string>
+		<key>url</key>
+		<string>http://mozart.wkar.msu.edu:80/wkar-fm-mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radionomy Radio create your own at http://www.radionomy.com</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ABCClassic</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/ABC-Classic</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Amadeus Radio Szolnok (192kbit/sec)</string>
+		<key>url</key>
+		<string>http://www.amadeusradio.hu:8000/stream192</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Òâîð÷åñòâî è äóøåâíîå ðàâíîâåñèå</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ÀÂÅÐÀ: Ìóçûêà äóøè</string>
+		<key>url</key>
+		<string>http://stream.radio-hosting.net:8000/avera</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Bartók Rádió (aac+)</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Bartók Rádió (aac+)</string>
+		<key>url</key>
+		<string>http://stream002.radio.hu:80/mr3.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Bartók Rádió (mp3)</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Bartók Rádió (mp3)</string>
+		<key>url</key>
+		<string>http://stream002.radio.hu:80/mr3.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Commercial-free classical music with modern composers and soundtracks.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>BlazeRadio Mostly Classical - It&apos;s good for you</string>
+		<key>url</key>
+		<string>http://stream.blazeradio.org:8000/mostlyclassical</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>desc</key>
+		<string>Default description</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CALMRADIO.COM - CANTATAS - Sampler</string>
+		<key>url</key>
+		<string>http://calm3.calmradio.com:10756/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Default description</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CALMRADIO.COM - SCHUMANN - Sampler</string>
+		<key>url</key>
+		<string>http://calm6.calmradio.com:11028/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>desc</key>
+		<string>Default description</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CALMRADIO.COM - TELEMANN - Sampler</string>
+		<key>url</key>
+		<string>http://calm6.calmradio.com:8856/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Default description</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CALMRADIO.COM - TELEMANN - Sampler</string>
+		<key>url</key>
+		<string>http://calm6.calmradio.com:8828/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>La radio de musique classique vous proposant les meilleurs airs des plus grands compositeurs.    The masters of classical music. At home at the office and on the web at classiccomposers.org.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ClassicComposersRadio</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/Classic-Composers-Radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Classical &amp; Flamenco Guitar - SKY.FM - a mix of classical, spanish, and flamenco guitar</string>
+		<key>url</key>
+		<string>http://pub7.sky.fm:80/sky_guitar</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Classical KHFM 95.5 FM</string>
+		<key>url</key>
+		<string>http://2503.live.streamtheworld.com:80/KHFMFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Classical</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Classical Oasis</string>
+		<key>url</key>
+		<string>http://kc3ol.dynip.com:8010/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Classical WBACH 104.7 FM</string>
+		<key>url</key>
+		<string>http://3083.live.streamtheworld.com:3690/WBACHFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>A donor-supported online classical music station presenting inspiring compositions and performances.</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Classics Radio</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/wwed-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Jamendo Radio by Nicole</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Jamendo Classical Radio</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/JamClassical</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>St. John Passion - J.S. Bach</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Johannes Passion / St. John Passion</string>
+		<key>url</key>
+		<string>http://boink.stream-portal.org:9000/johannes_passion</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>131</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KNDL 89.9 FM</string>
+		<key>url</key>
+		<string>http://4983.live.streamtheworld.com:80/KDFCFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>M2 CLASSIC : ONLY SOUNDTRACKS &amp; CLASSICAL MUSIC - Live From Paris France - www.m2radio.fr</string>
+		<key>url</key>
+		<string>http://88.191.118.145:80/m2classic</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>God Is My DJ</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Misterium</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/Misterium</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Mostly Classical - SKY.FM - Listen and Relax, it&apos;s good for you! www.sky.fm</string>
+		<key>url</key>
+		<string>http://pub7.sky.fm:80/sky_classical</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Enjoy the magic of Mozart - Disfruta de la magia de Mozart - Profitez de la magie de Mozart -  Genie&amp;#xdf;en Sie den Zauber von Mozart - Godetevi la magia di Mozart</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Mozartiana</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/Mozartiana</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>34</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Muzyka Klasyczna</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/67</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Classical Radio stream from publicdomainproject.org</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Public Domain Classical - Swiss Internet Radio</string>
+		<key>url</key>
+		<string>http://relay.publicdomainproject.org:80/classical.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>My station description</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RÁDIO  CLÁSSICA</string>
+		<key>url</key>
+		<string>http://player.morcegaofm.com.br:8089/classica</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Beethoven</string>
+		<key>url</key>
+		<string>http://sc.grupodial.net:8086/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Mass/Chorus/Cantata</string>
+		<key>url</key>
+		<string>http://79.120.39.202:9053/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Neoclassical</string>
+		<key>url</key>
+		<string>http://79.120.39.202:9101/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>A tribute to the great composer Luigi Boccherini (Lucca 1743; Madrid 1805)</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RadioBoccherini</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/Radio-Boccherini</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RadioCrazy - Classical</string>
+		<key>url</key>
+		<string>http://friends-of-radius.ethz.ch:80/radiocrazy-classical.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RadioCrazy - Opera</string>
+		<key>url</key>
+		<string>http://friends-of-radius.ethz.ch:80/radiocrazy-opera.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>87</string>
+		<key>desc</key>
+		<string>Symphony</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Symphony</string>
+		<key>url</key>
+		<string>http://peace.str3am.com:6320/symphony</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Venice Classic Radio Italia - Beautiful Classical Music</string>
+		<key>url</key>
+		<string>http://109.123.116.202:8004/vcr128</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WBNI Classical NPR 94.1 FM</string>
+		<key>url</key>
+		<string>http://3143.live.streamtheworld.com:443/WBNIFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>104.9 FM</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>WELCOME TO WCLV 104.9</string>
+		<key>url</key>
+		<string>http://auggie.wclv.com:80/wclvmp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>All Classical, all the time, on the web at wkar.org</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>WKAR Classical</string>
+		<key>url</key>
+		<string>http://mozart.wkar.msu.edu:80/wkar-classical</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>desc</key>
+		<string>90.5 FM WKAR presents the world&apos;s best classical music, weekday mornings with Mark Schwitzgoebel and afternoons with Jody Knol</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>WKAR-FM 90.5</string>
+		<key>url</key>
+		<string>http://mozart.wkar.msu.edu:80/wkar-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Allegro Musics</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>radio</string>
+		<key>url</key>
+		<string>http://airtime.allegromusics.com:8000/radio</string>
+	</dict>
+</array>
+</plist>

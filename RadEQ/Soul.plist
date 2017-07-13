@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Soul R&amp;amp;B Motown</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>#1Soul</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/-1Soul</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Classic Soul from the 50's, 60's. 70's and 80's</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>(((The Classic Soul Network)))</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/classicsoulnetwork</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Only Soul Music</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>AAASOUL</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/AAA-SOUL</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Sexy House Music ABCdanceRadio.Com</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>AMBIENTANDLOUNGE</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/AMBIENT-AND-LOUNGE</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Smooth, soft &amp; lazy..jazz, blues, soul [CD-Quality]</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Absolute smooth mix-jazz,blues,soul [CD-Quality]</string>
+		<key>url</key>
+		<string>http://joweb.dyndns.org:8052/live2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Smooth, soft &amp; lazy..jazz, blues, soul  [Radio-Quality]</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Absolute smooth mix-jazz,blues,soul [Radio-Quality]</string>
+		<key>url</key>
+		<string>http://joweb.dyndns.org:8052/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Spirit Of Soul The Way To Your Soul</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>AmysFMSpiritOfSoul</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/AmysFM-SpiritOfSoul</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>BOOYAA.RU .:. JAZZ</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>BOOYAA.RU .:. JAZZ</string>
+		<key>url</key>
+		<string>http://194.63.140.214:8000/booyaa_128_mp3_jazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Diverse Selection Of Music (R&amp;amp;B Funk Soul and More)</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>BestClassicRnBHits-LudwigRadio.com</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/BestClassicRnBHits-LudwigRadiocom</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>160</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CampusFM Toulouse, 94.0MHz</string>
+		<key>url</key>
+		<string>http://live.radio-campus.org:8000/radio_tlse</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Keepin' It Old School</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>ClassicFreaks.Com</string>
+		<key>url</key>
+		<string>http://classicfreaks.live-streams.nl:8010/low</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>-=[ Spinnin' the Best Old School Hip Hop New Jack Swing Club &amp; Danceclassics 24/7 ]=-</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ClassicFreaks.Com</string>
+		<key>url</key>
+		<string>http://classicfreaks.live-streams.nl:8010/main</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>A part of clubberry.fm - fastest growing EDM internet radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Clubberry Drum'n'Bass</string>
+		<key>url</key>
+		<string>http://stream.clubberry.fm:8000/dnb</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Classic Soul and Reggae from DDR Manchester</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>DDRClassicSoulandReggae</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/DDRClassicSoulandReggae</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>La Radio Référence Soul, Disco, Funk !</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>GENERATION SOUL DISCO FUNK</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/GENERATIONSOULDISCOFUNK-AAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>La Radio Référence Soul, Disco, Funk !</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>GENERATION SOUL DISCO FUNK</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/GENERATIONSOULDISCOFUNK-MP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The best of Deep Soulful House music online Internet Radio station live DJs house music 24/7</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Garagemania</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Garagemania</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Gong! Groove echo.  Simple &amp;amp; purified different &amp;amp; effective.  At work? To surf the web? For a cocktail? On your iPhone?  Where and when you want!  Only music and playlist Soul Groove Funk Nu-Jazz Ambient Electro...</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Gong</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Gong</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Hip97.com</string>
+		<key>url</key>
+		<string>http://hip97.com:8040/high.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>100 % SOULFUL DISCO-FUNK HOUSE FUNKY</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>I.ACTIVESOULFUL</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/IACTIVE-SOULFUL</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Funk Soul Reggae Afro Beat World French Spicies Electro. From Lagos to Kingston  From Paris To New York  From Lima to Djakarta  discover the groove around the world .Free the Groove !!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>INTERNATIONALRAREGROOVE</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/INTERNATIONAL-RARE-GROOVE</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Soul Motown Disco RnB Newsoul Funk</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>InnerSoul</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/Inner-Soul</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio JMaster ou RJM Groove c est un style New Soul Jazz Funk Soul RnB Nu Soul  Acid Jazz Soulful Smooth Jazz Spirit Soulful Black Music... se faire plaisir sur du groove et des titres qui ne passent pas ailleurs.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>JMaster</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/JMaster</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Soulful easy listening</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Jazz-spirit</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/jazz-spirit</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>141</string>
+		<key>desc</key>
+		<string>KIEE 88.3 FM</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>KIEE 88.3 FM</string>
+		<key>url</key>
+		<string>http://76.72.168.18:8005/KIEE</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>KJCB</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>KJCB</string>
+		<key>url</key>
+		<string>http://76.72.168.18:8001/audio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>All The Black...</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>LUXFUNK RADIO</string>
+		<key>url</key>
+		<string>http://87.229.26.112:8400/live.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Lounge 70' Soul Funk Latin Jazz Groove</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Monica Radio</string>
+		<key>url</key>
+		<string>http://ns301365.ovh.net:8000/monica.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Motion FM &gt; Smooth - Silky Soul, Cool Grooves &amp; Jazz Rhythms</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Motion FM &gt; Smooth  - MotionFM.com</string>
+		<key>url</key>
+		<string>http://199.58.160.66:80/motiontwo_monde</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Motion FM &gt; Smooth : Silky Soul &amp; Jazz Rhythms</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Motion FM &gt; Smooth  - MotionFM.com</string>
+		<key>url</key>
+		<string>http://199.58.160.66:80/motiontwo_aacp</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Motion FM &gt; Smooth : Silky Soul &amp; Jazz Rhythms</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Motion FM &gt; Smooth - MotionFM.com</string>
+		<key>url</key>
+		<string>http://199.58.160.66:80/motiontwo_aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>MYJUNGLY SOUL-FUNK STATION</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Myjungly soul-funk station</string>
+		<key>url</key>
+		<string>http://stream.100000000000000.com:8000/SOUL-FUNK</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>MYJUNGLY SOUL-FUNK STATION</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Myjungly soul-funk station</string>
+		<key>url</key>
+		<string>http://stream.100000000000000.com:8000/SOUL-FUNK2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>HIP-HOP SOUL FUNK RADIO</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ONE STATION - HIP-HOP SOUL FUNK RADIO - WWW.ONESTATION.FR</string>
+		<key>url</key>
+		<string>http://198.50.250.195:9000/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>HIP-HOP SOUL FUNK RADIO</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ONE STATION - HIP-HOP SOUL FUNK RADIO - WWW.ONESTATION.FR</string>
+		<key>url</key>
+		<string>http://198.50.250.195:9002/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>La bande-son ideale ..... . Indie Rock Soul Trip Hop Downtempo Brazilian. Eclectique et differente.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Onesummer</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/one-summer</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>PEPPERMINT fm</string>
+		<key>url</key>
+		<string>http://rs9.stream24.org:8200/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>AutoDJ Deep Soulful House Music 24/7</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Pressure Radio - Deep Soulful House</string>
+		<key>url</key>
+		<string>http://ic2256.c786.fast-serv.com:80/autodj</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Powered by Infomaniak.Net</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio 3DFM</string>
+		<key>url</key>
+		<string>http://radio3dfm.ice.infomaniak.ch/radio3dfm-high.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>This is  a soul  funk  soulful and  disco web radio.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RadioSoulfulWebStation2</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/RadioSoulfulWebStation2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Black Music &amp; News on the Internet</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Ramjam Radio - Where The Sun Always Shines</string>
+		<key>url</key>
+		<string>http://188.138.16.143:21300/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>My station description</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Real house music just released trax (realhouse-newtraxroom)</string>
+		<key>url</key>
+		<string>http://83.81.14.21:7711/pre.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>My station description</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Real house music just released trax (realhouse-newtraxroom)</string>
+		<key>url</key>
+		<string>http://83.81.14.21:7711/pre.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>My station description</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Realhouse.nl Guru Room MP3</string>
+		<key>url</key>
+		<string>http://83.81.14.21:7711/guru.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Music For The Heart</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RnB Vibes Radio</string>
+		<key>url</key>
+		<string>http://uk1.radio-streams.com:8102/autodj</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The best soulful house music new releases and digital imports you will find on Radio Soulful Web Station. Also Nu Disco Chill out Funky House and Deep House. Selected all by Giosensei DJ jpi</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>SOULFULWEBSTATION</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/SOULFUL-WEB-STATION</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Soul Radio UK</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Soul Radio UK</string>
+		<key>url</key>
+		<string>http://87.117.193.10:80/autodj</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>SoulFood Radio is eclectic mix of global laid back rhythms that are sweet from the lips and good for the hips. We play non-stop soul funk Latin jazz disco dub and rare groves from the beginning of cool.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>SoulFoodRadio</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/SoulFood-Radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>THE OFFICIAL HOME FOR JAZZ LOVERS</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>THENEOSOULCAFE</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/THENEOSOULCAFE</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The Confectionery is for the music listener with a sweet tooth.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>TheConfectionery</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/TheConfectionery</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>320</string>
+		<key>desc</key>
+		<string>UFO DNB LquidFunk Station MP3 320 Kbps</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>UFO DNB LiquidFunk Station</string>
+		<key>url</key>
+		<string>http://stream.ufostation.ru:80/LIQUID-320</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>UFO DNB LquidFunk Station MP3 128 Kbps</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>UFO DNB LiquidFunk Station</string>
+		<key>url</key>
+		<string>http://stream.ufostation.ru:80/LIQUID-128</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>W.E.W.N Women Empowering Women Network</string>
+		<key>url</key>
+		<string>http://50.7.53.2:80/mzztlove-radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>This is the channel that most resembles what WBMX sounded like during the day. It was an R&amp;amp;B based station playing hits from Luther Vandross Sade SOS Band Prince Maze Featuring Frankie Beverly and more. The mixes were on at lunch the afternoon drive</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>WBMX.COM-80'sR&amp;B</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/WBMXCOM-80-sR-B</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,2024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>100.5 WKXA</string>
+		<key>url</key>
+		<string>http://out2.cmn.icy.abacast.com/wkxa-wkxafmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>102.7 WXBM</string>
+		<key>url</key>
+		<string>http://2923.live.streamtheworld.com:80/WXBMFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>104.1 KXDD</string>
+		<key>url</key>
+		<string>http://icy2.abacast.com/nnbyakima-kxdd-48</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>CICZ</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>104.1 The DOCK</string>
+		<key>url</key>
+		<string>http://ice3.securenetsystems.net/CICZ</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>105.1 Bob FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/KOMGFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>106.3 Cowboy Country</string>
+		<key>url</key>
+		<string>http://2943.live.streamtheworld.com:80/KLENFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>desc</key>
+		<string>DJ - Robin on 40s50s4fun.com</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>40s50s4fun</string>
+		<key>url</key>
+		<string>http://40s50s4fun.com:8000/low</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>DJ - Robin on 40s50s4fun.com</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>40s50s4fun</string>
+		<key>url</key>
+		<string>http://40s50s4fun.com:8000/high</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>92.1 Hank FM</string>
+		<key>url</key>
+		<string>http://3163.live.streamtheworld.com:80/KTFWFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>92.1 The Frog</string>
+		<key>url</key>
+		<string>http://2573.live.streamtheworld.com:80/WFGFFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>96.3 The Wolf</string>
+		<key>url</key>
+		<string>http://out-2.icy.abacast.com:80/nnbanchorage-kxlw-48</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>98.9 FM</string>
+		<key>url</key>
+		<string>http://s7.viastreaming.net:8305/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>99.7 Mountain Country</string>
+		<key>url</key>
+		<string>http://2353.live.streamtheworld.com:80/KMTKFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>99.9 The Wolf</string>
+		<key>url</key>
+		<string>http://1862.live.streamtheworld.com:3690/WTHTFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AddictedToRadio Bar Rockin' Country</string>
+		<key>url</key>
+		<string>http://wms-15.streamsrus.com:11730</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AddictedToRadio Classic Country</string>
+		<key>url</key>
+		<string>http://wms-15.streamsrus.com:10930</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AddictedToRadio Hit Kicker Country</string>
+		<key>url</key>
+		<string>http://wms-15.streamsrus.com:10830</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AddictedToRadio Ladies of Country</string>
+		<key>url</key>
+		<string>http://wms-15.streamsrus.com:11130</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Always Hot Country</string>
+		<key>url</key>
+		<string>http://74.115.212.234:7000/Country</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Am Stereo 1450 KWHW</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/kwhw-am</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Mountain Gospel Radio</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Amherst 1420 WAMV</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/wamv-am</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>B100 </string>
+		<key>url</key>
+		<string>http://icy1.abacast.com:80/federatedmedia-wbytfm-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>B95</string>
+		<key>url</key>
+		<string>http://3093.live.streamtheworld.com:3690/WFBEFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>BX93</string>
+		<key>url</key>
+		<string>http://icecastsource2.amri.ca:80/cjbx-aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Badlands 94.7 FM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/KBSO</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>Montgomery's Most Country</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Bama Country 98.9</string>
+		<key>url</key>
+		<string>http://out1.tor.icy.abacast.com/bluewater-wbamfm-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Beaudesert Community Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Beau FM</string>
+		<key>url</key>
+		<string>http://s2.stationplaylist.com:9090/beaufm.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Beaver 96.7 FM</string>
+		<key>url</key>
+		<string>http://out2.cmn.icy.abacast.com/wbvr-wbvrfmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Big 106 FM</string>
+		<key>url</key>
+		<string>http://in.icy3.abacast.com/rmbroadcasting-kplmfm-48</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Big 99.9 Coyote Country</string>
+		<key>url</key>
+		<string>http://2643.live.streamtheworld.com:443/KXLYFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Big Country 105.7 FM</string>
+		<key>url</key>
+		<string>http://ice7.securenetsystems.net/WQAH</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Big Land FM</string>
+		<key>url</key>
+		<string>http://1852.live.streamtheworld.com:80/CFLNFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Big R Radio - 100.9 Star Country</string>
+		<key>url</key>
+		<string>http://173.193.14.53/100point9</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Big R Radio - Country Mix</string>
+		<key>url</key>
+		<string>http://173.193.14.53/countrymix</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>CFCB</string>
+		<key>url</key>
+		<string>http://3103.live.streamtheworld.com:80/CFCBAMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>50</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>CHAT 94.5 FM </string>
+		<key>url</key>
+		<string>http://CHAT.streamon.fm:8000/CHAT-48k.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>CHOK Country 103.9 FM</string>
+		<key>url</key>
+		<string>http://3143.live.streamtheworld.com:80/CHOKFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>CIHS Radio 93.5 FM Radio</string>
+		<key>url</key>
+		<string>http://CIHSFM.streamon.fm:8000/CIHSFM-32k.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>CISN 103.9 FM</string>
+		<key>url</key>
+		<string>http://1331.live.streamtheworld.com:80/CISNFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>50</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>CIXM FM - XM 105 FM</string>
+		<key>url</key>
+		<string>http://CIXM.streamon.fm:8000/CIXM-48k.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Cat Country 95.1 FM</string>
+		<key>url</key>
+		<string>http://2523.live.streamtheworld.com:443/KATCFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>The All New Cat Country 95.3</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Cat Country 95.3</string>
+		<key>url</key>
+		<string>http://ice6.securenetsystems.net/WPLZ</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>desc</key>
+		<string>El Compa</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Cat Country 96.1 FM</string>
+		<key>url</key>
+		<string>http://icy1.abacast.com:80/eldorado-ksly-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Cool Country 2KA 1476</string>
+		<key>url</key>
+		<string>http://live.coolcountryradio.com:8015/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Country 103 FM</string>
+		<key>url</key>
+		<string>http://2133.live.streamtheworld.com:80/CJKCFMCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Country 107.3</string>
+		<key>url</key>
+		<string>http://3303.live.streamtheworld.com:80/CJDLFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Country 94.1 FM</string>
+		<key>url</key>
+		<string>http://3093.live.streamtheworld.com:80/KFKFFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>50</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Country 95.5 FM</string>
+		<key>url</key>
+		<string>http://CHLB.streamon.fm:8000/CHLB-48k.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Country 98.0 FM</string>
+		<key>url</key>
+		<string>http://1741.live.streamtheworld.com:80/WXTAFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>Topeka's Country Legends</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Country Legends 106.9 FM</string>
+		<key>url</key>
+		<string>http://1.ice1.firststreaming.com/ktpk_fm.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Country Legends 94.3</string>
+		<key>url</key>
+		<string>http://1.ice1.sa.streamaudio.com:8000/wwnq_fm.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Country Legends 970 AM</string>
+		<key>url</key>
+		<string>http://3143.live.streamtheworld.com:80/WMPWAMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>desc</key>
+		<string>Classic Country Music</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>CountryBear Main Channel</string>
+		<key>url</key>
+		<string>http://65.40.11.138:8000/cbear.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Tout le son de la country de Nashville d&amp;apos;Austin et le meilleur du Bluegrass</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CountryChannel5</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/Country-Channel-5</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Stream Radio Country Music   Country Line FM et Logo Marque D&amp;#xe9;pos&amp;#xe9; INPI    Alternative Country - Bluegrass - Hillbilly - Honky Tonk - Rockabilly - Nashville Sound - Texas Country - Western Swing - Cajun - Texmex -  Rock - Blues</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CountryLineFM</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/Country-Line-FM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Country Radio Official radio country is the first web country radio in Europe. Our programs are country. Classic country country pop bluegrass country Rock.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CountryRadioOfficial</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Country-Radio-Official</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>En nuestras ondas encontraras lo m&amp;#xe1;s actual del panorama Country  para que tus pies no paren de moverse. Desde las monta&amp;#xf1;as rocosas de la Sierra de Madrid la primera emisora con  LA MEJOR MUSICA PARA BAILAR LINE DANCE.....CS RadioStation.  Un abrazo</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CountrySierraRadioStation</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/Country-Sierra-Radio-Station</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Die Schlagergarage</string>
+		<key>url</key>
+		<string>http://icecast.schlagergarage.de:8080/stream.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>An eclectic mix of personal favorites. For playlist statistics visit www.last.fm/user/dionysian-mind</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dionysian Mind - mp3</string>
+		<key>url</key>
+		<string>http://dionysian-mind.net:8000/mpd.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio-Farwater-Country</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Farwater-Country(http://Radio-Farwater.org)</string>
+		<key>url</key>
+		<string>http://radio-farwater.org:8000/country.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio-Farwater-Live</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Farwater-Live(http://Radio-Farwater.org)</string>
+		<key>url</key>
+		<string>http://radio-farwater.org:8000/nonstop.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Don't Flip It Off - Flip It On... This is Texas Country!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Flip 106.1 FM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/KFLP</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Froggy 100.9 FM</string>
+		<key>url</key>
+		<string>http://3093.live.streamtheworld.com:80/WWFYFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Froggy 107.1</string>
+		<key>url</key>
+		<string>http://3303.live.streamtheworld.com:80/WFFGFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Froggy 92.9 FM</string>
+		<key>url</key>
+		<string>http://3143.live.streamtheworld.com:80/KFGYFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Froggy 98</string>
+		<key>url</key>
+		<string>http://1591.live.streamtheworld.com:80/KFGEFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>GX94</string>
+		<key>url</key>
+		<string>http://2353.live.streamtheworld.com:80/CJGXFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Gila 101.9</string>
+		<key>url</key>
+		<string>http://energy14.egihosting.com:6520/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Go Country 105 FM</string>
+		<key>url</key>
+		<string>http://2363.live.streamtheworld.com:443/KKGOFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Go Country Classics</string>
+		<key>url</key>
+		<string>http://1.ice1.firststreaming.com/kkgo_ir.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Discover The Difference</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Gods Country 88.9</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/wmdr-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>GotRadio Rockin' Country</string>
+		<key>url</key>
+		<string>http://206.217.213.236:8610</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Highway Country 101.5 FM</string>
+		<key>url</key>
+		<string>http://99.198.118.250:8116/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The New Generation of the Nashville artists ... Nashville Rocks The Highways!!  The Spirit of the Highways!! - the sound of the 21st century!!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>HighwayFM</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/HighwayFM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Hitkicker 99.7 FM</string>
+		<key>url</key>
+		<string>http://1651.live.streamtheworld.com:80/WCYKFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Hot Country</string>
+		<key>url</key>
+		<string>http://69.59.178.124:8822/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>44</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Hot Country</string>
+		<key>url</key>
+		<string>http://wmedia02.grantbroadcasters.com.au:8800/hotcountry.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Tout le son de la country de Nashville d&amp;apos;Austin et le meilleur du Bluegrass</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Hot Country</string>
+		<key>url</key>
+		<string>http://wmedia02.grantbroadcasters.com.au:8800/hotcountry.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>41</string>
+		<key>desc</key>
+		<string>KX96 Hot Country!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Hot Country KX</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net:80/KXCM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Positive Country Music</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Inspirational Country Radio</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/icr-backup</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Positive Country Music</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Inspirational Country Radio</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/icrlb-backup</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>50</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>JRfm 93.7</string>
+		<key>url</key>
+		<string>http://JRfm.streamon.fm:8000/JRfm-48k.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>K 105 FM</string>
+		<key>url</key>
+		<string>http://icy1.abacast.com:80/federatedmedia-wqhkfm-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>K 95.5 FM</string>
+		<key>url</key>
+		<string>http://6693.live.streamtheworld.com:80/WHOKFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>K-Buck 105.5 FM</string>
+		<key>url</key>
+		<string>http://1.ice1.firststreaming.com/kbkk_fm.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KAFF Country 92.9</string>
+		<key>url</key>
+		<string>http://2343.live.streamtheworld.com:80/KAFFFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KATI 94.3 FM</string>
+		<key>url</key>
+		<string>http://in.icy3.abacast.com/zimmer_mid_mo-katifmaac-48</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>100% Hit Country</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>KBEY-FM Live</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/kbey-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Texas Best Country</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>KBNU-FM 93.9 The Ranch</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/kbnu-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KCLR Clear 99 FM</string>
+		<key>url</key>
+		<string>http://in.icy3.abacast.com/zimmer_mid_mo-kclrfmaac-48</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>BIG RED COUNTRY 104.9</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>KCTY 104.9</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/kcty-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>True Country Radio</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KDYN 96.7</string>
+		<key>url</key>
+		<string>http://ic2.mainstreamnetwork.com/kdyn-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>True Country Radio</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KDYN 96.7 FM</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/kdyn-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KEGA The Eagle 101.5 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/KEGAFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KEYE 1400 AM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net:80/KEYEAM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KICK-FM</string>
+		<key>url</key>
+		<string>http://2283.live.streamtheworld.com:80/KICKFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Hot New Country</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KICX 106</string>
+		<key>url</key>
+		<string>http://ice3.securenetsystems.net/CICX</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KICX 91.7</string>
+		<key>url</key>
+		<string>http://ice3.securenetsystems.net/CICS</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Today's Best Country</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KJJJ</string>
+		<key>url</key>
+		<string>http://ice6.securenetsystems.net/KJJJ</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KJLO 104.1 FM</string>
+		<key>url</key>
+		<string>http://ice7.securenetsystems.net/KJLO1</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KJUG 98.1 FM</string>
+		<key>url</key>
+		<string>http://ice2.securenetsystems.net/KKJG</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KLAA True Country 103.5 FM</string>
+		<key>url</key>
+		<string>http://1.ice1.firststreaming.com/klaa_fm.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Your brand of country, KMTS</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KMTS 99.1 FM</string>
+		<key>url</key>
+		<string>http://ice7.securenetsystems.net/KMTSFM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Radio New Braunfels</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KNBT 92.1 FM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net:80/KNBT</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KNES Texas 99.1 FM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net:80/KNES</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KRTY 95.3 FM</string>
+		<key>url</key>
+		<string>http://out2.cmn.icy.abacast.com/krty-krtyfmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KSJJ 103 FM</string>
+		<key>url</key>
+		<string>http://4903.live.streamtheworld.com:80/KSJJFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>desc</key>
+		<string>KTCH 1590-AM</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KTCH AM 1590</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/ktch-am</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KTEX 106.1 FM</string>
+		<key>url</key>
+		<string>http://ice6.securenetsystems.net/KTTX</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KTTI 95.1 FM</string>
+		<key>url</key>
+		<string>http://icy1.abacast.com:80/eldorado-ktti-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KTTN Classic Country 92.3 FM</string>
+		<key>url</key>
+		<string>http://s5.voscast.com:7206</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KUBB 96.3 FM</string>
+		<key>url</key>
+		<string>http://out2.cmn.icy.abacast.com/kubb-kubbfmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KUZZ 107.9 FM</string>
+		<key>url</key>
+		<string>http://2643.live.streamtheworld.com:80/KUZZAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KVOO 98.5 FM</string>
+		<key>url</key>
+		<string>http://1862.live.streamtheworld.com:3690/KVOOFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Your Kind of Country</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>KWHQ 100.1FM</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/kwhq-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KWLI HD2 92.5 FM</string>
+		<key>url</key>
+		<string>http://2353.live.streamtheworld.com:80/KWOFFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KWLI The Wolf 92.5 FM</string>
+		<key>url</key>
+		<string>http://4673.live.streamtheworld.com:80/KWOFFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>1370 KWRT</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>KWRT</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/kwrt-am</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KX 94.7</string>
+		<key>url</key>
+		<string>http://2083.live.streamtheworld.com:80/CHKXFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KX96</string>
+		<key>url</key>
+		<string>http://in.icy2.abacast.com/threeeagles-lnkkzkxfm-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KX96 New Country FM</string>
+		<key>url</key>
+		<string>http://3313.live.streamtheworld.com:3690/CJKXFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KYGO 98.5 FM</string>
+		<key>url</key>
+		<string>http://5203.live.streamtheworld.com:80/KYGOFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KZUA Z92  FM</string>
+		<key>url</key>
+		<string>http://ice3.securenetsystems.net/KZUA</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Double Z Country</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>KZZY-FM</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/kzzy-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Katy Country 93.1 FM</string>
+		<key>url</key>
+		<string>http://2343.live.streamtheworld.com:80/KMKTFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Kick'N Country 103.5</string>
+		<key>url</key>
+		<string>http://1671.live.streamtheworld.com:80/WAKTFM_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Kickin' Country 100.5 FM</string>
+		<key>url</key>
+		<string>http://1932.live.streamtheworld.com:80/KIKNFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>100% Hit Country</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Megacountry</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Megacountry</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>87</string>
+		<key>desc</key>
+		<string>Mustang</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Mustang</string>
+		<key>url</key>
+		<string>http://peace.str3am.com:6320/mustang</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>My Country 96.1</string>
+		<key>url</key>
+		<string>http://3313.live.streamtheworld.com:80/WKJIFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>New Country Bob 106.9 FM</string>
+		<key>url</key>
+		<string>http://ice6.securenetsystems.net/WUBB</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Penn's Peak Radio</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/PPRADIO1</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Q 104</string>
+		<key>url</key>
+		<string>http://3153.live.streamtheworld.com:80/KBEQFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Q 106.3 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/WWQMFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Q105.7 Country</string>
+		<key>url</key>
+		<string>http://3323.live.streamtheworld.com:80/CIBQAMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Le meilleur country au Quebec</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Quebec-Country</string>
+		<key>url</key>
+		<string>http://vp4.caramania.net:8262/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Hrajeme country, jenom country, nic nez country.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Click and Country</string>
+		<key>url</key>
+		<string>http://mp3stream4.abradio.cz:8000/clickandcountry128.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Hrajeme country, jenom country, nic nez country.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Click and Country</string>
+		<key>url</key>
+		<string>http://mp3stream4.abradio.cz:8000/clickandcountry64.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Radio Country</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Country</string>
+		<key>url</key>
+		<string>http://mp3stream4.abradio.cz:8000/country64.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio Country</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Country</string>
+		<key>url</key>
+		<string>http://mp3stream4.abradio.cz:8000/country128.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio-Farwater-Live</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio-Farwater-Live</string>
+		<key>url</key>
+		<string>http://radio-farwater.org:8000/live.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Les clubs Country du L.R. France se sont regroup&amp;#xe9;s pour s&amp;apos;harmoniser et cr&amp;#xe9;er WRCF une Web radio qui se situe dans le Partage. World Radio Country Family sera un &amp;#xe9;l&amp;#xe9;ment moteur dans l&amp;apos;information au service des Associations de  danse mais aussi des A</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RadioCountryFamily</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Radio-Country-Family</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Rock Country and Metal - The Best of Classic Rock</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RadioRewind</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/Radio-Rewind</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Soulful Classic Country Radio</string>
+		<key>url</key>
+		<string>http://67.159.12.5:80/SoulfulClassicCountry_lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Sunny Country</string>
+		<key>url</key>
+		<string>http://icy1.abacast.com:80/eldorado-ksni-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>THE BULL WIKB</string>
+		<key>url</key>
+		<string>http://in.icy2.abacast.com/heartlandcom-wikbfm-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Bull 107.7 FM</string>
+		<key>url</key>
+		<string>http://1.ice1.firststreaming.com/wibl_fm.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Farm 101.1 FM</string>
+		<key>url</key>
+		<string>http://icecastsource2.amri.ca:80/ckxa-aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Ranch</string>
+		<key>url</key>
+		<string>http://cloud1.stream101.com:40068/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>#1 for New Country</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Wolf 104.9 FM</string>
+		<key>url</key>
+		<string>http://ice3.securenetsystems.net:80/WXCL</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Wolf 93.5 FM</string>
+		<key>url</key>
+		<string>http://2893.live.streamtheworld.com:80/WLFWFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Wolf 95.3 FM</string>
+		<key>url</key>
+		<string>http://1721.live.streamtheworld.com:80/WXLFFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Wolf Country 102.5 HD2</string>
+		<key>url</key>
+		<string>http://3093.live.streamtheworld.com:80/WKLBHD2AACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Le meilleur de la Country et du Rock !    The Best of Country &amp;amp; Rock !</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>TheBuffalo</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/The-Buffalo</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Thunder 106</string>
+		<key>url</key>
+		<string>http://out2.cmn.icy.abacast.com/wkmk-wkmkfmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>desc</key>
+		<string>The Biggest Country Variety</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Thunder 92.7 FM</string>
+		<key>url</key>
+		<string>http://ice3.securenetsystems.net/WTDR</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Today's Froggy 99.9 FM</string>
+		<key>url</key>
+		<string>http://ice3.securenetsystems.net/KVOX</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Todays Country 94One</string>
+		<key>url</key>
+		<string>http://70.84.35.218:8015/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Tuner24 - Country</string>
+		<key>url</key>
+		<string>http://67.159.12.5:80/tuner24_country_hi</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Latest US Country Top 100 &amp; Top 25</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Tuner24 Kickin' Country Radio</string>
+		<key>url</key>
+		<string>http://67.159.12.5:80/tuner24_country_hifi</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>U.S.</string>
+		<key>url</key>
+		<string>http://out2.cmn.icy.abacast.com/wbtu-wbtufmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>U.S. 51 Country 93.5 FM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net:80/WKBQ</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>US 106 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/WUSHFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>US 66 Radio</string>
+		<key>url</key>
+		<string>http://s7.viastreaming.net:8745/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WAJP Kentucky Kountry</string>
+		<key>url</key>
+		<string>http://rs3.radiostreamer.com:8170</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WAXX Todays Country 104.5 FM</string>
+		<key>url</key>
+		<string>http://2573.live.streamtheworld.com:80/WAXXFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>desc</key>
+		<string>Today's Star's and The Legends!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WBGK Bug Country 99.7</string>
+		<key>url</key>
+		<string>http://ice6.securenetsystems.net/WBGK</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WDHR 93.1 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/WDHRFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Country Music For the Finger Lakes</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WFLR 96.9</string>
+		<key>url</key>
+		<string>http://ice3.securenetsystems.net/WFLR</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WFRB 105.3 FM</string>
+		<key>url</key>
+		<string>http://out1.cmn.icy.abacast.com/wfrb-wfrbfmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WGLR 97 Country</string>
+		<key>url</key>
+		<string>http://2463.live.streamtheworld.com:80/WGLRFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WGOL 920 AM</string>
+		<key>url</key>
+		<string>http://energy14.egihosting.com:6568/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Playing Everything Country!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WGRX 104.5 FM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/WGRX</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WGTR Gator 107.9 FM</string>
+		<key>url</key>
+		<string>http://icy2.abacast.com/qantummyrtlebeach-wgtrfm-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WGTY 107.7 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/WGTYFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WKKG Indiana Country 101.5</string>
+		<key>url</key>
+		<string>http://out1.cmn.icy.abacast.com/wkkg-wkkgfmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WKXC Kicks Country 99.5 FM</string>
+		<key>url</key>
+		<string>http://1531.live.streamtheworld.com:80/WKXCFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WNHW The Wolf 93.3 FM</string>
+		<key>url</key>
+		<string>http://1392.live.streamtheworld.com:3690/WNHWFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WOGK K Country 93.7 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/WOGKFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WQDR 94.7 FM</string>
+		<key>url</key>
+		<string>http://5423.live.streamtheworld.com:80/WQDRFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WQLK Kicks 96 96 FM</string>
+		<key>url</key>
+		<string>http://out2.cmn.icy.abacast.com/wqlk-wqlkfmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WRDN Real Country 1430 AM</string>
+		<key>url</key>
+		<string>http://ice7.securenetsystems.net/WRDN</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Pioneer Country Radio</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>WRVK 1460</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/wrvk-am</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Willie 103.5</string>
+		<key>url</key>
+		<string>http://in1.atl.icy.abacast.com/federatedmedia-wawcfm-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Wink 107.1</string>
+		<key>url</key>
+		<string>http://6093.live.streamtheworld.com:80/WNKKFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Today's Country</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Y93.7</string>
+		<key>url</key>
+		<string>http://1.ice1.firststreaming.com/kyez_fm.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Le meilleur de la Country et du Rock !    The Best of Country &amp;amp; Rock !</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>radioscopie</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/radio-scopie</string>
+	</dict>
+</array>
+</plist>

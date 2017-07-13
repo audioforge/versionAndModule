@@ -1,0 +1,1660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>ELIUM Rock &amp;amp; Pop  Le son Rock &amp;amp; Pop toute la journ&amp;#xe9;e.  Une radio du bouquet ELIUM disponible sur www.elium.net</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>--ZyvaWebRadio--</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/--ZyvaWebRadio--</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>104.6 RTL Best Of Black</string>
+		<key>url</key>
+		<string>http://3943.live.streamtheworld.com:3690/RTL_BLKAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The best of Hip-Hop Rap R n B and many more.... 24 Hours</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>1MASTERHIP-HOP</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/1MASTERHIP-HOP</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Liquidsoap Radio!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>4Play.fm - The world's best club music (192kbps)</string>
+		<key>url</key>
+		<string>http://radio.4play.fm:80/192.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>desc</key>
+		<string>Liquidsoap Radio!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>4Play.fm - The world's best club music (24kbps)</string>
+		<key>url</key>
+		<string>http://radio.4play.fm:80/24.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>80</string>
+		<key>desc</key>
+		<string>Liquidsoap Radio!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>4Play.fm - The world's best club music (80kbps)</string>
+		<key>url</key>
+		<string>http://radio.4play.fm:80/80.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>HIPHOP AND R&amp;B FROM A TO Z</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>538 Juize</string>
+		<key>url</key>
+		<string>http://82.201.100.23:80/538Juize</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Hit Music Radio 91 Online</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>91 Online</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/91online</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The People's Station</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>97.9 JAMZ</string>
+		<key>url</key>
+		<string>http://out1.tor.icy.abacast.com/bluewater-wjwzfm-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>A new kind of hit music channel.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>A-1 Hits @ Distortion Radio [www.distortionradio.com]</string>
+		<key>url</key>
+		<string>http://s1.distortionradio.com:80/a-1-hits-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>A new kind of hit music channel.</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>A-1 Hits @ Distortion Radio [www.distortionradio.com]</string>
+		<key>url</key>
+		<string>http://s1.distortionradio.com:80/a-1-hits-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>A-BIG-HitZ-Radio is Hit Music and commercial free all day long. We are not your conventional music station. A-BIG-HitZ-Radio is an unconventional music station that streams music 24/7 via the Internet.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>A-BIG-HitZ-Radio</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/A-BIG-HitZ-Radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>A BIG HitZ Radio is Hit Music and commercial free all day long. We are not your conventional music station. A BIG HitZ Radiois an unconventional music station that streams music 24/7 via the Internet.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ABIGHitZRadio</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/ABIGHitZRadio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Fr&amp;#xe9;d&amp;#xe9;ric Fran&amp;#xe7;ois Chopin born Fryderyk Franciszek Chopin was a Romantic-era Polish composer. Visit Abacus.fm</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Abacus.fmChopin</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/AbacusfmChopin</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AddictedToRadio - 90s Hip-Hop &amp; R&amp;B</string>
+		<key>url</key>
+		<string>http://wms-13.streamsrus.com:14330</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AddictedToRadio - Old School Rap</string>
+		<key>url</key>
+		<string>http://wms-13.streamsrus.com:14930</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AddictedToRadio Power</string>
+		<key>url</key>
+		<string>http://wms-15.streamsrus.com:10630</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Agora Montpellier Les sons qui vous ressemblent</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Agora Montpellier</string>
+		<key>url</key>
+		<string>http://radiart.eu:10053/autodj</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Non-Stop Real Hip Hop</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Arsonists Radio - WASF</string>
+		<key>url</key>
+		<string>http://ic269.c715.fast-serv.com:80/stream.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>320</string>
+		<key>desc</key>
+		<string>A music hub from Zuerich</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Audioasyl</string>
+		<key>url</key>
+		<string>http://stream.nocloud.ch:80/audioasyl</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>A music hub from Zuerich</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Audioasyl</string>
+		<key>url</key>
+		<string>http://stream.nocloud.ch:80/audioasyl_low</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>B106</string>
+		<key>url</key>
+		<string>http://208.80.52.136/KOOCFMAAC.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>BOOYAA.RU .:. TRIPHOP</string>
+		<key>url</key>
+		<string>http://194.63.140.214:8000/booyaa_128_mp3_triphop</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Broadcasting live from UAB</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>BlazeRadio - Live from the University of Alabama at Birmingham</string>
+		<key>url</key>
+		<string>http://stream.blazeradio.org:8000/blazeradio2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>160</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CampusFM Toulouse, 94.0MHz</string>
+		<key>url</key>
+		<string>http://live.radio-campus.org:8000/radio_tlse</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Keepin' It Old School</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>ClassicFreaks.Com</string>
+		<key>url</key>
+		<string>http://classicfreaks.live-streams.nl:8010/low</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>-=[ Spinnin' the Best Old School Hip Hop New Jack Swing Club &amp; Danceclassics 24/7 ]=-</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ClassicFreaks.Com</string>
+		<key>url</key>
+		<string>http://classicfreaks.live-streams.nl:8010/main</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio 100% Rap US 24h/24 7j/7 ! Le meilleur du Hip-Hop des ann&amp;#xe9;es 1990 &amp;#xe0; nos jours !</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ClassicRap</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/Classic-Rap</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Israels Hip-Hop station</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Click HipHop</string>
+		<key>url</key>
+		<string>http://clickfm.livecdn.biz:80/hiphopaac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Israels Hip-Hop Station</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Click HipHop</string>
+		<key>url</key>
+		<string>http://clickfm.livecdn.biz:80/hip.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Click Hop 106.3</string>
+		<key>url</key>
+		<string>http://out2.cmn.icy.abacast.com/whpp-whppfmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>CyberFM Streetz</string>
+		<key>url</key>
+		<string>http://music.cyber-fm.com:8000/Streetz.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CyberFM Streetz</string>
+		<key>url</key>
+		<string>http://music.cyber-fm.com:8000/Streetz.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>desc</key>
+		<string>OIld School Hip Hop</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>DITCRadio</string>
+		<key>url</key>
+		<string>http://ice7.securenetsystems.net/DITC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Da Bomb 102.7 FM</string>
+		<key>url</key>
+		<string>http://2293.live.streamtheworld.com:80/KDDBFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Dawgclan Network Radio 128Kbit (Automated Requests @ http://www.dawgclan.net)</string>
+		<key>url</key>
+		<string>http://www.dawgclan.net/listen128k.pls</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>112</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dip Urban - www.radiodipmusic.biz</string>
+		<key>url</key>
+		<string>http://5.231.62.45:8040/live.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>127650</string>
+		<key>desc</key>
+		<string>An Eclectic Mix of Trance, Triphop, and Chill</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dude Suit Radio</string>
+		<key>url</key>
+		<string>http://www.dude-suit.net:8000/live.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Because the REAL Hip-Hop is New York &amp;amp;  90s.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>EastCoastHip-Hop90's</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/EastCoastHip-Hop90-s</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>NEJnovìjí a NEJlepí songy z hip hopu</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Fajn Radio Black</string>
+		<key>url</key>
+		<string>http://ice.abradio.cz:80/fajnblack64.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Flow 93.5</string>
+		<key>url</key>
+		<string>http://4293.live.streamtheworld.com:3690/CFXJFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Stoner Rock, Deutsch Rock, Rap, HipHop</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Fullm00n.de</string>
+		<key>url</key>
+		<string>http://fullm00n.de:8000/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Youth radio broadcasting from Te Takere, Levin NZ</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Fusion FM 106.9</string>
+		<key>url</key>
+		<string>http://FusionFM.tetakere.org.nz:8000/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>The way we groove</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>G 98.7</string>
+		<key>url</key>
+		<string>http://208.43.60.66/ckfg-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Grenade radio, banging out your favorite hits!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Grenade radio: Hip Hop-r&amp;b</string>
+		<key>url</key>
+		<string>http://grenaderadio.com:8000/gradio-hiphop</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>A music station for 420 enthusiasts and others who just enjoy good hiphop dance music instrumental beats and other groovy stuff.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>High-FiSmokingMusic</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/High-FiSmokingMusic</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>1# for Hip-Hop &amp;amp; RnB Hip-Hop Request</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Hip-HopRequest</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/Hip-HopRequest</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>De la Funk &amp;#xe9;l&amp;#xe9;ctro-beat des ann&amp;#xe9;es 80 en matin&amp;#xe9;e avec certains collectors de la soul-groove avant midi et du  bon Hip-Hop olskool l aprem.  Quelques tracks plus r&amp;#xe9;cents et des instrus viennent agr&amp;#xe9;menter la s&amp;#xe9;lection tout au long de la journ&amp;#xe9;e.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Hip-Old-Hop</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/Hip-Old-Hop</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Are you a hip hop fan? Don t you get tired of hip hop music that degrades women? Don t you get tired of hip hop music that glorifies all of the wrong things? If you answered YES to all of these questions HipHopSubstance IS YOUR STATION!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>HipHopSubstanceRadio</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/HipHopSubstanceRadio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio HipHopVibes</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>HipHopVibes Radio</string>
+		<key>url</key>
+		<string>http://mp3stream4.abradio.cz:8000/hiphopvibes128.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Radio HipHopVibes</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>HipHopVibes Radio</string>
+		<key>url</key>
+		<string>http://mp3stream4.abradio.cz:8000/hiphopvibes64.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Hot 104.7</string>
+		<key>url</key>
+		<string>http://out2.cmn.icy.abacast.com/khtn-khtnfmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Hot 96.9</string>
+		<key>url</key>
+		<string>http://2463.live.streamtheworld.com:80/KEZEFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Der I Love Radio Fightclub. Nur einer kann Germany's Next Battle-Sieger werden. I Love The Battle ist Hip Hop, Urban, Explicit content. Word!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>I Love The Battle (www.iloveradio.de)</string>
+		<key>url</key>
+		<string>http://87.230.59.20:80/iloveradio3.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>desc</key>
+		<string>Der I Love Radio Fightclub. Nur einer kann Germany's Next Battle-Sieger werden. I Love The Battle ist Hip Hop, Urban, Explicit content. Word!</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>I Love The Battle (www.iloveradio.de)</string>
+		<key>url</key>
+		<string>http://85.25.100.56:8010/iloveradio3-aac.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Explicit Exclusive Hip Hop R&amp;amp;B and Rap Bangers.  www.haze.fm ---&amp;gt;&amp;gt;DL our App--&amp;gt; Apple apple.haze.fm Android droid.haze.fm Windows windows.haze.fm  Nokia nokia.haze.fm (Haze FM)</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Ilovehaze</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/ilovehaze</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>JAMZ 96.3 FM</string>
+		<key>url</key>
+		<string>http://3103.live.streamtheworld.com:80/WAJZFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>JAYBRADIO.com | THE BEST MUSIC ! HIP HOP RAP R&amp;amp;B DANCEHALL HITS AND CLASSICS. LISTEN LIVE 24 / 7 / 365 #JAYBRADIO #JBR #TUNEINRADIO</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>JAYBRADIO</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/JAYBRADIO</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Official Radio stream for JPopsuki 2.0</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>JPopsuki Radio!</string>
+		<key>url</key>
+		<string>http://91.121.117.196:8000/autodj</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Jamendo Radio by Nicole</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Jamendo Hip Hop Radio</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/JamHipHop</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>87</string>
+		<key>desc</key>
+		<string>Jamz @ iradiophilly</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Jamz @ iradiophilly</string>
+		<key>url</key>
+		<string>http://peace.str3am.com:6320/jamz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>K104 Hip Hop &amp; R&amp;B</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/KKDAFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KDAY 93.5 FM</string>
+		<key>url</key>
+		<string>http://4723.live.streamtheworld.com:80/KDAYFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KFAT 92.9 FM</string>
+		<key>url</key>
+		<string>http://in.icy2.abacast.com/ohana-kfatfm-48</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KKND Power 102.9  FM</string>
+		<key>url</key>
+		<string>http://1392.live.streamtheworld.com:443/KKNDFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>desc</key>
+		<string>U-927 The Desert's Hottest Music</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KKUU 92.7 FM</string>
+		<key>url</key>
+		<string>http://1.ice1.firststreaming.com:8000/kkuu_fm.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KQKS 107.5 FM</string>
+		<key>url</key>
+		<string>http://2503.live.streamtheworld.com:80/KQKSFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KUUU U92 92.5 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/KUUUFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KWNN 98.3 FM</string>
+		<key>url</key>
+		<string>http://2223.live.streamtheworld.com:80/KWINFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KWYD Wild 101.1 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/KWYDFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>KOCZ 92.9 FM Radio Broadcast</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Kocz 103.7 FM</string>
+		<key>url</key>
+		<string>http://76.72.168.18:8000/kocz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Indie Creative Commons radio --cc-radio-- 24h de jazz,funk,urban,hip-hop,trip-hop,indie...musica de alto standing</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>La noche del hombre lobo - aac</string>
+		<key>url</key>
+		<string>http://lobocast.org.es:8000/noche-aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Indie Creative Commons radio --cc-radio-- 24h de jazz,funk,urban,hip-hop,trip-hop,indie...musica de alto standing</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>La noche del hombre lobo - mp3</string>
+		<key>url</key>
+		<string>http://lobocast.org.es:8000/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Indie Creative Commons radio --cc-radio-- 24h de jazz,funk,urban,hip-hop,trip-hop,indie...musica de alto standing</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>LanochedelhombrelobO --Canal La Noche-- Formato aacplus 64kbs</string>
+		<key>url</key>
+		<string>http://lanoche.lanochedelhombrelobo.org:8000/noche-aacplus</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Indie Creative Commons radio --cc-radio-- 24h de jazz,funk,urban,hip-hop,trip-hop,indie...musica de alto standing</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>LanochedelhombrelobO --Canal La Noche-- Formato mp3 128kbs</string>
+		<key>url</key>
+		<string>http://lanoche.lanochedelhombrelobo.org:8000/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>140 WALCOLM-Hip-Hop</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Laut.fm/140-walcolm</string>
+		<key>url</key>
+		<string>http://stream.laut.fm:80/140-walcolm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Dacorner Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Laut.fm/dacorner</string>
+		<key>url</key>
+		<string>http://stream.laut.fm:80/dacorner</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Deutschrap</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Laut.fm/flashos</string>
+		<key>url</key>
+		<string>http://stream.laut.fm:80/flashos</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Rap -- Reggae -- Dancehall</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Laut.fm/wordup</string>
+		<key>url</key>
+		<string>http://stream.laut.fm:80/wordup</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Eclectic Petits Beats 24/7 Hip-Hop &amp;amp; Soul &amp;amp; Electronic &amp;amp; Deep &amp;amp; Many Many More   FACEBOOK.COM/LEPETITBEAT</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>LePetitBeat</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/LePetitBeat</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>tune in...</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Leki4koFM</string>
+		<key>url</key>
+		<string>http://dirolix.dyndns.org:8000/leki4koFM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>24/7 Pet Shop Boys Radio at www.psbradio.tk! Playing Pet Shop Boys Liza Minnelli Dusty Springfield Eighth Wonder etc... Album &amp;amp; live tracks remixes non-album tracks songs Pet Shop Boys remixed for others &amp;amp; much more! Stream-URL: http://listen.radiono</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Listen.ThePetShopBoysRadio</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/Listen-The-Pet-Shop-Boys-Radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Musically Reaching You.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Maddflava</string>
+		<key>url</key>
+		<string>http://maddflava.dyndns-server.com:8010/maddflava</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>La reference en Rap et R'N'B (MP3)</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Move 97.7 FM</string>
+		<key>url</key>
+		<string>http://92.243.28.148:8017/move</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>51</string>
+		<key>desc</key>
+		<string>Where Caribbean &amp; Urban Music Meet 24/7</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>MyRadioLive</string>
+		<key>url</key>
+		<string>http://ice6.securenetsystems.net/TMRL</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>MYJUNGLY HIP-HOP STATION</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Myjungly hip-hop station</string>
+		<key>url</key>
+		<string>http://stream.100000000000000.com:8000/HIP-HOP2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>MYJUNGLY HIP-HOP STATION</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Myjungly hip-hop station</string>
+		<key>url</key>
+		<string>http://stream.100000000000000.com:8000/HIP-HOP</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>MONTE LE SON</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>NEW'S FM</string>
+		<key>url</key>
+		<string>http://live.francra.org:8000/RadioNewsFM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Beat of the Pacific</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Niu FM</string>
+		<key>url</key>
+		<string>http://us1.outcastdigital.com:8000/niufm-relay</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OMG! 106.7</string>
+		<key>url</key>
+		<string>http://2573.live.streamtheworld.com:80/KDLWFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>HIP-HOP SOUL FUNK RADIO</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ONE STATION - HIP-HOP SOUL FUNK RADIO - WWW.ONESTATION.FR</string>
+		<key>url</key>
+		<string>http://198.50.250.195:9000/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>HIP-HOP SOUL FUNK RADIO</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ONE STATION - HIP-HOP SOUL FUNK RADIO - WWW.ONESTATION.FR</string>
+		<key>url</key>
+		<string>http://198.50.250.195:9002/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Classic and New Hip Hop and R&amp;amp;B</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>OneloveHipHopRadio</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/One-love-Hip-Hop-Radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM 100% Eminem</string>
+		<key>url</key>
+		<string>http://gr-relay-18.gaduradio.pl/85</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM 500 Hip-Hop Hits</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/84</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Hip-Hop PL</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/24</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Hip-Hop Stacja</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/23</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>24/7 Spinning only the Best indieArtist &amp;amp; UNDERGROUND you haven t Heard yet or Not enough. Just plug in [][][] ( R&amp;amp;B-HIPHOP-POP-INDIE-BILLBOARD100-HOUSE MUSIC-EDM-Celebrity News and interview s from #HOODKNEWGLOBAL and many of your favorite media Out</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>PRODUCTOFHARDTIMERADIO</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/PRODUCTOFHARDTIMERADIO</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio Prun' - On Air</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>PRUN' live from Nantes, FR 92MHZ</string>
+		<key>url</key>
+		<string>http://80.82.229.202:8000/streamprun</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Power 92</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/WPWXFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Power 94FM</string>
+		<key>url</key>
+		<string>http://2563.live.streamtheworld.com:80/KEWBFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Student-Centric Internet Radio, from Kingston, Rhode Island!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RIU2</string>
+		<key>url</key>
+		<string>http://131.128.158.230:8000/riu2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>desc</key>
+		<string>Student-Centric Internet Radio, from Kingston, Rhode Island!</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>RIU2</string>
+		<key>url</key>
+		<string>http://131.128.158.230:8000/riu2-lqaac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>RIU2</string>
+		<key>url</key>
+		<string>http://131.128.158.230:8000/riu2-aac-sa2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Gangsta Rap</string>
+		<key>url</key>
+		<string>http://79.120.39.202:9059/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>50</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Hip Hop</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9067/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Rap</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9031/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Russian Rap</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9023/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Radio HipHopVibes</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Radio HipHopVibes</string>
+		<key>url</key>
+		<string>http://mp3stream4.abradio.cz:80/hiphopvibes64.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio HipHopVibes</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio HipHopVibes</string>
+		<key>url</key>
+		<string>http://mp3stream4.abradio.cz:80/hiphopvibes128.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio KissKiss Hip Hop </string>
+		<key>url</key>
+		<string>http://stream08.kisskiss.it:3624</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Uri-32</string>
+		<key>url</key>
+		<string>http://217.147.162.239:8006/RadioUri32.ogg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Expand your musical horizons!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radiolla Equalyza 128k</string>
+		<key>url</key>
+		<string>http://air.radiolla.com:80/equalyza.128k.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Expand your musical horizons!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radiolla Equalyza 192k</string>
+		<key>url</key>
+		<string>http://air.radiolla.com:80/equalyza.192k.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Expand your musical horizons!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radiolla Equalyza 32k</string>
+		<key>url</key>
+		<string>http://air.radiolla.com:80/equalyza.32k.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Black Music &amp; News on the Internet</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Ramjam Radio - Where The Sun Always Shines</string>
+		<key>url</key>
+		<string>http://188.138.16.143:21300/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Rádio Humor</string>
+		<key>url</key>
+		<string>http://ice.abradio.cz:80/humor128.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Rock Melodies Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Rock Melodies Radio</string>
+		<key>url</key>
+		<string>http://cast.iplayradio.net:8046/autodj</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>STREET POP WORLD 2Go</string>
+		<key>url</key>
+		<string>http://radio.world.streetpop.de:8005/2go_autodj</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>127611</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Shinsen-Radio.org MP3 @ 128kbps</string>
+		<key>url</key>
+		<string>http://roubaix.fr.shinsen-radio.com:8000/shinsen-radio.128.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Skyrock</string>
+		<key>url</key>
+		<string>http://95.81.146.10/4598/sky_151349.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Gumbo Mix of Genre's  from all eras of recorded sound</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Snakeice's House of Beats (128kbps-IceCast)</string>
+		<key>url</key>
+		<string>http://dhoytt.com:8030/128kbps</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>160</string>
+		<key>desc</key>
+		<string>Gumbo Mix of Genre's  from all eras of recorded sound</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Snakeice's House of Beats (160kbps-IceCast)</string>
+		<key>url</key>
+		<string>http://dhoytt.com:8030/160kbps</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Gumbo Mix of Genre's</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Snakeice's House of Beats (64kbps-IceCast)</string>
+		<key>url</key>
+		<string>http://dhoytt.com:8030/64kbps</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>320</string>
+		<key>desc</key>
+		<string>Gumbo Mix of Genre's  from all eras of recorded sound</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Snakeice's House of Beats (IceCast- 320kbps)</string>
+		<key>url</key>
+		<string>http://dhoytt.com:8030/320kbps</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>131</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Studio 7</string>
+		<key>url</key>
+		<string>http://radio1.studio7.lt:8001/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Classic Hip Hop and R&amp;amp;B programmed by Madd Hatta. Classic samples Classic Beats of various styles heard nowhere else. All Throwbacks All The Time.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Superthrowbackparty</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/superthrowbackparty</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Christian Pop Rock Rap Hip Hop R&amp;B EDM Electronic Dance Music</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>THE BLAST BLENDER 32 kbps</string>
+		<key>url</key>
+		<string>http://32.blender.fast-serv.com:80/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>desc</key>
+		<string>Christian Pop Rock Rap Hip Hop R&amp;B EDM Electronic Dance Music</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>THE BLAST BLENDER 48 kbps</string>
+		<key>url</key>
+		<string>http://48.blender.fast-serv.com:80/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Christian Pop Rock Rap Hip Hop R&amp;B EDM Electronic Dance Music</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>THE BLAST BLENDER 64 kbps</string>
+		<key>url</key>
+		<string>http://64.blender.fast-serv.com:80/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Beat 104.9 FM</string>
+		<key>url</key>
+		<string>http://6693.live.streamtheworld.com:80/KBTEFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Beat 95.7 FM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/KPAT</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Beat 98.5 FM</string>
+		<key>url</key>
+		<string>http://2443.live.streamtheworld.com:3690/KBBTFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The Bristol Sound Webradio - The Best Trip- Hop Radio on the web - BETA VERSION</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>TheBestTripHopRadioStation</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/TheBestTripHopRadioStation</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>UFLX.FM</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>UFLX.FM</string>
+		<key>url</key>
+		<string>http://162.251.160.2:80/uflxfmhigh</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>UFLX.FM</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>UFLX.FM AAC</string>
+		<key>url</key>
+		<string>http://162.251.160.2:80/uflxfmlow</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The People's Choice...WHERE R&amp;B and HIP HOP CONNECT!</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Urban Hitz Radio - Hip-Hop &amp; R&amp;B</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/UrbanHitzRadio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Underground Of All Types From All Over The World For Your</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>W.V.K.E. Soul Realm</string>
+		<key>url</key>
+		<string>http://vileknights.net:8000/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Holy and Hip... It's a Lifestyle</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>WHAH</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/lrn</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Digital Simulcast of WRIU 90.3FM</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>WRIU-FM</string>
+		<key>url</key>
+		<string>http://131.128.158.230:8000/wriu-fm-aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Digital Simulcast of WRIU Kingston 90.3FM</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>WRIU-FM</string>
+		<key>url</key>
+		<string>http://131.128.158.230:8000/wriu-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WRVZ The Beat 98.7 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/WRVZFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Music for Relaxation &amp; Conversation</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Wines.FM &amp; 16Bit.FM pres CAFE channel</string>
+		<key>url</key>
+		<string>http://16bit.fm:8000/cafe_aac_32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Album Rock</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Yo 107.1</string>
+		<key>url</key>
+		<string>http://out-2.icy.abacast.com:80/bluewater-wqkshd3-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>www.hiphop.by</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>РАДИО ХИП ХОП БАЙ - RADIO HIP HOP BY - www.hiphop.by</string>
+		<key>url</key>
+		<string>http://dj.pcradio.ru:9027/radio_autodj</string>
+	</dict>
+</array>
+</plist>

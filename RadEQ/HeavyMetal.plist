@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>PURE METAL |  LIVE Feature Radio Shows! LIVE Bands! @13StepsRadio On Twitter | 13SR TV - 13SR #METAL #RADIO</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>13SR-MainChannel</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/13SR-MainChannel</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>80s 90s heavy metal hair arena rock Netrock101</string>
+		<key>url</key>
+		<string>http://zzz.ee:8008/NetRock101</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>All 80s All The Time!!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Be Good Radio - 80s Metal</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/BeGoodMetal</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>All 80's All The Time!!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Be Good Radio - Pop Rock</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/BeGoodPopRock</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>130</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>CRC Hard Rockin 80s</string>
+		<key>url</key>
+		<string>http://205.188.215.227:8018</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Cidade Web Metal</string>
+		<key>url</key>
+		<string>http://2033.live.streamtheworld.com:80/CIDADEWEBMETALAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>La Radio Oficial de el Pirata Classic RockHeavy Trash.  email: gestionweb@elpirata.com</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>EmisiónPirata</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/Emision-Pirata</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>desc</key>
+		<string>The Heavy Metal Supersite</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Hard Radio</string>
+		<key>url</key>
+		<string>http://icecast.hardradio.com:80/hardradio4.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio station voor de ware Heavy Metal Maniac!     True Heavy Metal Mania!    We play Heavy Metal from the early 70 s all the way up to present day. No Black no Nu no Goth just True Heavy Metal!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Heavymetalmaniacs</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/heavymetalmaniacs</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>I-Radio/kDr.FM - just music</string>
+		<key>url</key>
+		<string>http://128.127.66.110:8000/autoplay</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Sit back and relax. Get comfortable. Now close your eyes and enjoy pure music.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>IMPERIO-NEGRO-METAL-RADIO</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/imperio-negro-metal-radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Kat 105.5 FM</string>
+		<key>url</key>
+		<string>http://stream.us.gslb.liquidcompass.net/WYKTFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Laut.fm/rockfm24</string>
+		<key>url</key>
+		<string>http://stream.laut.fm:80/rockfm24</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM 100% Metallica</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/62</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>Muzyka</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Castle Party</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/70</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Ciezkie Brzmienia</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/13</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Alternative Metal</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9035/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Avant-Garde Metal</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9081/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Black Metal</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9003/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Death Doom Metal</string>
+		<key>url</key>
+		<string>http://79.120.39.202:9007/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Death Metal</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9083/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Folk Metal</string>
+		<key>url</key>
+		<string>http://79.120.39.202:9097/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Funeral Doom Metal</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9085/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Gothic Metal</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9037/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Groove Metal</string>
+		<key>url</key>
+		<string>http://79.120.39.202:9045/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>50</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Hard Rock</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9109/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Heavy Metal</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9115/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Industrial Metal</string>
+		<key>url</key>
+		<string>http://79.120.39.202:9075/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Melodic Death Metal</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9091/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>50</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Metalcore</string>
+		<key>url</key>
+		<string>http://79.120.39.202:9027/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Power Metal</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9099/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Progressive Metal</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9093/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Sludge Metal</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9087/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Stoner Metal</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9089/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Symphonic Metal</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9097/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Technical Death Metal</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9095/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>51</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Thrash Metal</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9101/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Sit back and relax. Get comfortable. Now close your eyes and enjoy pure music.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radiolococali</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/Radiolococali</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Rock FM 94.5</string>
+		<key>url</key>
+		<string>http://92.48.118.17:9450/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio Tangra Streaming</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Tangra Online 128 kbit</string>
+		<key>url</key>
+		<string>http://85.196.144.188:8000/Tangra-high</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>desc</key>
+		<string>Radio Tangra Streaming</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Tangra Online 64 kbit</string>
+		<key>url</key>
+		<string>http://85.196.144.188:8000/Tangra-low</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Radio Tangra Streaming</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Tangra Online 96 kbit</string>
+		<key>url</key>
+		<string>http://85.196.144.188:8000/Tangra-middle</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WQLZ 92.7 FM</string>
+		<key>url</key>
+		<string>http://out2.cmn.icy.abacast.com/wqlz-wqlzfmaac-64</string>
+	</dict>
+</array>
+</plist>

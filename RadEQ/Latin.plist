@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>L'Identité Antillaise</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>((( ANTILLES RADIO )))</string>
+		<key>url</key>
+		<string>http://streamantille.com:8024/gsm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Playing the best latin music.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>101LatinoRadio</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/101LatinoRadio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>La mejor m&amp;#xfa;sica latina 24 horas... Hip Hop en Espa&amp;#xf1;ol - Rom&amp;#xe1;ntica - Rock en Espa&amp;#xf1;ol</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ALATINDREAM-Caliente24H</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/ALATINDREAM-Caliente24H</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>la unica radio dominicana pero para todos ....</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Bachatadominicana</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/bachata-dominicana</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The best pop music. Top Hits and Oldies 80&amp;#xb4;s 90&amp;#xb4;s. Pop Ingles y exitos latinos desde los 80 hasta ahora.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CITYPOPRADIO</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/CITY-POP-RADIO</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>El Mejor Reggaeton desde Medellin Colombia la capital mundial del Genero. Escucha los mejores clasicos y lo mas nuevo.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ChecheReggaetonRadio</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Cheche-Reggaeton-Radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>ELIUM Club &amp;amp; Dance  Le son Club &amp;amp; Dance toute la journ&amp;#xe9;e.  Une radio du bouquet ELIUM disponible sur www.elium.net</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ChikleatePop</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/chikleate-pop</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Es una Emisora de radio latina  puedes escuchar la mejor musica de latinoamerica. Bachata Merengue Salsa Reggaeton Dembow Pop Latino Electrolatino Etc.    Puedes Visitarnos en nuestra pagina web oficial. www.elvacilonmusical.com</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ElVacilonMusicalRadio</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/El-Vacilon-Musical-Radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>AlSolNet</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Estudio 2</string>
+		<key>url</key>
+		<string>http://streamall.alsolnet.com:443/fmestudiohd</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>desc</key>
+		<string>Powered by Grupo MakroDigital</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Excelencia Radio 100.1 HD</string>
+		<key>url</key>
+		<string>http://ecuadorstreaming.net:11161/excelenciaradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Exitos 95.5 FM</string>
+		<key>url</key>
+		<string>http://audio.innovatestream.com:7444/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>AlSolNet</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>FM 88</string>
+		<key>url</key>
+		<string>http://streamall.alsolnet.com:443/ayacucho</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>88.5 FM STEREO</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>FM 88 Radioactiva</string>
+		<key>url</key>
+		<string>http://ecuadorstreaming.net:11209/fm88</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>LORINI MEDIA STREAMING</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Festiva 99.9 FM</string>
+		<key>url</key>
+		<string>http://lortel28.lorini.net:2040/FESTIVA999FM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Fiesta</string>
+		<key>url</key>
+		<string>http://216.245.195.188:9012</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Formula Mexicana</string>
+		<key>url</key>
+		<string>http://201.148.81.100:8500/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Formula Radio Uno</string>
+		<key>url</key>
+		<string>http://201.148.81.100:8000/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Formula Trova</string>
+		<key>url</key>
+		<string>http://201.148.81.100:9200/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Formula uno Radio Ai</string>
+		<key>url</key>
+		<string>http://201.148.81.101:9000/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>67</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Frecuencia 100 FM</string>
+		<key>url</key>
+		<string>http://178.33.167.32:6042</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Frecuencia Latina 89.7 FM</string>
+		<key>url</key>
+		<string>http://184.107.210.203:7144/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Genesis 98.1 FM</string>
+		<key>url</key>
+		<string>http://2453.live.streamtheworld.com:80/XHRLFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Latin Music playing the latest in Salsa Merengue Bachata &amp;amp; Reggaeton   www.haze.fm ---&amp;gt;&amp;gt;DL our App--&amp;gt; Apple apple.haze.fm Android droid.haze.fm Windows windows.haze.fm (Haze FM)</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Haze.FMLatin</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/HazeFMLatin</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Http://la879fm.com</string>
+		<key>url</key>
+		<string>http://sv1.blindstream.com:8000/movil</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Http://la879fm.com</string>
+		<key>url</key>
+		<string>http://sv1.blindstream.com:8000/la879</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>I Love Tipico</string>
+		<key>url</key>
+		<string>http://master1.shoutcast.com:8080/ILoveTipico</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>LA Z </string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/XHVOZFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Best of Latin Hits and Independant music</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>LATINFLAVORONAIR</string>
+		<key>url</key>
+		<string>http://198.50.250.195:7022/LATINFLAVORONAIR</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>La Mexicana 104.9 FM</string>
+		<key>url</key>
+		<string>http://lamexicana.servemp3.com:8002/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>La N</string>
+		<key>url</key>
+		<string>http://77.68.54.175:10100</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>La Nueva 103.5 FM</string>
+		<key>url</key>
+		<string>http://1862.live.streamtheworld.com:443/KISFFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>La Nueva 103.9 WOLI-FM</string>
+		<key>url</key>
+		<string>http://ice2.securenetsystems.net:80/WOLI</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>La Nueva 105.9 FM</string>
+		<key>url</key>
+		<string>http://2773.live.streamtheworld.com:3690/KHOTFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>La Nueva 106.5 FM</string>
+		<key>url</key>
+		<string>http://2473.live.streamtheworld.com:80/KRCDFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>La Tremenda 1010 AM</string>
+		<key>url</key>
+		<string>http://2083.live.streamtheworld.com:80/UNVAMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>La Tropical De Colombia</string>
+		<key>url</key>
+		<string>http://178.33.226.68:8050</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>1070 AM</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>La Voz del Tomebamba</string>
+		<key>url</key>
+		<string>http://184.154.173.148:8074/lavozdeltomebamba</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>La Z 107.1 FM</string>
+		<key>url</key>
+		<string>http://2503.live.streamtheworld.com:80/KLZTFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>La Zandunguera</string>
+		<key>url</key>
+		<string>http://servistream.pe:5408/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Lasser 97.7 FM</string>
+		<key>url</key>
+		<string>http://216.245.195.188:8010</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Latina Max le meilleur du son latina !</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>LatinaMax</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Latina-Max</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Latin Music 360FW the best latin music at 360&amp;#xb0;  Salsa/Bachata/Reggaeton/Merengue/Cumbia/Vallenato  enjoy with us!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Latinmusic360fw</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/latinmusic360fw</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Latino Mix 105.7</string>
+		<key>url</key>
+		<string>http://2473.live.streamtheworld.com:80/KVVFFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Latino Vibe 95.1 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/KVIBFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>M&amp;#xfa;sica en espa&amp;#xf1;ol e italiano en una &amp;#xfa;nica radio.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Latita</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/Latita</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>AlSolNet</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Libre</string>
+		<key>url</key>
+		<string>http://streamall.alsolnet.com:443/libre</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>M2 CALIENTE : ONLY LATIN MUSIC - Live From Paris France - www.m2radio.fr</string>
+		<key>url</key>
+		<string>http://88.191.118.145:80/m2caliente</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Maggica 921 FM </string>
+		<key>url</key>
+		<string>http://184.173.77.4:9344/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Magia Digital 89.9</string>
+		<key>url</key>
+		<string>http://2443.live.streamtheworld.com:80/XHRAAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radiofutura M&amp;#xe1;xima   Es la radio latina por excelencia con los ritmos m&amp;#xe1;s movidos Merengue Salsa Reggaeton Punta Pop Baladas pop de los mejores exponentes y los mejores &amp;#xe9;xitos de latino Am&amp;#xe9;rica</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>MaximaFmHonduras</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Maxima-Fm-Honduras</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Metro fm</string>
+		<key>url</key>
+		<string>http://master1.shoutcast.com:8080/metrofm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Mixer</string>
+		<key>url</key>
+		<string>http://streamingraddios.com:8639/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Monica Radio</string>
+		<key>url</key>
+		<string>http://ns301365.ovh.net:8000/monica.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Nuestra Marimba</string>
+		<key>url</key>
+		<string>http://188.165.132.4:8038</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>LORINI LIVE STREAMING</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Onda 103.5 FM</string>
+		<key>url</key>
+		<string>http://ur58.lorini.net:40000/ONDA1035FM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Latino</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/19</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Orinokia FM</string>
+		<key>url</key>
+		<string>http://ngned.hostingned.net:7050/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Pasion 106.7 FM</string>
+		<key>url</key>
+		<string>http://3463.live.streamtheworld.com:443/WPPNFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Your Bilingual Party Station! Hot hits in English and Spanish!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Planet Candela</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/candela2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>desc</key>
+		<string>My station description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Planeta</string>
+		<key>url</key>
+		<string>http://stream.plichost.com.br:8003/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>28</string>
+		<key>desc</key>
+		<string>LORINI MEDIA STREAMING</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Planeta FM</string>
+		<key>url</key>
+		<string>http://lortel28.lorini.net:1090/PLANETAFM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Somos La Emisora Con Todos Los Hits Que Te Gustan!!! Nuestra Aplicacion #PlaylatinoApp Ya Disponible!!  Facebook.com/playlatinoradio  Twitter.com/playlatino  Instagram/playlatino</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>PlayLatino</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/PlayLatino</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Playera 101.9 FM</string>
+		<key>url</key>
+		<string>http://216.245.195.188:8040</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Poder 1110 AM</string>
+		<key>url</key>
+		<string>http://ice6.securenetsystems.net:80/WPMZ</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>41</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Power Radio</string>
+		<key>url</key>
+		<string>http://envivo.streamingradios.com.ar:9890</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Primera FM</string>
+		<key>url</key>
+		<string>http://88.208.232.166:8000/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>RADIO WEB ET FM</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RCOFM</string>
+		<key>url</key>
+		<string>http://streamantille.com:8008/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>RADIO WEB ET FM</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RCOFM</string>
+		<key>url</key>
+		<string>http://streamantille.com:8008/rco64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Adrenalina</string>
+		<key>url</key>
+		<string>http://streamingraddios.com:8193/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Ambrosio 90.7 FM</string>
+		<key>url</key>
+		<string>http://sc.digitalproserver.com:9420</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio America</string>
+		<key>url</key>
+		<string>http://lortel58.lorini.net:16000/AMERICA890AM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Ancasti 98.5 FM</string>
+		<key>url</key>
+		<string>http://miradioenlaweb.com:10010/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>28</string>
+		<key>desc</key>
+		<string>Powered by AACplus.ec</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Antenna 3</string>
+		<key>url</key>
+		<string>http://www.makrodigital.com:8177/radioantena3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Best of Latin Hits and Independant music</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radiocolombiaestereo</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/Radio-colombia-estereo</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>electronic shizzle for a laidback life</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RanchoRelaxoRadio</string>
+		<key>url</key>
+		<string>http://www.rrradio.nl:8000/rrradio_01</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>desc</key>
+		<string>LORINI MEDIA STREAMING</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Rumba 100.1 FM </string>
+		<key>url</key>
+		<string>http://lortel28.lorini.net:1090/RumbaBarquisimeto</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>desc</key>
+		<string>LORINI MEDIA STREAMING</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Rumba 104.9 FM</string>
+		<key>url</key>
+		<string>http://www.fm.net.ve:1090/RumbaAnzoategui</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>LORINI MEDIA STREAMING</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Rumba 98.1 FM</string>
+		<key>url</key>
+		<string>http://lortel28.lorini.net:1090/RumbaGuayana</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>El Sabor de South Jersey</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Rumba609 Radio</string>
+		<key>url</key>
+		<string>http://50.7.77.114:8390/autodj</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Musiques et informations li&amp;#xe9;es au bassin M&amp;#xe9;diterran&amp;#xe9;en et d un peu plus loin...d&amp;#xe9;couverte de rythmes de cultures proches g&amp;#xe9;ographiquement et pourtant si diff&amp;#xe9;rents</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>S&amp;#xe9;pia</string>
+		<key>url</key>
+		<string>http://198.50.250.195:7062/Sepia</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>SALOME FM / 107.5 VALENCIA</string>
+		<key>url</key>
+		<string>http://salomefm.com:8001/salomefm1</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Sabrosisima</string>
+		<key>url</key>
+		<string>http://servistream.pe:7220/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Salsa 98.1 FM</string>
+		<key>url</key>
+		<string>http://1661.live.streamtheworld.com:80/WNUEFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Musiques et informations li&amp;#xe9;es au bassin M&amp;#xe9;diterran&amp;#xe9;en et d un peu plus loin...d&amp;#xe9;couverte de rythmes de cultures proches g&amp;#xe9;ographiquement et pourtant si diff&amp;#xe9;rents</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Sépia</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/Sepia</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Latin pop music we do not talk we are shy we play love songs.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Shy-radio</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/shy-radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Standard &amp;amp; Latin Dances: The best of ballroom dancing and dancesport music (Tanzmusik). With the French Touch !</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>StrictTempoDanceMusic</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Strict-Tempo-Dance-Music</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Suquia</string>
+		<key>url</key>
+		<string>http://204.45.59.2:8724</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>desc</key>
+		<string>Tnt-radio.es 24 Horas de musica sin publicidad</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>TNT-RADIO</string>
+		<key>url</key>
+		<string>http://www.tnt-radio.es:8000/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>desc</key>
+		<string>Servicios de radio de www.tnt-radio a Chile</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>TNT-RADIO INTERNACIONAL CHILE</string>
+		<key>url</key>
+		<string>http://www.tnt-radio.es:8000/chile.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Tejano 107.5</string>
+		<key>url</key>
+		<string>http://4983.live.streamtheworld.com:80/KXTNFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>desc</key>
+		<string>Tnt-radio.es Servicios Argentina</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Tnt-radio.es servicios Argentina</string>
+		<key>url</key>
+		<string>http://www.tnt-radio.es:8000/argentina.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>100% Beatles playing non-stop on Abacus Beatles.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Todoporti</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/todoporti</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Tu Musica 104.9</string>
+		<key>url</key>
+		<string>http://2223.live.streamtheworld.com:80/KAMAFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>41</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Union La Radio AM 880</string>
+		<key>url</key>
+		<string>http://67.212.166.178:7042/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Union La Radio FM 103.3</string>
+		<key>url</key>
+		<string>http://servistream.pe:7218/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Urban 106</string>
+		<key>url</key>
+		<string>http://radio.solumedia.com.ar:8012/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>XEG 1050 AM</string>
+		<key>url</key>
+		<string>http://2223.live.streamtheworld.com:80/XEGAMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>XEPH Sabrosita 590 AM</string>
+		<key>url</key>
+		<string>http://4983.live.streamtheworld.com:80/XEPHAMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>29</string>
+		<key>desc</key>
+		<string>Pegando Duro</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Yara</string>
+		<key>url</key>
+		<string>http://live2.larastreaming.net:8000/YaraRadio.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>desc</key>
+		<string>Escucha Radio Ysapy en vivo</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Ysapy</string>
+		<key>url</key>
+		<string>http://207.210.120.98:13080/vivo</string>
+	</dict>
+</array>
+</plist>

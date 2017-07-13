@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>103.7 The Oasis</string>
+		<key>url</key>
+		<string>http://ice6.securenetsystems.net/KOAZ</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>All best smooth jazz hits</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>4USmoothJazz</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/4u-smooth-jazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Smooth Jazz Hits 24/7</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ALLSMOOTHJAZZ</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/all-smooth-jazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Abacus.fm Smooth Jazz  plays relaxing Smooth Jazz 24/7</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Abacus.fmSmoothJazz</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/AbacusfmSmoothJazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Smooth, soft &amp; lazy..jazz, blues, soul [CD-Quality]</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Absolute smooth mix-jazz,blues,soul [CD-Quality]</string>
+		<key>url</key>
+		<string>http://joweb.dyndns.org:8052/live2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Smooth, soft &amp; lazy..jazz, blues, soul  [Radio-Quality]</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Absolute smooth mix-jazz,blues,soul [Radio-Quality]</string>
+		<key>url</key>
+		<string>http://joweb.dyndns.org:8052/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Absolutely Smooth Jazz - SKY.FM - the world's smoothest jazz 24 hours a day</string>
+		<key>url</key>
+		<string>http://everego.com:8000/smoothjazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Abacus.fm Smooth Jazz  plays relaxing Smooth Jazz 24/7</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>AmbienteFM-Tenerife,CanaryIslands</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/ambiente-fm---tenerife,-canary-islands</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Anuhea Hawaii's Refreshing Jazz</string>
+		<key>url</key>
+		<string>http://s4.voscast.com:7714/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>All 80s All The Time!!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Be Good Radio - 80s Jazz</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/BeGoodSmoothJazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Move To The Groove</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>DONZI 102</string>
+		<key>url</key>
+		<string>http://donzilasse.no-ip.biz:8000/donzi102.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>57</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KHigh Colorado's Smooth Channel</string>
+		<key>url</key>
+		<string>http://4903.live.streamtheworld.com:80/K_HIGHAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>desc</key>
+		<string>The Smoothest Place on Radio</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KJZY 93.7 FM</string>
+		<key>url</key>
+		<string>http://in.icy2.abacast.com/redwoodempire-kjzy-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>51</string>
+		<key>desc</key>
+		<string>SOUL &amp; FUNK (Paris - France)</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>La Radio de Sebb Smooth &amp; Relax</string>
+		<key>url</key>
+		<string>http://soulandfunkaac.ice.infomaniak.ch/soulandfunkaac-48.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Love Jazz Florida - Love is in the Air with Smooth Jazz  - Relax wiht the Best Smooth Jazz anywhere!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Love Jazz Florida</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/lovejazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Love Smooth Jazz - Lite Jazz online 24/7 from Miami Florida USA.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>LoveSmoothJazz.com</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/lovesmoothjazzcom</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>A Special Blend of Smooth Relaxing Music All Day. Mocha Sounds Different. Innovative. Surprising. Its Cool Calm and Refreshing 24-7.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Mocha</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/Mocha</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Smooth Jazz and R&amp;amp;B Music.Music provided by DJ Mondaynitemike.(Mondaynitemike Radio on Facebook&amp;amp;DJ Mondaynite on Twitter)A RadioMike Production.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Mondaynitemike'sSmoothJazz&amp;R&amp;BRadio</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/Mondaynitemike-sSmoothJazz-R-BRadio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>320</string>
+		<key>desc</key>
+		<string>Nice chillout music for easy listening</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Music for cafe</string>
+		<key>url</key>
+		<string>http://95.31.250.16:7000/ices</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>My Life, My Music, My Radio</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>My Canberra Digital</string>
+		<key>url</key>
+		<string>http://wmedia01.grantbroadcasters.com.au:8800/mycd.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>My Perth Digital</string>
+		<key>url</key>
+		<string>http://wmedia02.grantbroadcasters.com.au:8800/mypd.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>44</string>
+		<key>desc</key>
+		<string>My Life, My Music, My Radio</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>My Perth Digital</string>
+		<key>url</key>
+		<string>http://wmedia02.grantbroadcasters.com.au:8800/mypd.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Smooth Jazz</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/60</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Our Place Radio KOPR-db</string>
+		<key>url</key>
+		<string>http://216.245.217.70:8218/opr.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>I m Souldennis from Greece. I created this web radio station for all the fans of soul music.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>PhillySaxRadio</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/PhillySaxRadio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>50</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Smooth Jazz</string>
+		<key>url</key>
+		<string>http://79.120.39.202:9017/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Relax Channel - IRCStudio.com</string>
+		<key>url</key>
+		<string>http://live.ircstudio.com:8808/ircstudio-relax-128</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>75</string>
+		<key>desc</key>
+		<string>AACP</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Relax FM</string>
+		<key>url</key>
+		<string>http://217.29.51.162:8000/relaxfm-72k.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>100% Saxophone Musics : SLOWS / LOVE SONGS</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Sax4Love</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/Sax4Love</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Smooth Jazz Florida with the Smoothest Jazz on the Planet</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Smooth Jazz Florida</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/smoothjazzflorida</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Smooth Jazz Florida Plus (+) - More Smooth Jazz from Smooth Jazz Florida - Stream 2</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Smooth Jazz Florida Plus (+)</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/sjfplus</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>SmoothJazz.com Global Radio - The World's First 24/7 Since 2000 - KJAZ.DB</string>
+		<key>url</key>
+		<string>http://ns1.smart-com.si:8000/stream/10</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Smooth Jazz Planet! The Smoothest Jazz on the Internet!  Smooth Jazz 24/7. Serving up Lite Easy Smooth Jazz.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>SmoothJazzPlanet</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/SmoothJazzPlanet</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>SmoothLounge.com Global Radio - Chilled Organic Beats from California to the World - KSJZ.DB</string>
+		<key>url</key>
+		<string>http://409.cloudrad.io:8614/relay</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Selection of the best smooth jazz music 24/7</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Smoothbestmusicradio</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/Smoothbestmusicradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192000</string>
+		<key>desc</key>
+		<string>192Kbit mp3 codec ! Smooth,Contemporary,Instrumental Jazz from lossless see http://smj.delfa.net for details</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Smoothest Jazz station</string>
+		<key>url</key>
+		<string>http://radioserver1.delfa.net:80/192.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Lounge Radio with a Pulse!  The perfect mix of lounge deep house chill nu jazz ambient house &amp;amp; dub.  Smooth melodic tones set the pace for the most discerning tastes.  S3 - Smooth   Sophisticated   Seductive</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>TheSmoothLounge</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/The-Smooth-Lounge</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WAJP Kentucky Smooth</string>
+		<key>url</key>
+		<string>http://rs3.radiostreamer.com:8180</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Wave</string>
+		<key>url</key>
+		<string>http://2933.live.streamtheworld.com:80/CIWVFMAAC_SC</string>
+	</dict>
+</array>
+</plist>

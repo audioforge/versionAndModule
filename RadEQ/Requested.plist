@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Chicago&apos;s Finest Rock</string>
+		<key>name</key>
+		<string>WXRT - FM 93.1</string>
+		<key>url</key>
+		<string>http://14833.live.streamtheworld.com:3690/WXRTFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/KCSM</string>
+		<key>name</key>
+		<string>KCSM Jazz 91</string>
+		<key>desc</key>
+		<string>KCSM Jazz 91 broadcasts 24 hours a day. Hosts of the various programs KCSM produces include veteran jazz musicians, educators, seasoned jazz broadcasters and often a combination of the three.</string>
+		<key>bitrate</key>
+		<string>64</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://stream.srg-ssr.ch/m/drsvirus/mp3_128</string>
+		<key>name</key>
+		<string>Radio SRF Virus</string>
+		<key>desc</key>
+		<string>Swiss Radio Virus</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://ice32.infomaniak.ch:8000/yesfm-high.mp3</string>
+		<key>name</key>
+		<string>Yes FM</string>
+		<key>desc</key>
+		<string>www.yesfm.ch</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://stream.srg-ssr.ch/m/couleur3/mp3_128</string>
+		<key>name</key>
+		<string>Couleur 3</string>
+		<key>desc</key>
+		<string>Radio Suisse Couleur 3</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Radio DRS3</string>
+		<key>desc</key>
+		<string>Swiss Radio DRS 3</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>url</key>
+		<string>http://stream.srg-ssr.ch/m/drs3/mp3_128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>K-ZAP.org</string>
+		<key>desc</key>
+		<string>Today, Sacramento&apos;s K-ZAP reflects what we believe the original KZAP would have evolved into had it not gone off the air in 1992. We are a station living in the here-and-now, featuring lots of great, new music from artists new and not-so-new, as well as 50 years of rock, blues, and more. We&apos;ll keep you informed about music news and Sacramento happenings, too, as we are Sacramento&apos;s K-ZAP!</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>url</key>
+		<string>http://janus.cdnstream.com:5160/live</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>ambientsleepingpill</string>
+		<key>desc</key>
+		<string>Internet Radio pouring uninterrupted Music for Sleeping, taking Naps and other more wakeful Tranquil Moments</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>url</key>
+		<string>http://50.7.96.138:8684/stream</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://uwstream2.somafm.com:80</string>
+		<key>name</key>
+		<string>SOMA FM Drone Zone</string>
+		<key>desc</key>
+		<string>Droning atmospheric space music and ambient textures with minimal beats. Music on Drone Zone is all about sonic textures and environments. Youll hear music by artists such as Pete Namlook, Steve Roach, Harold Budd, Brian Eno, Stars of the Lid, Dilate and the KLF.</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://216.240.133.177:2005</string>
+		<key>name</key>
+		<string>Republic Broadcasting Network</string>
+		<key>desc</key>
+		<string>RBN - Republic Broadcasting Network (Because you CAN handle the Truth!)
+</string>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://xstream1.somafm.com:2806</string>
+		<key>name</key>
+		<string>Some FM: Space Station</string>
+		<key>desc</key>
+		<string>Tune in, turn on, space out. Spaced-out ambient and mid-tempo electronica.</string>
+		<key>bitrate</key>
+		<string>128</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://uwstream2.somafm.com:8100</string>
+		<key>name</key>
+		<string>Some FM: Drone Zone</string>
+		<key>desc</key>
+		<string>Served best chilled, safe with most medications. Atmospheric textures with minimal beats.</string>
+		<key>bitrate</key>
+		<string>128</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://uwstream3.somafm.com:8300</string>
+		<key>name</key>
+		<string>Some FM: Doomed</string>
+		<key>desc</key>
+		<string>Dark industrial / ambient music for tortured souls</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://148.163.81.10:8006</string>
+		<key>name</key>
+		<string>Zenith Classic Rock</string>
+		<key>desc</key>
+		<string>Zenith Classic Rock has been streaming online continually since 2007, from the  South East of Ireland</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>bitrate</key>
+		<string>128</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://rivieraradio.ice.infomaniak.ch:80/rivieraradio-high.aac</string>
+		<key>name</key>
+		<string>Rivieria Radio Monaco</string>
+		<key>desc</key>
+		<string>Rivieria Radio 106.5 in Monaco in english</string>
+		<key>bitrate</key>
+		<string>64</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://14653.live.streamtheworld.com:3690/KDFCFM2_SC</string>
+		<key>name</key>
+		<string>KDFC FM</string>
+		<key>desc</key>
+		<string>Classical San Francisco</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>bitrate</key>
+		<string>128</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://server2.luschaudio.com:9292/</string>
+		<key>name</key>
+		<string>DJ Shel</string>
+		<key>desc</key>
+		<string>Audioream</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>bitrate</key>
+		<string>96</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://174.36.206.197:8198/</string>
+		<key>name</key>
+		<string>RadioAfsana</string>
+		<key>desc</key>
+		<string>Hindi Bollywood Indian Desi</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>bitrate</key>
+		<string>128</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://91.121.92.167:4600/</string>
+		<key>name</key>
+		<string>POLSKASTACJA .PL </string>
+		<key>desc</key>
+		<string>Bollywood (Polskie Radio)</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>bitrate</key>
+		<string>128</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://www.radioteentaal.com:8000</string>
+		<key>name</key>
+		<string>RadioTeenTaal</string>
+		<key>desc</key>
+		<string>100% Indian And Bollywood Songs Live From Paris</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>bitrate</key>
+		<string>128</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://s0.desimusicmix.com:8012</string>
+		<key>name</key>
+		<string>Desi Music Mix! Desi Radio playing Hindi, Punjabi music, 24/7!</string>
+		<key>desc</key>
+		<string>Bollywood, Hindi, Punjabi, Bhangra, Desi</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>bitrate</key>
+		<string>128</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://cp6.digistream.info:20366</string>
+		<key>name</key>
+		<string>iROCK109</string>
+		<key>desc</key>
+		<string>DJ-Hosted 60s-90s Classic Rock - Requests 24/7 On Air Live Otto</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>bitrate</key>
+		<string>128</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://mp3.streampower.be/stubru-high</string>
+		<key>name</key>
+		<string>Stubru</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>bitrate</key>
+		<string>128</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://mp3.streampower.be/ra2vlb-mid</string>
+		<key>name</key>
+		<string>Radio 2 Vlaams-Brabant</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>bitrate</key>
+		<string>64</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://88.198.48.36:8000/chill</string>
+		<key>name</key>
+		<string>Radio Schizoid Chillout/Ambient</string>
+		<key>desc</key>
+		<string>Fly through the mystic soundscapes of nature in an altered state of reality.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>bitrate</key>
+		<string>128</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://cpr2.streamguys.net/wguc</string>
+		<key>name</key>
+		<string>WGUC</string>
+		<key>desc</key>
+		<string>Cincinnati&apos;s Classical Public Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>bitrate</key>
+		<string>192</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://66.225.205.98:80/</string>
+		<key>name</key>
+		<string>Folk Alley</string>
+		<key>desc</key>
+		<string>All Folk. All The Time.</string>
+		<key>bitrate</key>
+		<string>64</string>
+	</dict>
+	<dict>
+		<key>old</key>
+		<string>http://current.stream.publicradio.org/kcmp.mp3</string>
+		<key>url</key>
+		<string>http://radioheartland.stream.publicradio.org/radioheartland.mp3</string>
+		<key>name</key>
+		<string>Radio Heartland</string>
+		<key>desc</key>
+		<string>Radio Heartland is a 24-hour service featuring acoustic, Americana and roots music.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>bitrate</key>
+		<string>128</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://gffstream.ic.llnwd.net/stream/gffstream_stream_wdr_einslive_b</string>
+		<key>name</key>
+		<string>1 Live</string>
+		<key>desc</key>
+		<string>West Deutscher Rundfunk 1 Live</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>bitrate</key>
+		<string>128</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://wdr-4.akacast.akamaistream.net/7/42/119438/v1/gnl.akacast.akamaistream.net/wdr-4</string>
+		<key>name</key>
+		<string>WDR 4</string>
+		<key>desc</key>
+		<string>West Deutscher Rundfunk 4</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>bitrate</key>
+		<string>128</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://br_mp3-bayern3_s.akacast.akamaistream.net/7/464/142692/v1/gnl.akacast.akamaistream.net/br_mp3_bayern3_s</string>
+		<key>name</key>
+		<string>Bayern 3</string>
+		<key>desc</key>
+		<string>Bayerischer Rundfunk 3</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>bitrate</key>
+		<string>56</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://war.str3am.com:7000</string>
+		<key>name</key>
+		<string>WTIP 90.7 FM</string>
+		<key>desc</key>
+		<string>North Shore Community Radio, Cook County, Minnesota</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>bitrate</key>
+		<string>64</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://kiis-fm.akacast.akamaistream.net/7/572/19773/v1/auth.akacast.akamaistream.net/kiis-fm</string>
+		<key>name</key>
+		<string>KIIS FM 102.7</string>
+		<key>desc</key>
+		<string>LA&apos;s #1 Hit Music Station</string>
+		<key>bitrate</key>
+		<string>128</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_intl_lc_1xtra_p?s=1389716024&amp;e=1389730424&amp;h=6eb71199fc7bf8ae8f82ffbb7cf1ce23</string>
+		<key>name</key>
+		<string>BBC 1 Xtra</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>BBC 1 Xtra</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_intl_lc_6music_p?s=1389716004&amp;e=1389730404&amp;h=6c6d94d079f494297deff253ee015a00</string>
+		<key>name</key>
+		<string>BBC 6 Music</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>BBC 6 Music</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_intl_lc_radio2_p?s=1389715981&amp;e=1389730381&amp;h=d468efd88d7e87343b12e5f6ebff9dc5</string>
+		<key>name</key>
+		<string>BBC 2</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>BBC Radio 2</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_intl_lc_radio1_p?s=1389715729&amp;e=1389730129&amp;h=89119df9543b57d443d5d9fed7da703f</string>
+		<key>name</key>
+		<string>BBC 1</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>BBC Radio 1</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://mp3.wusf.usf.edu:8000/</string>
+		<key>name</key>
+		<string>WUSF 89.7 Tampa, Fl</string>
+		<key>desc</key>
+		<string>Tampa / St. Petersburg / Sarasota, NPR, Classic &amp; Jazz</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://kusc-ice.streamguys.com/kusc96.aac</string>
+		<key>name</key>
+		<string>Classical KUSC</string>
+		<key>desc</key>
+		<string>Classical KUSC is the largest and most listened to public radio and non-profit classical music station in the country.</string>
+		<key>bitrate</key>
+		<string>96</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://eno.emit.com:8000/3mbs_live_64.aacp</string>
+		<key>name</key>
+		<string>3MBS</string>
+		<key>desc</key>
+		<string>Classically Melbourne</string>
+		<key>bitrate</key>
+		<string>64</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://ice-sov.musicradio.com:80/LBC973</string>
+		<key>name</key>
+		<string>LBC 97.3</string>
+		<key>desc</key>
+		<string>London&apos;s Biggest Conversation</string>
+		<key>bitrate</key>
+		<string>128</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://grootnieuwsradio.streampartner.nl:8000/grootnieuwsradio</string>
+		<key>name</key>
+		<string>GrootNieuwsRadio 1008 AM</string>
+		<key>desc</key>
+		<string>GrootNieuwsRadio 1008 AM</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://173.213.97.110:8242</string>
+		<key>name</key>
+		<string>IRISH PUB RADIO</string>
+		<key>desc</key>
+		<string>LIVE FROM IRELAND (IRISH, FOLK, CELTIC, BALLADS, STORIES)</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://listen.radionomy.com/100-softriwlovechannel</string>
+		<key>name</key>
+		<string>100% Soft RIW LOVE CHANNEL</string>
+		<key>desc</key>
+		<string>Downtempo - Hits 80&apos;s - Hits - Oldies - Romantic</string>
+		<key>bitrate</key>
+		<string>128</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://listen.radionomy.com/70s-80s-90s-riw-vintage-channel</string>
+		<key>name</key>
+		<string>Radio Inferno Web - Vintage Channel 70&apos;s 80&apos;s 90&apos;s</string>
+		<key>desc</key>
+		<string>With RIW VINTAGE CHANNEL you go back in time through the most beautiful music 70&apos;s 80&apos;s 90&apos;s with jumps to the present.</string>
+		<key>bitrate</key>
+		<string>128</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://www.live365.com/play/353938</string>
+		<key>name</key>
+		<string>Capital Jazz Radio</string>
+		<key>desc</key>
+		<string>AZZ THAT ROCKS in high-quality 128K stereo! A cool mix of groove-oriented jazz and instrumental funk, unlike anything you&apos;ll hear elsewhere. Artists include Down to the Bone, Paul Hardcastle, Roy Ayers, Jeff Lorber, Incognito, Urban Knights, etc.</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://http-live.sr.se/p4malmo-mp3-192</string>
+		<key>name</key>
+		<string>P4 Malmö</string>
+		<key>desc</key>
+		<string> </string>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://http-live.sr.se/p3-mp3-192</string>
+		<key>name</key>
+		<string>Sveriges Radio P3</string>
+		<key>desc</key>
+		<string> </string>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://www.partyvibe.com:8010/</string>
+		<key>name</key>
+		<string>Party Vibe Radio</string>
+		<key>desc</key>
+		<string>Psychedelic Trance + Progressive + Goa Trance</string>
+		<key>bitrate</key>
+		<string>320</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://pub7.di.fm:80/di_ambient_aacplus?64e6e55bf498d3b88b9979bd</string>
+		<key>name</key>
+		<string>Digitally Imported - Ambient</string>
+		<key>desc</key>
+		<string>a blend of ambient, downtempo, and chillout</string>
+		<key>bitrate</key>
+		<string>40</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://pub1.di.fm:80/di_chillhop_aacplus?64e6e55bf498d3b88b9979bd</string>
+		<key>name</key>
+		<string>Digitally Imported - ChillHop</string>
+		<key>desc</key>
+		<string>Trip Hop infused, downtempo nujazz and chillout beats.</string>
+		<key>bitrate</key>
+		<string>40</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://pub5.di.fm:80/di_progressivepsy_aacplus?64e6e55bf498d3b88b9979bd</string>
+		<key>name</key>
+		<string>Digitally Imported - Progressive Psy</string>
+		<key>desc</key>
+		<string>Progressive psychedelic grooves</string>
+		<key>bitrate</key>
+		<string>40</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://pub8.di.fm:80/di_psychill_aacplus</string>
+		<key>name</key>
+		<string>Digitally Imported - PsyChill</string>
+		<key>desc</key>
+		<string>Downtempo psychedelic dub grooves, goa ambient, and world beats.</string>
+		<key>bitrate</key>
+		<string>40</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://stream-38.shoutcast.com:80/chillout_difm_mp3_40kbps</string>
+		<key>name</key>
+		<string>Digitally Imported - Chillout</string>
+		<key>desc</key>
+		<string>Ambient psy chillout, check out our trippy flavors!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>bitrate</key>
+		<string>40</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://stream-65.shoutcast.com:80/lounge_difm_mp3_40kbps</string>
+		<key>name</key>
+		<string>Digitally Imported - Lounge</string>
+		<key>desc</key>
+		<string>Sit back and enjoy the lounge grooves!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>bitrate</key>
+		<string>40</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://50.56.237.164:80/kpacmp3</string>
+		<key>name</key>
+		<string>KPAC Texas Public Radio</string>
+		<key>desc</key>
+		<string>San Antonio&apos;s Classical Oasis</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>bitrate</key>
+		<string>40</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://50.56.237.164:80/kstxmp3</string>
+		<key>name</key>
+		<string>KSTX Texas Public Radio</string>
+		<key>desc</key>
+		<string>News &amp; Views</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>bitrate</key>
+		<string>40</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_intl_lc_radio3_p?s=1389715945&amp;e=1389730345&amp;h=36281ad0707e0c40de7dffaf77b75110</string>
+		<key>name</key>
+		<string>BBC 3</string>
+		<key>bitrate</key>
+		<string>320</string>
+		<key>desc</key>
+		<string>BBC 3</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://listen.radionomy.com/crucialvelocityradio</string>
+		<key>name</key>
+		<string>Crucial Velocity Radio</string>
+		<key>desc</key>
+		<string>The Best Hard Rock and Heavy Metal from Yesterday and Today</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://8313.live.streamtheworld.com:80/WGMGFMAAC_SC</string>
+		<key>name</key>
+		<string>Magic 102.1</string>
+		<key>desc</key>
+		<string>North Georgia&apos;s Best Music &amp; Family Fun.</string>
+		<key>bitrate</key>
+		<string>64</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://eno.emit.com:8000/fbi_live_64.aacp</string>
+		<key>name</key>
+		<string>FBI 94.5 FM</string>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>FBi 94.5FM is an independent, community-based radio station, delivering the best in new music and emerging culture. FBi plays 50% Australian music, with half of that from Sydney.</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://ice.somafm.com/bagel-64.aac</string>
+		<key>name</key>
+		<string>SomaFM: BAGeL Radio</string>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>What alternative rock radio should sound like.</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://swr-mp3-m-swr1bw.akacast.akamaistream.net/7/245/137133/v1/gnl.akacast.akamaistream.net/swr-mp3-m-swr1bw</string>
+		<key>name</key>
+		<string>SWR1 Baden-Württemberg</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>desc</key>
+		<string>German speaking radio station. </string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://wbgo.streamguys.net/wbgo96</string>
+		<key>name</key>
+		<string>WBGO 88.3 fm</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>desc</key>
+		<string>WBGO is a publicly-supported, cultural institution that champions jazz and presents news to a worldwide audience through radio, other technologies and events.</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://2953.live.streamtheworld.com:80/KOASFM_SC</string>
+		<key>name</key>
+		<string>105.7 The Oasis</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>desc</key>
+		<string>Old School</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://mega6.radioserver.co.uk:8250</string>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>name</key>
+		<string>PEARadio</string>
+		<key>desc</key>
+		<string>The Pearadio play-list blends funk, progressive rock, world music, reggae, blues, and folk with country, Tex-Mex and jazz.</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://184.105.134.25:8006</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>name</key>
+		<string>Zenith Classic Rock</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>desc</key>
+		<string>Continuous Classic Rock</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://pr128.pinguinradio.com:80/</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>name</key>
+		<string>Pinguin Radio</string>
+		<key>desc</key>
+		<string>No bullshit - great music || Alternative music</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://listen.radionomy.com/JOHN-LOBBAN-RADIO</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>name</key>
+		<string>JOHN LOBBAN RADIO</string>
+		<key>desc</key>
+		<string>Top 40 / Pop</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://shoutmedia.abc.net.au:10326</string>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>name</key>
+		<string>TripleJ</string>
+		<key>desc</key>
+		<string>Australian Broadcasting Corporation</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://4893.live.streamtheworld.com:80/KPOAFM_SC</string>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>name</key>
+		<string>Hawaiian 105 Kine</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>desc</key>
+		<string>Hawaiian Music</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://stream-tx4.radioparadise.com:8004</string>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>name</key>
+		<string>Radio Paradise</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>desc</key>
+		<string>DJ-mixed modern &amp; classic rock, world, electronica &amp; more - info: radioparadise.com</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://rustradio.org:8000/</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>name</key>
+		<string>Rust Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>desc</key>
+		<string>Rust Radio streams recordings of Neil Young concerts.</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://pubint.ic.llnwd.net/stream/pubint_netradio</string>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>name</key>
+		<string>NET Radio Nebraska</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>desc</key>
+		<string>News/Classical</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://shoutmedia.abc.net.au:10326/</string>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>name</key>
+		<string>Triple J</string>
+		<key>desc</key>
+		<string>Australian Broadcasting Corporation</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://4893.live.streamtheworld.com:80/KPOAFM_SC</string>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>name</key>
+		<string>KPOA 93.5</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>desc</key>
+		<string>Hawaiian Music Maui Style</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://174.36.42.110:8250</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>name</key>
+		<string>Big R Radio - Grunge FM</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>desc</key>
+		<string>Grunge</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://www.splatterbox.us:9750</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>name</key>
+		<string>975 Pirate Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>desc</key>
+		<string>975 Pirate Radio is your source for the greatest classic rock hits and eclectic free form entertainment. Thank you for visiting our unique internet radio station. We hope you enjoy the playlist. We’ve invested a lot of time and effort into creating the mix of music and audio animations for you.</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://ibgr.002.oye.fm:8024</string>
+		<key>bitrate</key>
+		<string>120</string>
+		<key>name</key>
+		<string>Ibiza Global Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>desc</key>
+		<string>Electronic music</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://fs-insidejazz.fast-serv.com:8034/</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>name</key>
+		<string>Inside Jazz - Fusion</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://fs-insidejazz.fast-serv.com:8004/</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>name</key>
+		<string>Inside Jazz - Contemporary</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://fs-insidejazz.fast-serv.com:8002/</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>name</key>
+		<string>Inside Jazz - Straighten Up</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://fs-insidejazz.fast-serv.com:8282/</string>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>name</key>
+		<string>Inside Jazz - The Mix</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://icecast.omroep.nl/radio4-baroque-bb-mp3</string>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Baroque around the clock</string>
+		<key>desc</key>
+		<string>Baroque around the Clock! Op het best beluisterde webkanaal van de AVRO klinkt 24 uur per dag, zeven dagen per week non-stop </string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://70.38.25.166:7090</string>
+		<key>name</key>
+		<string>Somehow Jazz</string>
+		<key>desc</key>
+		<string>Keep Listening to Good Jazz</string>
+		<key>bitrate</key>
+		<string>128</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>name</key>
+		<string>JazzHeartRadio</string>
+		<key>url</key>
+		<string>http://222.122.178.182:1560</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>desc</key>
+		<string>South Korean Jazz Radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>name</key>
+		<string>FallingStars CH.2</string>
+		<key>url</key>
+		<string>http://222.122.178.181:1800/</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>desc</key>
+		<string>Jazz and Blues from South Korea</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>name</key>
+		<string>Dinner Jazz Excursion</string>
+		<key>url</key>
+		<string>http://sc01.warpradio.com:8240/</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>name</key>
+		<string>Sveriges Radio P4 Stockholm</string>
+		<key>url</key>
+		<string>http://sverigesradio.se/topsy/direkt/701-lo.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>name</key>
+		<string>Sveriges Radio P3</string>
+		<key>url</key>
+		<string>http://sverigesradio.se/topsy/direkt/164-lo.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string></string>
+		<key>name</key>
+		<string>Sveriges Radio P2 Världen</string>
+		<key>url</key>
+		<string>http://sverigesradio.se/topsy/direkt/2619-lo.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>omroep.nl</string>
+		<key>name</key>
+		<string>Radio 4 </string>
+		<key>url</key>
+		<string>http://icecast.omroep.nl/radio4-sb-mp3</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>90s Top 40</string>
+		<key>name</key>
+		<string>181.FM - Star 90&apos;s</string>
+		<key>url</key>
+		<string>http://108.61.73.119:8012</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Home of the 60s and 70s</string>
+		<key>name</key>
+		<string>181.FM - Classic Hits</string>
+		<key>url</key>
+		<string>http://69.4.232.112:8900</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Your Home for REAL Classic Rock</string>
+		<key>name</key>
+		<string>181.fm The Eagle</string>
+		<key>url</key>
+		<string>http://108.61.35.91:10000/</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string></string>
+		<key>name</key>
+		<string>Healing Music</string>
+		<key>url</key>
+		<string>http://listen.radionomy.com/healing-music-radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Everything between heaven and earth</string>
+		<key>name</key>
+		<string>therealthings // space</string>
+		<key>url</key>
+		<string>http://serv.therealthings.com:8888</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Music for the Space Traveler</string>
+		<key>name</key>
+		<string>Bluemars</string>
+		<key>url</key>
+		<string>http://207.200.96.225:8020/</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Whisperings: Solo Piano Radio is home to over a 200 talented piano artists and broadcasts to nearly a million piano music fans from all over the world every month. </string>
+		<key>name</key>
+		<string>www.SoloPianoRadio.com</string>
+		<key>url</key>
+		<string>http://pianosolo.streamguys.net:80/live</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The World&apos;s Easy Listening Leader</string>
+		<key>name</key>
+		<string>The Breeze - thebreez.com</string>
+		<key>url</key>
+		<string>http://war.str3am.com:8380</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Hawaiian music - Streaming da kine in stereo since 1999!!</string>
+		<key>name</key>
+		<string>HawaiianRainbow.com</string>
+		<key>url</key>
+		<string>http://hawaiianrainbow.com:8012</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Movie Music and more</string>
+		<key>name</key>
+		<string>Soundtrax.fm</string>
+		<key>url</key>
+		<string>http://69.64.37.113:8027</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>More than just a radio station, JAZZ.FM91 is Canada?s only broadcaster and registered not-for-profit charitable arts organization dedicated to e nriching the cultural, educational and community experience of their audience.</string>
+		<key>name</key>
+		<string>Jazz.FM 91</string>
+		<key>url</key>
+		<string>http://streamerepsilon.jazz.fm:8002</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>92</string>
+		<key>desc</key>
+		<string>Singapore 24hrs Online Chinese Radio</string>
+		<key>name</key>
+		<string>Plush898</string>
+		<key>url</key>
+		<string>http://50.23.115.122:8410</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Chicago&apos;s Sound Experiment</string>
+		<key>name</key>
+		<string>WNUR FM</string>
+		<key>url</key>
+		<string>http://sc1.spacialnet.com:32660/</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Portland&apos;s Classic Rock Station</string>
+		<key>name</key>
+		<string>KGON - FM 92.3</string>
+		<key>url</key>
+		<string>http://2463.live.streamtheworld.com:3690/KGONFM_SC</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string></string>
+		<key>name</key>
+		<string>KPLU Jazz24</string>
+		<key>url</key>
+		<string>http://icy1.abacast.com:80/kplu-jazz24aac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Movie scores providing the perfect soundtrack to your work day</string>
+		<key>name</key>
+		<string>Gotradio - The Big Score</string>
+		<key>url</key>
+		<string>http://206.217.213.235:8060</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>desc</key>
+		<string>Streaming by Securenet Systems Cirrus(R)</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>100.7 FM</string>
+		<key>url</key>
+		<string>http://ice6.securenetsystems.net/WUTQ</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>100.9 myFM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/CIYM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>105.5 The River </string>
+		<key>url</key>
+		<string>http://in.icy2.abacast.com/threeeagles-mankrbiam-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>90.5 myFM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/CKXM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>94.1 myFM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/CKZM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>94.9 Mix FM</string>
+		<key>url</key>
+		<string>http://3043.live.streamtheworld.com:80/KMXZFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>95.5 myFM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/CIYN</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>98.7 WNNS</string>
+		<key>url</key>
+		<string>http://out1.cmn.icy.abacast.com/wnns-wnnsfmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Soft music</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ABCLove</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/ABC-Love</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Smooth, soft &amp; lazy..jazz, blues, soul [CD-Quality]</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Absolute smooth mix-jazz,blues,soul [CD-Quality]</string>
+		<key>url</key>
+		<string>http://joweb.dyndns.org:8052/live2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Smooth, soft &amp; lazy..jazz, blues, soul  [Radio-Quality]</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Absolute smooth mix-jazz,blues,soul [Radio-Quality]</string>
+		<key>url</key>
+		<string>http://joweb.dyndns.org:8052/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Absolutely Smooth Jazz - SKY.FM - the world's smoothest jazz 24 hours a day</string>
+		<key>url</key>
+		<string>http://everego.com:8000/smoothjazz</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>My Choice, My Music!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Addict Lounge - My Choice, My Music! - www.AddictRadio.net</string>
+		<key>url</key>
+		<string>http://188.165.97.240:80/addictlounge</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>My Choice, My Music!</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Addict Lounge - My Choice, My Music! - www.AddictRadio.net</string>
+		<key>url</key>
+		<string>http://stream1.addictradio.net:80/addictlounge.aacp</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>All 80's All The Time!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Be Good Radio - 80s Lite</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/BeGoodLite</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>We Mix Today s Favorites with Yesterday s Classic Hits</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ClassicRadioJAR101</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/Classic-Radio-JAR101</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>EZ Rock 105.7 FM</string>
+		<key>url</key>
+		<string>http://icecastsource2.amri.ca:80/chre-aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>EZ Rock Penticton 800 AM</string>
+		<key>url</key>
+		<string>http://icecastsource2.amri.ca:80/ckor-aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>HBN Radio</string>
+		<key>url</key>
+		<string>http://s7.viastreaming.net:8745/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>No talk, just the best slows live from Switzerland</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>IP music SLOW - MP3@128 Kb/s</string>
+		<key>url</key>
+		<string>http://live9.avf.ch:8000/ipmusicslow128</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>160</string>
+		<key>desc</key>
+		<string>No talk, just the best slows live from Switzerland</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>IP music SLOW - MP3@160 Kb/s</string>
+		<key>url</key>
+		<string>http://live7.avf.ch:8000/ipmusicslow160</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>256</string>
+		<key>desc</key>
+		<string>No talk, just the best slows live from Switzerland</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>IP music SLOW - MP3@256 Kb/s</string>
+		<key>url</key>
+		<string>http://live7.avf.ch:8000/ipmusicslow256</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>No talk, just the best slows live from Switzerland</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>IP music SLOW - aacPlus@128 Kb/s</string>
+		<key>url</key>
+		<string>http://live7.avf.ch:8000/ipmusicslowaacp128</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>No talk, just the best slows live from Switzerland</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>IP music SLOW - aacPlus@32 Kb/s</string>
+		<key>url</key>
+		<string>http://live7.avf.ch:8000/ipmusicslowaacp32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>No talk, just the best slows live from Switzerland</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>IP music SLOW - aacPlus@64 Kb/s</string>
+		<key>url</key>
+		<string>http://live7.avf.ch:8000/ipmusicslowaacp64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>No talk, just the best slows live from Switzerland</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>IP music SLOW - aacPlus@96 Kb/s</string>
+		<key>url</key>
+		<string>http://live9.avf.ch:8000/ipmusicslowaacp96</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>JR FM 104.9</string>
+		<key>url</key>
+		<string>http://1661.live.streamtheworld.com:80/CFJRFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KBAY 94.5 FM</string>
+		<key>url</key>
+		<string>http://2573.live.streamtheworld.com:80/KBAYFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KCRZ Z 104.9 FM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/KCRZFM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Pour passer des instants tranquilles  les plus beaux morceaux des ann&amp;#xe9;es 70 &amp;#xe0; nos jours sont sur KIFcool Soft Pop Rock Soul &amp;amp; Top 40 des moments &amp;#xe0; la cool ...</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>KIFcool</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/KIFcool</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KTXR 101.3 FM</string>
+		<key>url</key>
+		<string>http://2093.live.streamtheworld.com:80/KTXRFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>51</string>
+		<key>desc</key>
+		<string>SOUL &amp; FUNK (Paris - France)</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>La Radio de Sebb Smooth &amp; Relax</string>
+		<key>url</key>
+		<string>http://soulandfunkaac.ice.infomaniak.ch/soulandfunkaac-48.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Lite 104.7 FM</string>
+		<key>url</key>
+		<string>http://ice7.securenetsystems.net:80/WVTL</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Lite 95.7 FM</string>
+		<key>url</key>
+		<string>http://2443.live.streamtheworld.com:80/CKEAFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Lite FM 101.5</string>
+		<key>url</key>
+		<string>http://2503.live.streamtheworld.com:80/WLYFFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Lite Favorites</string>
+		<key>url</key>
+		<string>http://litefm.purestream.net:7012/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>WSWT Peoria IL</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Lite Rock 107</string>
+		<key>url</key>
+		<string>http://ice3.securenetsystems.net:80/WSWT</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Lite Rock 107.1 - WDOH</string>
+		<key>url</key>
+		<string>http://2363.live.streamtheworld.com:80/WDOHFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Magic 104.1 FM</string>
+		<key>url</key>
+		<string>http://out1.cmn.icy.abacast.com/kmgl-kmglfmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Magic 107.5 FM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/KRPMFM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Magic FM Romania - www.magicfm.ro - Soft Music</string>
+		<key>url</key>
+		<string>http://radio.mitnet.ro:8000/MagicFM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>New Life Radio Russia</string>
+		<key>url</key>
+		<string>http://50.22.253.46:80/nlradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The Pinoy Love Song Radio!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>PINOYMIXRADIO</string>
+		<key>url</key>
+		<string>http://streaming304.radionomy.com:80/pinoymixradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Pop Rock</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9105/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Seaview Radio 960 AM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/WSVUAMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>desc</key>
+		<string>Smooth953</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>SmoothFM 95.3</string>
+		<key>url</key>
+		<string>http://117.53.175.113:15020/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>desc</key>
+		<string>Soft and easy songs from yesterday and today.</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Soft 'N Easy Net Radio</string>
+		<key>url</key>
+		<string>http://208.85.243.134:80/sne24kaac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>SoftRockRadio.net - Classic Soft Rock (soft rock radio)</string>
+		<key>url</key>
+		<string>http://dev.steamcast.com:80/softneasy</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Sunny 106.9</string>
+		<key>url</key>
+		<string>http://out2.cmn.icy.abacast.com:80/krno-krnofmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Sunshine 89.1 FM</string>
+		<key>url</key>
+		<string>http://1661.live.streamtheworld.com:80/CISOFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Beat 92.5</string>
+		<key>url</key>
+		<string>http://5403.live.streamtheworld.com:80/CFQRFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The Tech Night Owl Live: Sat 9:00pm-12:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Tech Night Owl Live - High Bitrate</string>
+		<key>url</key>
+		<string>http://64.62.208.66:80/techNightOwlLive-hi.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>16</string>
+		<key>desc</key>
+		<string>The Tech Night Owl Live: Sat 9:00pm-12:00am CST</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>The Tech Night Owl Live - Low Bitrate</string>
+		<key>url</key>
+		<string>http://67.212.67.29:80/techNightOwlLive-lo.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Today's Lite Rock B103</string>
+		<key>url</key>
+		<string>http://1721.live.streamtheworld.com:3690/WGFBFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Triple M Adelaide</string>
+		<key>url</key>
+		<string>http://sc.ade.triplem.com.au:80</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WDEF Sunny 92.3 FM</string>
+		<key>url</key>
+		<string>http://3103.live.streamtheworld.com:80/WDEFFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>This is my server description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WJJQ Radio</string>
+		<key>url</key>
+		<string>http://ice7.securenetsystems.net:80/WJJQ</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WJKK Mix 98.7  FM</string>
+		<key>url</key>
+		<string>http://out1.cmn.icy.abacast.com/wjkk-wjkkfmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WJXA 92.9 FM</string>
+		<key>url</key>
+		<string>http://2783.live.streamtheworld.com:3690/WJXAFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WMGQ 98.3 FM</string>
+		<key>url</key>
+		<string>http://3453.live.streamtheworld.com:443/WMGQFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WTFM 98.5 FM</string>
+		<key>url</key>
+		<string>http://out2.cmn.icy.abacast.com/wtfm-wtfmfmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Радио Игорек</string>
+		<key>url</key>
+		<string>http://host.fm:7777/12775_default</string>
+	</dict>
+</array>
+</plist>

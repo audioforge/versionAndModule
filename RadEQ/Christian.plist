@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitrate</key>
+		<string>49K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>94 FM The Fish</string>
+		<key>url</key>
+		<string>http://2973.live.streamtheworld.com:80/WFFHFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>99 HIT FM KADI</string>
+		<key>url</key>
+		<string>http://ice6.securenetsystems.net:80/KADIFM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>AM91 KPOF Radio</string>
+		<key>url</key>
+		<string>http://208.43.60.66/kpof-am</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Abba Father Radio</string>
+		<key>url</key>
+		<string>http://s4.voscast.com:7528</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Air 1 Radio</string>
+		<key>url</key>
+		<string>http://emf.mp3.dpa.miisolutions.net/air1_high-01</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Classic Christian 24/7</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/CC247IRAAC?ats=1</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KBVM 88.3 FM</string>
+		<key>url</key>
+		<string>http://ic2.nwrnetwork.com/kbvm-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KCBI</string>
+		<key>url</key>
+		<string>http://208.43.60.66/kcbi-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KEFX Effect Radio 88 FM</string>
+		<key>url</key>
+		<string>http://208.43.60.73:9016/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KJIL 105.7 FM</string>
+		<key>url</key>
+		<string>http://ice3.securenetsystems.net/KJIL</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KSLT 107.1 </string>
+		<key>url</key>
+		<string>http://sc1.christiannetcast.com:9124</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KSWP 90.9 FM</string>
+		<key>url</key>
+		<string>http://208.43.60.66/kswp-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KTSY 89.5 FM</string>
+		<key>url</key>
+		<string>http://208.43.60.66/ktsy-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>KXXT 1010 AM</string>
+		<key>url</key>
+		<string>http://ice5.securenetsystems.net/KXXT</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Mars Hill Network</string>
+		<key>url</key>
+		<string>http://icy2.abacast.com:80/marshill-wmhrfm-48</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>New Life 91.9 FM</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/wrcm-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Pulse 94.1 FM Wollongong</string>
+		<key>url</key>
+		<string>http://stream1.cnmns.net:8000/941</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Shofar FM</string>
+		<key>url</key>
+		<string>http://94.23.82.238:7312</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Spirit 88.9</string>
+		<key>url</key>
+		<string>http://208.43.207.222/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Spirit 92.9 </string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/KKJMFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Static Radio</string>
+		<key>url</key>
+		<string>http://ic1.christiannetcast.com/m88-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>TBC Radio</string>
+		<key>url</key>
+		<string>http://in.icy2.abacast.com/tbcradio-tbcradio-32</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>TWR Radio 155</string>
+		<key>url</key>
+		<string>http://216.246.37.52:8036</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Blast</string>
+		<key>url</key>
+		<string>http://64.blast.fast-serv.com:80/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Call FM 91.7</string>
+		<key>url</key>
+		<string>http://sc2.spacialnet.com:31126/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>58K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Joy 93.3 FM</string>
+		<key>url</key>
+		<string>http://209.85.88.199:11000</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Pulse 101.7</string>
+		<key>url</key>
+		<string>http://in.icy3.abacast.com/marcradio-wpllfmaac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The River 104.9 FM</string>
+		<key>url</key>
+		<string>http://2903.live.streamtheworld.com:80/WCVOFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>The Sound of LIFE Radio 105.3 FM</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/wfgb-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Ulta 106.5</string>
+		<key>url</key>
+		<string>http://stream1.cnmns.net:8000/106five</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WAY FM 88.1</string>
+		<key>url</key>
+		<string>http://2783.live.streamtheworld.com:80/WAYHFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WAY- FM 93.9</string>
+		<key>url</key>
+		<string>http://2563.live.streamtheworld.com:80/WAYIFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WAYJ FM 89.5</string>
+		<key>url</key>
+		<string>http://1942.live.streamtheworld.com:80/WAYJFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WCTL 106.3 FM</string>
+		<key>url</key>
+		<string>http://ice7.securenetsystems.net/WCTL</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WDJC 93.7 FM</string>
+		<key>url</key>
+		<string>http://eawe.vip.dendc.liquidcompass.net/WDJCFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WJQK Positive Hits 99.3 FM</string>
+		<key>url</key>
+		<string>http://208.43.60.66/wjqk-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WLVE 105.3 FM</string>
+		<key>url</key>
+		<string>http://3043.live.streamtheworld.com:80/TCMIRAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WMUZ 103.5 FM</string>
+		<key>url</key>
+		<string>http://edgev1.den.echo.liquidcompass.net/WMUZFMAAC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WNFA Power 88.3  FM</string>
+		<key>url</key>
+		<string>http://ic2.nwrnetwork.com/wnfa-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32K</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Wave 94.1 </string>
+		<key>url</key>
+		<string>http://ice6.securenetsystems.net/WAKU</string>
+	</dict>
+</array>
+</plist>

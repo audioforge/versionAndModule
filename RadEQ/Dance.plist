@@ -1,0 +1,2770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>happy funky house music, techy, electy....</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>((:( CLUBKYDZ ):))</string>
+		<key>url</key>
+		<string>http://www.clubkydz.com:7654/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>*** BEATRADIO *** 24/7 Dance, Trance and Electro! :: CAN YOU FEEL THE BEAT?</string>
+		<key>url</key>
+		<string>http://stream.flowserver.info:80/beatoffice</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>desc</key>
+		<string>Mobile/iPad Stream</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>*** BEATRADIO *** 24/7 Dance, Trance and Electro! :: CAN YOU FEEL THE BEAT?</string>
+		<key>url</key>
+		<string>http://stream.flowserver.info:80/beatmobile</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>desc</key>
+		<string>Makradio station (www.makradio.ru)</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>*** Makradio Top Hit ***</string>
+		<key>url</key>
+		<string>http://de4.makradio.ru:80/makkirus48.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>160</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>*80s)))-Janesz FM-(((90s*</string>
+		<key>url</key>
+		<string>http://94.199.181.143:9680/live.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>320</string>
+		<key>desc</key>
+		<string>Le meilleur de la musique club</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>103 Radio</string>
+		<key>url</key>
+		<string>http://streaming.103radio.fr:80/320</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>24 h. Dance &amp;amp; Hits Non Stop</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>1RadioDance</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/1-Radio-Dance</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>91 Online</string>
+		<key>url</key>
+		<string>http://208.43.60.66:8000/91online</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Elo DJ Party * Minden, ami zene * Gyere tombolj velunk! * DJ Toma radioja *</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>:::{On Air} ** DJ MusicHits ** {MusicHits DJ Party}:::</string>
+		<key>url</key>
+		<string>http://94.199.181.143:7310/live.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Le meilleur du son dance des ann&amp;#xe9;es 90 http://eurodance90.fr  The Eurodance station</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>A'11Eurodance90s</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/A-11-Eurodance-90s</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>ONLY THE TOP 40 DANCE --- 24-7. ENJOY!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>A.RADIOTOP40DANCE</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/A-RADIO-TOP-40-DANCE</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Les Hits Dance non-stop ! Le meilleur des sons Electro du moment nouveaut&amp;#xe9;s Imports 24h/24 !</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>A33PLAYDANCE</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/A33PLAYDANCE</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>A6BCTekDance</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/a6bc-tekdance</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Electro House Only ! www.Abcdanceradio.com</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ABCDANCE</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/ABC-DANCE</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The best european dance music !</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ABCDEurodance</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/ABCD-Eurodance</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radionomy Radio create your own at http://www.radionomy.com</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>AbsoluteDance</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/Absolute-Dance</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Air NewG&amp;#xe9;n&amp;#xe9;ration une radio 100% hits dance.    Retrouvez nous sur : Itunes WindowsMediaPlayer LiveRadio.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>AirNewGénération</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/Air-NewGeneration</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>News From Jamaica.  Sur Alarach&amp;apos; Radio il y a tous les nouveaux Riddims... All new Riddims on Alarach&amp;apos; Radio...  Alarach&amp;apos; Radio N&amp;#xb0;1 Ragga Hip Hop Radio Station.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Alarach'</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/Alarach-</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Antenna5 Radio Network</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Antenna 5</string>
+		<key>url</key>
+		<string>http://217.16.69.17:8000/live32.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Song Sound System  Dancehall Ragga Hip Hop Gangsta Rap et diffusion th&amp;#xe9;matique de Zouk Cabo Love Compas.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ArdiSounD</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/ArdiSounD</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>320</string>
+		<key>desc</key>
+		<string>A music hub from Zuerich</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Audioasyl</string>
+		<key>url</key>
+		<string>http://stream.nocloud.ch:80/audioasyl</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>A music hub from Zuerich</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Audioasyl</string>
+		<key>url</key>
+		<string>http://stream.nocloud.ch:80/audioasyl_low</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>BEAR RADIO</string>
+		<key>url</key>
+		<string>http://live.qbear.ru:8088/bear128mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>BEAR RADIO</string>
+		<key>url</key>
+		<string>http://live.qbear.ru:8088/bear96mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>256</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>BEAR RADIO</string>
+		<key>url</key>
+		<string>http://live.qbear.ru:8088/bear256mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>BEAR RADIO</string>
+		<key>url</key>
+		<string>http://live.qbear.ru:8088/bear32aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>BOOYAA.RU .:. PARTY JAM</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>BOOYAA.RU .:. PARTY JAM</string>
+		<key>url</key>
+		<string>http://194.63.140.214:8000/booyaa_128_mp3_party_jam</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Unexpected and Impossible music.We are here to free the music.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Basspistol Syndicate MP3</string>
+		<key>url</key>
+		<string>http://basspistol.com:8000/boominglikethat</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Beat 90.1 FM</string>
+		<key>url</key>
+		<string>http://2483.live.streamtheworld.com:80/XHCHFMAACCMP3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Beat FM</string>
+		<key>url</key>
+		<string>http://radioheiloo.no-ip.info:8010/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>My station description</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>BySly Fm.The past and future hits of</string>
+		<key>url</key>
+		<string>http://87.229.24.114:7050/live.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>C9 RADIO - www.c9.fr - Hits Only! - Live from Paris France</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>C9 RADIO - www.c9.fr - Hits Only! - Live from Paris France</string>
+		<key>url</key>
+		<string>http://stream.c9.fr:80/c9-64.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>C9 RADIO - www.c9.fr - Hits Only! - Live from Paris France</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>C9 RADIO - www.c9.fr - Hits Only! - Live from Paris France</string>
+		<key>url</key>
+		<string>http://stream.c9.fr:80/c9.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Canal7</string>
+		<key>url</key>
+		<string>http://canal7.net:8004/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The best Dance House Disco and Techno around the world.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>CityDanceRadio</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/City-Dance-Radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>The No.1 Source for 80's 90's Pop &amp; Dance Classics -=[ Weekdays with the best  Pop Classics, On weekends the Best Club &amp; Danceclassics ]=-</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>ClassicFreaks.Com</string>
+		<key>url</key>
+		<string>http://classicfreaks.live-streams.nl:8010/low</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>-=[ Weekdays with the best  Pop Classics, On weekends the Best Club &amp; Dance Classics ]=-</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ClassicFreaks.Com</string>
+		<key>url</key>
+		<string>http://classicfreaks.live-streams.nl:8010/main</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>CLUB &amp;amp; DANCE: Fresh House And Dance Music!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Club&amp;Dance</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/Club--Dance</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>DJMixes from Dutch DJ&amp;apos;s containing House Disco Electro and Soulful.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ClubCardRadio</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/ClubCardRadio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Clubbeat Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Clubbeat Radio</string>
+		<key>url</key>
+		<string>http://mp3stream4.abradio.cz:8000/clubbeat64.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Clubbeat Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Clubbeat Radio</string>
+		<key>url</key>
+		<string>http://mp3stream4.abradio.cz:8000/clubbeat128.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>A part of clubberry.fm - fastest growing EDM internet radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Clubberry Dance</string>
+		<key>url</key>
+		<string>http://clubberry.fm:8000/dance</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>A part of clubberry.fm - fastest growing EDM internet radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Clubberry Hard</string>
+		<key>url</key>
+		<string>http://clubberry.fm:8000/hard</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Non stop Dance &amp;amp; Trance music.  Retrouve chaque semaine tes &amp;#xe9;missions pr&amp;#xe9;f&amp;#xe9;r&amp;#xe9;es EuroClub 25 Rhythm Mix 24/7 (Miami) ClubSound Sessions (Toronto) Beat the Clock (Montr&amp;#xe9;al) Catalepsy (Beyrouth)...  Des DJs sets exclusifs et un direct depuis Miami.  Clu</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ClubbingStationRadio</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Clubbing-Station-Radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Cool Label Radio | contact@coollabel-productions.com | Hosting by www.cyber-streaming.com</string>
+		<key>url</key>
+		<string>http://big1.coollabel-productions.com:8100/coollabelradio.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>DFM UKRAINE THE BEST DANCE RADIO</string>
+		<key>url</key>
+		<string>http://www.dfm.com.ua:8101/nonstop</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Black Eagle</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>DJ Bonz from Toronto</string>
+		<key>url</key>
+		<string>http://174.142.97.228:21000/ices</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>DJ DeanT</string>
+		<key>url</key>
+		<string>http://icecastbalancer.dj-deant.com:80/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Dance FM</string>
+		<key>url</key>
+		<string>http://www.dancefm.com.tr:8000</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Dance Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dance Radio</string>
+		<key>url</key>
+		<string>http://mp3stream4.abradio.cz:8000/dance128.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Dance Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dance Radio</string>
+		<key>url</key>
+		<string>http://mp3stream4.abradio.cz:8000/dance64.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>LA RADIO DANCE ROUMAINE - THE ROMANIAN DANCE MUSIC STATION Inna Alexandra Stan Edward Maya Play &amp;amp; Win Elena Gheorghe DJ Project Andreea Banica Antonia Deepside Deejays Raluka Paula Seling &amp;amp; Ovi Mattyas Radio Killer Dan Balan Morandi Deepcentral Andre</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dance.RO</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/DanceRO</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Bienvenue dans l&amp;apos;univers de la dance !  Dance1Max vous propose les meilleurs tubes des dancefloors actuels et de revivre le meilleur de la dance des ann&amp;#xe9;es 70 80 90 et 2000.   24h/24 et 7j/7 la dance est en vous !</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dance1Max</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Dance1Max</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The Best Dance Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dance76</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/Dance76</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>M&amp;#xfa;sica de los 90&amp;#xb4;s</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dance90</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Dance90</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>(null)</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dj. robot</string>
+		<key>url</key>
+		<string>http://94.199.181.143:7100/live.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>DynaâMIX câest votre radio.  D&amp;#xe9;couvrez le meilleur des hits et les dernieres nouveaut&amp;#xe9;s clubbing.  Nous proposons notamment des Mix live avec des DJ tous les soirs &amp;#xe0; partir de 22h  Et bien dâautres surprises &amp;#xe0; venir tr&amp;#xe9;s prochainement !  Lâ&amp;#xe9;quipe Dyn</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Dyna'MIX</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/Dyna-MIX</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>EclecticRadio | Online Radio with a focus on electronic music</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>EclecticRadio | Online Radio with a focus on electronic music</string>
+		<key>url</key>
+		<string>http://eclecticstream.nl:8001/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Webradio 100% Dance 90&amp;apos;s .EurodanceItalodance nâh&amp;#xe9;sitez plus venez nous &amp;#xe9;coutez .</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Eurodance90</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Eurodance-90</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Câest en f&amp;#xe9;vrier 2012 qu&amp;apos;ExtraDance fait son arriv&amp;#xe9;e fulgurante sur le net gr&amp;#xe2;ce &amp;#xe0; lâinitiative dâune bande de jeunes passionn&amp;#xe9;s par la radio fiers de mettre en avant un nom qui leur tient &amp;#xe0; coeur &amp;#xab; ExtraDance &amp;#xbb;.La webradio propose une grille de prog</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ExtraDance</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/ExtraDance</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Your Music Choice</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>EyeOnYou</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/EyeOnYou</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>FREQUENCE3 - www.frequence3.fr - No ads ! It's only HITS live from Paris France ! - French Webradio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>FREQUENCE3 - www.frequence3.fr - No ads ! It's only HITS live from Paris France ! - French Webradio</string>
+		<key>url</key>
+		<string>http://stream.ipv6.frequence3.net:19000/frequence3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Formula Kosmo 103</string>
+		<key>url</key>
+		<string>http://201.148.81.100:8200/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Your Station For Dance  Eurodance  Disco  Italo  Trance  80s  90&amp;apos;s and more...  Request your favorite track now @ http://www.freestylefm.org</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>FreestyleFM</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/FreestyleFM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>99</string>
+		<key>desc</key>
+		<string>Best of Modern EDM</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Fresh Beat</string>
+		<key>url</key>
+		<string>http://music.freshbeat.ru:80/aac96</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>La num&amp;#xe9;ro 1 sur l&amp;apos;electro  dance!        Chez fr&amp;#xe9;quence clubing la musique ne s&amp;apos;arr&amp;#xea;te jamais.   Blog fr&amp;#xe9;quence clubing: http://frequence-clubing.blogspot.com/</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>FréquenceClubing</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/Frequence-Clubing</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Full Techno</string>
+		<key>url</key>
+		<string>http://servistream.pe:7058/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Fusion FM Dance c&amp;apos;est un max de sons Club ! Tous les hits Electro Dance et house du moment mais aussi les meilleurs souvenirs Dance. Fusion FM Dance va faire danser ton ordi !</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>FusionFMDance</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Fusion-FM-Dance</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>THE WEB RADIO STATION WITHOUT FRONTIERS  DISCO HOUSE POP FROM 70s 80s 90s TO TODAY  06.00 13.00 HITS NOW MIX GOLD  13.00 14.00 70s 80s JUICE  14.00 17.00 ALL HITS NOW  17.00 18.00 HAPPY DANCE  18.00 20.00 HITS NOW MIX GOLD  20.00 24.00 DANCE TIME  24</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>GLOBALDISCO</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/GLOBAL-DISCO</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Gorilla Radio</string>
+		<key>url</key>
+		<string>http://s9.viastreaming.net:7330/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Greca</string>
+		<key>url</key>
+		<string>http://stream.greekradios.gr:2050/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>HITPARTY - www.hitparty.fr - Live From France - Only Hits ! No Ads !</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>HITPARTY - www.hitparty.fr - Live From France - Only Hits ! No Ads !</string>
+		<key>url</key>
+		<string>http://88.191.226.56:80/hitpartyHD.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>HITPARTY - www.hitparty.fr - Live From France - Only Hits ! No Ads !</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>HITPARTY - www.hitparty.fr - Live From France - Only Hits ! No Ads !</string>
+		<key>url</key>
+		<string>http://88.191.226.56:80/hitpartyAAC32.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Hits and Fun - www.hitsandfun.fr</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>HITS AND FUN - www.hitsandfun.fr from Paris France ! French Webradio</string>
+		<key>url</key>
+		<string>http://88.190.243.12:80/hitsandfun-bd</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>Hits and Fun - www.hitsandfun.fr</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>HITS AND FUN - www.hitsandfun.fr from Paris France ! French Webradio</string>
+		<key>url</key>
+		<string>http://88.190.243.12:80/hitsandfun-hd</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>desc</key>
+		<string>La radio 100% années 90</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Hotmixradio 90 - http://www.hotmixradio90.fr</string>
+		<key>url</key>
+		<string>http://streaming2.hotmix-radio.net:80/hotmixradio-90-48.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Hotmixradio Dance</string>
+		<key>url</key>
+		<string>http://streaming2.hotmix-radio.net:80/hotmixradio-dance-64.flv</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>desc</key>
+		<string>La radio 100 Hits &amp; Nouveautés</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Hotmixradio Hits - http://www.hotmixradiohits.fr</string>
+		<key>url</key>
+		<string>http://streaming2.hotmix-radio.net:80/hotmixradio-hits-48.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>LA RADIO DE LOS AMANTES DEL DANCE  -= THE BEST DANCE RADIO =-</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ILOVEDANCEFM</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/I-LOVE-DANCE-FM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Intense, we love dance!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Intense Radio</string>
+		<key>url</key>
+		<string>http://stream.intenseradio.net:8000/main</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>((- Intense Radio -)) , we love Dance!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Intense Radio</string>
+		<key>url</key>
+		<string>http://stream.intenseradio.net:8000/high</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Internet Radio "Dance With Me" - 128 Kbps AAC+ - www.dancewithme-bg.com</string>
+		<key>url</key>
+		<string>http://de.hothost.biz:80/dancewithme</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Internet Radio "Dance With Me" - 128 Kbps Mp3 - www.dancewithme-bg.com</string>
+		<key>url</key>
+		<string>http://de.hothost.biz:80/radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Internet Radio "Dance With Me" - 24 Kbit/s AAC+ - www.dancewithme-bg.com</string>
+		<key>url</key>
+		<string>http://141.0.169.245:80/verylow</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Internet Radio "Dance With Me" - 64 Kbps Mp3 - www.dancewithme-bg.com</string>
+		<key>url</key>
+		<string>http://141.0.169.245:80/low</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>TECHNO</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Jano Isotope 23</string>
+		<key>url</key>
+		<string>http://isotope23.com:8000/isotope23</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Dance</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>KISSFM</string>
+		<key>url</key>
+		<string>http://uaplayer.com:8000/100</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Kiss FM</string>
+		<key>url</key>
+		<string>http://80.86.106.136:80/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Kiss FM Chisinau</string>
+		<key>url</key>
+		<string>http://89.28.66.205:8000/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>80</string>
+		<key>desc</key>
+		<string>UKs biggest online hardcore station</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Kraftyradio.com</string>
+		<key>url</key>
+		<string>http://stream.kraftyradio.com:80/narrow</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>UKs biggest online hardcore station</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Kraftyradio.com</string>
+		<key>url</key>
+		<string>http://stream.kraftyradio.com:80/mobile</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>LuUuMiX-Radio.fm</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>LMX.FM CLUBSTREAM</string>
+		<key>url</key>
+		<string>http://stream.lmx.fm:8000/club.64.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>LuUuMiX-Radio.fm</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>LMX.FM MAINSTREAM</string>
+		<key>url</key>
+		<string>http://stream.lmx.fm:8000/main.64.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>LRADIO - BALTIJA</string>
+		<key>url</key>
+		<string>http://radio.lradiostation.com:8000/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>.. 192Kbit/s MP3! All new music from our hdd ..</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>LSD-25 . live . radio</string>
+		<key>url</key>
+		<string>http://a1.lsd-25.ru:8000/new</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>desc</key>
+		<string>Radijo stotis Laluna 94.9 FM</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Laluna Radijo Stotis</string>
+		<key>url</key>
+		<string>http://stream.m-1.fm:80/laluna/high</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>Le Centre FM - Le son de votre région 106.3FM</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Le Centre FM</string>
+		<key>url</key>
+		<string>http://lecentrefm.ice.infomaniak.ch/lecentrefm-acc.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Lime-24 is a Nonstop LIVE station located at San Antonio Ibiza. On Lime-24 you only hear the best tracks from the Clubs at San Antonio&amp;apos;s Party-decks selected by DJ Keanu and La Parra.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Lime-24</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/lime-24</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Live Mix</string>
+		<key>url</key>
+		<string>http://173.192.47.126:80/livemix</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>M2 HIT - ONLY HITS - Live From Paris France - www.m2radio.fr</string>
+		<key>url</key>
+		<string>http://88.191.118.145:80/m2hit</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>M2 SUNSHINE : ONLY ROOTS REGGAE - Live From Paris France - www.m2radio.fr</string>
+		<key>url</key>
+		<string>http://88.191.118.145:80/m2sunshine</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>La radio Hot Tempo</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>MAXXI</string>
+		<key>url</key>
+		<string>http://96.31.64.240:8000/maxxi</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>160</string>
+		<key>desc</key>
+		<string>non stop music!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Maxx FM ::: Non stop music!</string>
+		<key>url</key>
+		<string>http://de.hothost.biz:80/maxx</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Megadance Rádió</string>
+		<key>url</key>
+		<string>http://87.229.24.114:8000/ch1.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>A lenyeg a zene</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Melody FM Radio TESZT</string>
+		<key>url</key>
+		<string>http://91.82.85.154:8050/live.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Music One</string>
+		<key>url</key>
+		<string>http://m1live.narancs.net:8000/mp3/128k.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>160</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Music One</string>
+		<key>url</key>
+		<string>http://m1live.narancs.net:8000/mp3/160k.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>MusicBoom</string>
+		<key>url</key>
+		<string>http://listen.moeradio.ru:10000/musicboom</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>80s &amp; 90s Pop &amp; Dance</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>NEON Radio</string>
+		<key>url</key>
+		<string>http://stream1.blueboxstreaming.co.uk:8012/live</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>desc</key>
+		<string>Radio Deejay Sudamericana</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>NRG.DJ</string>
+		<key>url</key>
+		<string>http://62.75.220.21:8000/nrg</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>24 h. House &amp;amp; Dance music. Non Stop!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>NTHRadio</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/NTH-Radio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>New Party</string>
+		<key>url</key>
+		<string>http://newparty951.sytes.net:8000/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>81</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>NonStopDance</string>
+		<key>url</key>
+		<string>http://rs1.radiostreamer.com:8120/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Nova Nation</string>
+		<key>url</key>
+		<string>http://117.53.175.113:15002/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>One FM</string>
+		<key>url</key>
+		<string>http://80.86.106.35:80/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM 500 Party Hits</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/81</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM ALT Club</string>
+		<key>url</key>
+		<string>http://gr-relay-18.gaduradio.pl/9</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Dance</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/31</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Disco Polo</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/21</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Disco Polo Classic</string>
+		<key>url</key>
+		<string>http://gr-relay-18.gaduradio.pl/49</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Disco Polo Freszzz</string>
+		<key>url</key>
+		<string>http://gr-relay-18.gaduradio.pl/57</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Impreza</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/2</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Impreza PL</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/12</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Italo Disco</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/27</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Klub 90</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/8</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Mayday</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/80</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Po Polsku Classic</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/79</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Sylwestrowe Hity</string>
+		<key>url</key>
+		<string>http://gr-relay-18.gaduradio.pl/94</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>26</string>
+		<key>desc</key>
+		<string>OPEN.FM - Najlepsza muzyka w necie!</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>OpenFM Trance</string>
+		<key>url</key>
+		<string>http://gr-relay-1.gaduradio.pl/7</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>320</string>
+		<key>desc</key>
+		<string>My station description</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>PAYK_FM</string>
+		<key>url</key>
+		<string>http://host.fm:7777/15949_default</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>PULS'Radio Version 8.0</string>
+		<key>url</key>
+		<string>http://relay.pulsradio.com:6050</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>NightLife Radio</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>PartyBody.FM</string>
+		<key>url</key>
+		<string>http://199.58.164.173:8000/partybody</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>80</string>
+		<key>desc</key>
+		<string>NightLife Radio!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>PartyBody.FM</string>
+		<key>url</key>
+		<string>http://199.58.164.173:8000/mpartybody</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Partyzone</string>
+		<key>url</key>
+		<string>http://stream7.partyzone.nu:80/aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Partyzone.nu</string>
+		<key>url</key>
+		<string>http://ice.partyzone.nu/aac:80/aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Partyzone.nu</string>
+		<key>url</key>
+		<string>http://stream7.partyzone.nu:80/mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Partyzone.nu</string>
+		<key>url</key>
+		<string>http://stream7.partyzone.nu:80/mp3low</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Partyzone.nu</string>
+		<key>url</key>
+		<string>http://stream7.partyzone.nu:80/aaclow</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>ÐÑÑÑÐ°Ñ Ð¿Ð¾Ð´Ð±Ð¾ÑÐºÐ° ÑÐ°Ð½ÑÐµÐ²Ð°Ð»ÑÐ½ÑÑ Ð¼Ð¸ÐºÑÐ¾Ð²</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Pilot Dance</string>
+		<key>url</key>
+		<string>http://188.128.117.99:8000/pilot_dance</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>28</string>
+		<key>desc</key>
+		<string>LORINI MEDIA STREAMING</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Planeta FM</string>
+		<key>url</key>
+		<string>http://lortel28.lorini.net:1090/PLANETAFM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Planeta FM Opole</string>
+		<key>url</key>
+		<string>http://94.23.88.162:8000</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>PolskaStacja 80s &amp; Italo Disco</string>
+		<key>url</key>
+		<string>http://188.165.20.29:9750</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>PopDanceRadio</string>
+		<key>url</key>
+		<string>http://iphone.popdanceradio.de:10000/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>151</string>
+		<key>desc</key>
+		<string>Underground Dance from Dublin</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Power FM</string>
+		<key>url</key>
+		<string>http://eu.ec2.powerfm.org:8000/powerfm.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Groovy house for funky Ears</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Pre Party Radio</string>
+		<key>url</key>
+		<string>http://prepartyradio.com:8000/mp3-32-prepartyradio-com.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>PulsRadio - www.pulsradio.com - Dance Trance Techno House HandsUp</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>PulsRadio - www.pulsradio.com - Dance Trance Techno House HandsUp</string>
+		<key>url</key>
+		<string>http://88.191.226.56:80/pulsAAC32.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>PulsRadio - www.pulsradio.com - Dance Trance Techno House HandsUp</string>
+		<key>url</key>
+		<string>http://everego.com:8000/pulsradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>HITOVE DO SKYSVANE</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RADIO CITY</string>
+		<key>url</key>
+		<string>http://62.204.145.218:8000/city64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RADIO HOLLYWOOD</string>
+		<key>url</key>
+		<string>http://sc8.streamingpulse.info:9009/stream</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Trasmette Emozioni</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RMIN Radio Mare Italia Network</string>
+		<key>url</key>
+		<string>http://streaming.rmin.it:8000/rmin2.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Pumping out the freshest hits 25 hours a day, 8 days a week.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ROFL Radio</string>
+		<key>url</key>
+		<string>http://server1.elliottb.net:8000/roflradio_128k.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>56</string>
+		<key>desc</key>
+		<string>Pumping out the freshest hits 25 hours a day, 8 days a week.</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>ROFL Radio</string>
+		<key>url</key>
+		<string>http://server1.elliottb.net:8000/roflradio.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>67</string>
+		<key>desc</key>
+		<string>My station description</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio 10 Gold Classic Disco</string>
+		<key>url</key>
+		<string>http://82.201.100.23/WEB20_R10GDanceClassics</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio AS</string>
+		<key>url</key>
+		<string>http://radioas.kbcnet.rs:8015/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio AS FM 99.2</string>
+		<key>url</key>
+		<string>http://radioas.kbcnet.rs:8000/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>28</string>
+		<key>desc</key>
+		<string>Powered by AACplus.ec</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Antenna 3</string>
+		<key>url</key>
+		<string>http://www.makrodigital.com:8177/radioantena3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>264</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Beatbuster</string>
+		<key>url</key>
+		<string>http://176.28.14.63:8000</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Boss - House</string>
+		<key>url</key>
+		<string>http://aac.radioboss.ro:8888</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Dance Pop</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9053/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Disco</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9039/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Eurodance</string>
+		<key>url</key>
+		<string>http://79.120.39.202:9003/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Caprice - Russian Club</string>
+		<key>url</key>
+		<string>http://79.120.77.11:9033/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Calidad Profesional</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio City</string>
+		<key>url</key>
+		<string>http://65.254.42.234:16080/vivo</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Comas 101.7 FM</string>
+		<key>url</key>
+		<string>http://servistream.pe:7018/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>99</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Deea</string>
+		<key>url</key>
+		<string>http://live.radiodeea.ro:8090/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Deejay</string>
+		<key>url</key>
+		<string>http://5.154.89.40:8000/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Delta</string>
+		<key>url</key>
+		<string>http://92.114.63.44:9998/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio Domino</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Domino</string>
+		<key>url</key>
+		<string>http://mp3stream4.abradio.cz:8000/domino128.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>80's and 90's dance-pop hits of the 24 hours!</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Radio Etelkoz Hungary - www.etelkozradio.eu</string>
+		<key>url</key>
+		<string>http://91.82.85.44:80/lowaacetelkozradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>192</string>
+		<key>desc</key>
+		<string>80's and 90's dance-pop hits of the 24 hours!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Etelkoz Hungary - www.etelkozradio.eu</string>
+		<key>url</key>
+		<string>http://91.82.85.44:80/highmp3etelkozradio</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio FLYFM</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio FLYFM</string>
+		<key>url</key>
+		<string>http://listen.moeradio.ru:10000/myx</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>97</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Gladbach</string>
+		<key>url</key>
+		<string>http://84.201.4.35:8000/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Dance</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Halley - Dance / Fülelj Ránk!</string>
+		<key>url</key>
+		<string>http://87.229.24.114:8050/electronic.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Radio Helax</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Helax</string>
+		<key>url</key>
+		<string>http://ice.abradio.cz:80/helax64.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio Helax</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Helax</string>
+		<key>url</key>
+		<string>http://ice.abradio.cz:80/helax128.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Ibiza</string>
+		<key>url</key>
+		<string>http://stream08.kisskiss.it:5010</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Radio Madonna</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Madonna</string>
+		<key>url</key>
+		<string>http://mp3stream4.abradio.cz:8000/madonna64.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Radio Madonna</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Madonna</string>
+		<key>url</key>
+		<string>http://mp3stream4.abradio.cz:8000/madonna128.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>97</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Taormina Dance</string>
+		<key>url</key>
+		<string>http://onair11.xdevel.com:8054</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Tele-Sat</string>
+		<key>url</key>
+		<string>http://stream.melodiafm.spb.ru:8000/tele-sat</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio Terra</string>
+		<key>url</key>
+		<string>http://live.radioterra.ro:8000/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>320</string>
+		<key>desc</key>
+		<string>http://www.radioviva.bg</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Radio Viva - www.radioviva.bg</string>
+		<key>url</key>
+		<string>http://de.hothost.biz:80/viva-high</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>90s Eurodance Radiostation</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Radio Viva - www.radioviva.bg</string>
+		<key>url</key>
+		<string>http://de.hothost.biz:80/viva-low</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>90s Eurodance Radiostation</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio Viva - www.radioviva.bg</string>
+		<key>url</key>
+		<string>http://de.hothost.biz:80/viva</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>40</string>
+		<key>desc</key>
+		<string>Electronic</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radio X</string>
+		<key>url</key>
+		<string>http://wrd.hopto.org:8000/wrd</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Playing 90s Eurodance Music!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radio eXtra - 90s Eurodance @ www.radioextra.net</string>
+		<key>url</key>
+		<string>http://de.hothost.biz:80/extra</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>RadioLeysin</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/RadioLeysin</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radiodancing</string>
+		<key>url</key>
+		<string>http://servistream.pe:7030/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radioseven - www.radioseven.se</string>
+		<key>url</key>
+		<string>http://se-lkr2.stream.sevenbroadcasting.se:80/radioseven/mp3/128</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Radioseven - www.radioseven.se</string>
+		<key>url</key>
+		<string>http://se-lkr2.stream.sevenbroadcasting.se:80/radioseven/mp3/64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Radyo Ozden</string>
+		<key>url</key>
+		<string>http://live.radyotvonline.com:9050/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Reggae Connection la radio qui d&amp;#xe9;voile le reggae sous toutes ses formes !</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ReggaeConnection</string>
+		<key>url</key>
+		<string>http://streaming202.radionomy.com:80/Reggae-Connection</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>64kbps - 24/7 Only Best Electronic Music</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>SOULLIVE.RU - 1st Club Radio</string>
+		<key>url</key>
+		<string>http://radio.soullive.ru:8000/soul64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Streaming best alternative music from Russia with love... SanFM.ru</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>SanFM.ru=Alternative</string>
+		<key>url</key>
+		<string>http://sanfm.ru:8000/alternative</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Streaming best Drum and bass music from Russia with love... SanFM.ru</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>SanFM.ru=Drum and bass</string>
+		<key>url</key>
+		<string>http://sanfm.ru:8000/drum_nonstop</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Streaming latest pop/dance/club worldwide hits from Russia with love... SanFM.ru</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>SanFM.ru=Pop</string>
+		<key>url</key>
+		<string>http://sanfm.ru:8000/pop</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Streaming best relaxing tunes from Russia with love... SanFM.ru</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>SanFM.ru=Relax</string>
+		<key>url</key>
+		<string>http://sanfm.ru:8000/relax</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>desc</key>
+		<string>Streaming best trance music from Russia with love... SanFM.ru</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>SanFM.ru=Trance</string>
+		<key>url</key>
+		<string>http://sanfm.ru:8000/trance</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Solo Radio</string>
+		<key>url</key>
+		<string>http://nr8.newradio.it:9155</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Spin 103.3</string>
+		<key>url</key>
+		<string>http://ice6.securenetsystems.net/WOLT</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>97</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Star Radio 100.8 FM</string>
+		<key>url</key>
+		<string>http://213.164.242.52:8000/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>131</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Studio 7</string>
+		<key>url</key>
+		<string>http://radio1.studio7.lt:8001/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>SubIce Radio</string>
+		<key>url</key>
+		<string>http://lemon.citrus3.com:8024/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>Radio Sunshine Live</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Sunshine Live Be Ahead</string>
+		<key>url</key>
+		<string>http://85.239.108.1/sunshine-beahead-aac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>Radio Sunshine Live</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Sunshine Live Be DJ</string>
+		<key>url</key>
+		<string>http://85.239.108.1/sunshine-bedj-aac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>Radio Sunshine Live</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Sunshine Live Be Easy</string>
+		<key>url</key>
+		<string>http://85.239.108.1/sunshine-beeasy-aac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>Radio Sunshine Live</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Sunshine Live Classics</string>
+		<key>url</key>
+		<string>http://85.239.108.1/sunshine-classics-aac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>Radio Sunshine Live</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Sunshine Live Hard</string>
+		<key>url</key>
+		<string>http://85.239.108.1/sunshine-hard-aac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>desc</key>
+		<string>Radio Sunshine Live</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Sunshine Live House</string>
+		<key>url</key>
+		<string>http://85.239.108.1/sunshine-house-aac-64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>33</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>TDI Radio House</string>
+		<key>url</key>
+		<string>http://streaming.tdiradio.com:9222/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>The Other Dancestation: The best dance music and party hits of the last 30 years!!!  Check out the playlist of more than 2700 tracks!!!</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>TODANCESTATION</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/TO-DANCE-STATION</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>desc</key>
+		<string>Terranova Radio - The Australian Internet Radio Station</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Terranova Radio</string>
+		<key>url</key>
+		<string>http://www.terranovaradio.com:8000/dialup</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>Terranova Radio - The Australian Internet Radio Station</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Terranova Radio - Broadband</string>
+		<key>url</key>
+		<string>http://www.terranovaradio.com:8000/broadband</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Non Stop Dance Music</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>TheDanceFloor</string>
+		<key>url</key>
+		<string>http://streaming206.radionomy.com:80/The-DanceFloor</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Tommy FM</string>
+		<key>url</key>
+		<string>http://live.tommyfm.eu:80/tommyfm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Tropik@l Mixx c&amp;apos;est le son dancefloor de l&amp;apos;&amp;#xe9;t&amp;#xe9; tout au long de l&amp;apos;ann&amp;#xe9;e.  Retrouvez 24h/24 et 7j/7 le meilleur du son clubbing aux sonorit&amp;#xe9;s ensoleill&amp;#xe9;es sans oublier les hits des dancefloors !  Avec Tropik@l Mixx mettez du soleil de la chaleur et du</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>TropikalMixx</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/Tropikal-Mixx</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Tuner24 - Dance</string>
+		<key>url</key>
+		<string>http://67.159.12.5:80/tuner24_dance_hi</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>24</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Urbana</string>
+		<key>url</key>
+		<string>http://4993.live.streamtheworld.com:80/URBANAAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>48</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Vibe FM</string>
+		<key>url</key>
+		<string>http://89.238.252.146:9000/</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>65</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>WBZW HD2 94.0 FM</string>
+		<key>url</key>
+		<string>http://208.80.54.67/WBZZFMAAC.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>49</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Web And Disco</string>
+		<key>url</key>
+		<string>http://95.211.113.141:8080</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>XHCHL Beat 106.5  FM</string>
+		<key>url</key>
+		<string>http://2483.live.streamtheworld.com:80/XHCHFMAAC_SC</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>99</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>XXL Radio</string>
+		<key>url</key>
+		<string>http://dslone.xxl-radio.de:8000</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>The Sound of Sydney</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>ZFM Australian Dance Radio Network</string>
+		<key>url</key>
+		<string>http://www.smartphoneradio.com:8000/C53HIGH</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ZSFR</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/ZSFR</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>G&amp;#xe9;n&amp;#xe9;ration Dancefloor !</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ZicRadioDance</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/Zic-Radio-Dance</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>66</string>
+		<key>desc</key>
+		<string>ZIP FM</string>
+		<key>encoding</key>
+		<string>audio/aac</string>
+		<key>name</key>
+		<string>Zip FM</string>
+		<key>url</key>
+		<string>http://84.46.205.13:80/zipfm64.aac</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Musica dance pop y electro latino en la mejor radio online. Web oficial: http://www.zonadancefm.es</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>ZonaDanceFM</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/Zona-Dance-FM</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Classic and pure eurodance of the 90s</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>addictive-eurodance</string>
+		<key>url</key>
+		<string>http://streaming203.radionomy.com:80/addictive-eurodance</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>www.aviaFM.com    euro dance.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>aviafm</string>
+		<key>url</key>
+		<string>http://streaming207.radionomy.com:80/avia-fm</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>www.best80radio.com Disco Dance Funk house off 80&amp;apos;s</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>best80dance</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/best80dance</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Dance &amp;amp; house music for your next Party or at home.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>chillectrodance</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/chillectro-dance</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>danceRadio24h</string>
+		<key>url</key>
+		<string>http://streaming208.radionomy.com:80/danceradio24h</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Dance Radio1 24 uur dancehits en mixen uit Belgie en Nederland.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>danceradio1</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/danceradio1</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>DiNetRadio for you</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>dinetradio</string>
+		<key>url</key>
+		<string>http://dinetmedia.ru:9000/dinetradio.acc+</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>DiNetRadio for you</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>dinetradio</string>
+		<key>url</key>
+		<string>http://dinetmedia.ru:9000/dinetradio.acc</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>256</string>
+		<key>desc</key>
+		<string>Russian RJ Online and Auto DJ</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>radio.192khz.ru</string>
+		<key>url</key>
+		<string>http://radio.192khz.ru:8000/192khz.mp3</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>RFW Radio Fr&amp;#xe9;quence Web priorit&amp;#xe9; au tempo dancefloor *** D&amp;#xe9;couvrez la nouvelle musique : toutes les semaines c&amp;apos;est 5 nouveaut&amp;#xe9;s dancefloor avant les autres.... Chez nous la musique ne s&amp;apos;arr&amp;#xea;te jamais priorit&amp;#xe9; au son dancefloor.</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>radiofrequenceweb</string>
+		<key>url</key>
+		<string>http://streaming201.radionomy.com:80/radiofrequenceweb</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>SPEEDDANCE RADIO La webradio Dance Eurodance House Techno et Electro des ann&amp;#xe9;es 90 &amp;#xe0; aujourd&amp;apos;hui</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>radiospeeddance</string>
+		<key>url</key>
+		<string>http://streaming204.radionomy.com:80/radio-speeddance</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>Dance, House Electro</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>www.SR.dk :: SPECIFIC RADIO PARTY</string>
+		<key>url</key>
+		<string>http://stream.specific.dk:80/SR</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>Dance, House, Electro</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>www.SR.dk :: SPECIFIC RADIO PARTY - low bitrate</string>
+		<key>url</key>
+		<string>http://stream.specific.dk:80/ultralow</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>96</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>РАДИО НОСТАЛЬЖИ</string>
+		<key>url</key>
+		<string>http://host.fm:7777/7968_radiohit</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>64</string>
+		<key>desc</key>
+		<string>ÐÑÐ·ÑÐºÐ° Ð² ÑÐ¾ÑÐ¼Ð°ÑÐµ "CHR-TOP-40/Dance" (Ð¡Ð¾Ð²ÑÐµÐ¼ÐµÐ½Ð½Ð¾Ðµ Ð¥Ð¸Ñ-Ð Ð°Ð´Ð¸Ð¾/Ð¢Ð°Ð½ÑÐµÐ²Ð°Ð»ÑÐ½Ð°Ñ Ð¼ÑÐ·ÑÐºÐ°)</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Радио СК, Екатеринбург, 90.2 FM</string>
+		<key>url</key>
+		<string>http://188.128.117.99:8000/sk64</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>128</string>
+		<key>desc</key>
+		<string>ÐÑÐ·ÑÐºÐ° Ð² ÑÐ¾ÑÐ¼Ð°ÑÐµ "CHR-TOP-40/Dance" (Ð¡Ð¾Ð²ÑÐµÐ¼ÐµÐ½Ð½Ð¾Ðµ Ð¥Ð¸Ñ-Ð Ð°Ð´Ð¸Ð¾/Ð¢Ð°Ð½ÑÐµÐ²Ð°Ð»ÑÐ½Ð°Ñ Ð¼ÑÐ·ÑÐºÐ°)</string>
+		<key>encoding</key>
+		<string>audio/mpeg</string>
+		<key>name</key>
+		<string>Радио СК, Екатеринбург, 90.2 FM</string>
+		<key>url</key>
+		<string>http://188.128.117.99:8000/sk</string>
+	</dict>
+	<dict>
+		<key>bitrate</key>
+		<string>32</string>
+		<key>desc</key>
+		<string>ÐÑÐ·ÑÐºÐ° Ð² ÑÐ¾ÑÐ¼Ð°ÑÐµ "CHR-TOP-40/Dance" (Ð¡Ð¾Ð²ÑÐµÐ¼ÐµÐ½Ð½Ð¾Ðµ Ð¥Ð¸Ñ-Ð Ð°Ð´Ð¸Ð¾/Ð¢Ð°Ð½ÑÐµÐ²Ð°Ð»ÑÐ½Ð°Ñ Ð¼ÑÐ·ÑÐºÐ°)</string>
+		<key>encoding</key>
+		<string>audio/aacp</string>
+		<key>name</key>
+		<string>Радио СК, Екатеринбург, 90.2 FM</string>
+		<key>url</key>
+		<string>http://188.128.117.99:8000/sk_aacplus</string>
+	</dict>
+</array>
+</plist>
