@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Comments</key>
+	<string>Please leave a comment about how the session went.</string>
+	<key>boolEASeNative</key>
+	<string>NO</string>
+	<key>boolEASeOne</key>
+	<string>NO</string>
+	<key>boolPerfectlyNatural</key>
+	<string>NO</string>
+	<key>boolIsntThisGreat</key>
+	<string>NO</string>
+	<key>boolBugsWorldFireflies</key>
+	<string>NO</string>
+	<key>boolEASeFour</key>
+	<string>NO</string>
+	<key>boolEASeTwo</key>
+	<string>YES</string>
+	<key>strings</key>
+	<string>1</string>
+	<key>datee</key>
+	<date>2017-08-26T04:26:21Z</date>
+	<key>Category</key>
+	<string>Coupon</string>
+</dict>
+</plist>

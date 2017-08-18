@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boolEASeNative</key>
+	<string>YES</string>
+	<key>boolEASeOne</key>
+	<string>YES</string>
+	<key>boolEASeTwo</key>
+	<string>YES</string>
+	<key>boolEASeThree</key>
+	<string>YES</string>
+	<key>boolEASeFour</key>
+	<string>YES</string>
+	<key>boolBugsWorldFireflies</key>
+	<string>YES</string>
+	<key>strings</key>
+	<string>1</string>
+	<key>datee</key>
+	<date>2018-02-21T05:26:21Z</date>
+	<key>Category</key>
+	<string>Coupon</string>
+</dict>
+</plist>

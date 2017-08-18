@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boolEASeMozart</key>
+	<string>YES</string>
+	<key>boolPalms</key>
+	<string>YES</string>
+	<key>strings</key>
+	<string>3</string>
+	<key>datee</key>
+	<date>2018-02-25T05:26:21Z</date>
+	<key>Category</key>
+	<string>Coupon</string>
+</dict>
+</plist>
