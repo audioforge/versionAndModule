@@ -5,11 +5,10 @@
 	<key>Date</key>
 	<date>2017-02-26T17:51:36Z</date>
 	<key>Title</key>
-	<string>New Modules are coming</string>
+	<string>Welcome to EASe 3</string>
 	<key>Message</key>
-	<string>We are working on new music modules. They might show up in the list of modules but they are not ready yet.
-So you cannot purchase nor stream them just yet.
-Please contact support if you have any questions.
-We are still working on getting a guided mode up and running.</string>
+	<string>If you haven't done so yet, please have a look at the manual under 'more info'.
+		Feel free to contact us at support@audioforge.ca if you have any questions.
+	</string>
 </dict>
 </plist>
