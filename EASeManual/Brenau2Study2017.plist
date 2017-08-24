@@ -17,6 +17,8 @@
 	<key>boolEASeFour</key>
 	<string>NO</string>
 	<key>boolEASeTwo</key>
+	<string>NO</string>
+	<key>boolEASeThree</key>
 	<string>YES</string>
 	<key>strings</key>
 	<string>1</string>
