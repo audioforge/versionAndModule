@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>Date</key>
-	<date>2017-02-26T17:51:36Z</date>
+	<date>2017-09-05T17:51:36Z</date>
 	<key>Title</key>
-	<string>Welcome to EASe 3</string>
+	<string>Important update available</string>
 	<key>Message</key>
-	<string>If you haven't done so yet, please have a look at the manual under 'more info'. Feel free to contact us at support@audioforge.ca if you have any questions.
+	<string>Please make sure to update EASe to the latest via App Store. EASe might stop working if you fail to update. Contact us at support@audioforge.ca for more info.
 	</string>
 </dict>
 </plist>
