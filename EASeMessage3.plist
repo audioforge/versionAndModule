@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+e<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>Date</key>
 	<date>2017-09-05T17:51:36Z</date>
 	<key>Title</key>
-	<string>Important update available</string>
+	<string>Welcome to EASe 3</string>
 	<key>Message</key>
-	<string>Please make sure to update EASe to the latest via App Store. EASe might stop working if you fail to update. Contact us at support@audioforge.ca for more info.
+	<string>Please select a subscription in the settings menu by tapping on the gear button. 
+		Contact us at support@audioforge.ca for more info.
 	</string>
 </dict>
 </plist>
