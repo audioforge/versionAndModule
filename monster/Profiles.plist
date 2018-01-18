@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>versionNumber</key>
-	<integer>3</integer>
+	<integer>4</integer>
 	<key>profiles</key>
 	<array>
-		<string>ClarityOnEarRReference 1</string>
-		<string>VictoryRReference 1</string>
-		<string>DNAProRReference 1</string>
+		<string>ClarityOnEarRReference1</string>
+		<string>VictoryRReference1</string>
+		<string>DNAProRReference1</string>
 	</array>
 </dict>
 </plist>
