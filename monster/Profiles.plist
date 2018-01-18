@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>versionNumber</key>
-	<integer>1</integer>
+	<integer>2</integer>
 	<key>profiles</key>
 	<array>
 		<string>ClarityOnEarRReference 1</string>
