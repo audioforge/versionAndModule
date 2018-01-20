@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>frequency</key>
+		<real>36</real>
+		<key>gain</key>
+		<real>4.5999994277954102</real>
+		<key>q</key>
+		<real>3.5945944786071777</real>
+	</dict>
+	<dict>
+		<key>frequency</key>
+		<real>114</real>
+		<key>gain</key>
+		<real>-2.1000003814697266</real>
+		<key>q</key>
+		<real>1.5053762197494507</real>
+	</dict>
+	<dict>
+		<key>frequency</key>
+		<real>500</real>
+		<key>gain</key>
+		<real>-3.8999996185302734</real>
+		<key>q</key>
+		<real>0.59735006093978882</real>
+	</dict>
+	<dict>
+		<key>frequency</key>
+		<real>4000</real>
+		<key>gain</key>
+		<real>-4</real>
+		<key>q</key>
+		<real>0.6429780125617981</real>
+	</dict>
+	<dict>
+		<key>frequency</key>
+		<real>8000</real>
+		<key>gain</key>
+		<real>4.5</real>
+		<key>q</key>
+		<real>0.49250140786170959</real>
+	</dict>
+	<dict>
+		<key>frequency</key>
+		<real>5000</real>
+		<key>gain</key>
+		<real>0.0</real>
+		<key>q</key>
+		<real>1</real>
+	</dict>
+	<dict>
+		<key>frequency</key>
+		<real>13000</real>
+		<key>gain</key>
+		<real>0.0</real>
+		<key>q</key>
+		<real>1</real>
+	</dict>
+</array>
+</plist>
