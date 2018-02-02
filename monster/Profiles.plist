@@ -2,88 +2,159 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>versionNumber</key>
-	<integer>7</integer>
 	<key>profiles</key>
 	<array>
 		<string>ClarityGAlternative</string>
 		<string>ClarityA6am</string>
+		<string>AirLinksAArianne Grande</string>
+		<string>AirLinksADiane Krall</string>
 		<string>ClarityATrain</string>
 		<string>ClarityANico n Vince</string>
+		<string>AirLinksGHeavy Metal</string>
+		<string>AirLinksADisturbed</string>
+		<string>AirLinksGHip-Hop Rap</string>
+		<string>AirLinksAMichael Jackson</string>
 		<string>ClarityANorah Jones</string>
 		<string>ClarityATower Live</string>
 		<string>ClarityAColdplay 1</string>
+		<string>AirLinksAMotley Crüe</string>
+		<string>AirLinksGElectronica Dance</string>
 		<string>ClarityAJohn Legend</string>
+		<string>AirLinksALuke Bryan</string>
+		<string>AirLinksALil Wayne</string>
 		<string>ClarityAPitbull</string>
+		<string>AirLinksA50 Cent</string>
+		<string>AirLinksADrowning Pool</string>
+		<string>AirLinksANeon Trees</string>
 		<string>ClarityADave Brubeck</string>
+		<string>AirLinksASade</string>
 		<string>ClarityALorde</string>
+		<string>AirLinksABoz Scaggs live</string>
 		<string>ClarityATower To Oakland</string>
+		<string>AirLinksAEd Sheeran</string>
+		<string>AirLinksAKaty Perry</string>
 		<string>ClarityGPop</string>
 		<string>ClarityALed Zeppelin</string>
+		<string>AirLinksGReggae</string>
 		<string>ClarityATower Vintage</string>
+		<string>AirLinksATower To Oakland</string>
 		<string>ClarityAAdventura</string>
 		<string>ClarityGOldies</string>
+		<string>AirLinksANiki Minaj</string>
+		<string>AirLinksAFleetwood Mac</string>
+		<string>AirLinksABillie Holiday</string>
+		<string>AirLinksAOld Stevie Wonder</string>
+		<string>AirLinksGJazz</string>
 		<string>ClarityARobbie Dupree</string>
 		<string>ClarityALuther Vandross</string>
+		<string>AirLinksATower Bump City</string>
 		<string>ClarityA5seconds</string>
 		<string>ClarityRReference1</string>
+		<string>AirLinksATaylor Swift</string>
+		<string>AirLinksAMachine Head</string>
+		<string>AirLinksGClassical</string>
+		<string>AirLinksAStevie Wonder</string>
 		<string>ClarityAHired Guns</string>
+		<string>AirLinksAMiles milestones</string>
+		<string>AirLinksGPop</string>
 		<string>ClarityAArianne Grande</string>
+		<string>AirLinksGR&amp;B Soul</string>
+		<string>AirLinksAPrince</string>
+		<string>AirLinksA3 Doors Down</string>
 		<string>ClarityAJoe Nichols</string>
 		<string>ClarityASteely Dan</string>
 		<string>ClarityAMiles milestones</string>
 		<string>ClarityADrake</string>
+		<string>AirLinksAStaind</string>
 		<string>ClarityAJames Taylor</string>
 		<string>ClarityGLatina</string>
+		<string>AirLinksAFrank Sinatra</string>
 		<string>ClarityABillie Holiday</string>
 		<string>ClarityGJazz</string>
+		<string>AirLinksAMegadeath</string>
+		<string>AirLinksAOne Republic</string>
 		<string>ClarityAAvicii</string>
 		<string>ClarityASade</string>
+		<string>AirLinksAIggy Azelea</string>
+		<string>AirLinksAAlicia Keys</string>
 		<string>ClarityGCountry</string>
+		<string>AirLinksA6am</string>
+		<string>AirLinksATower</string>
 		<string>ClarityGR&amp;B Soul</string>
 		<string>ClarityAMotley Crüe</string>
+		<string>AirLinksADrake</string>
+		<string>AirLinksASwing Out Sister</string>
+		<string>AirLinksATower Live</string>
+		<string>AirLinksAColdplay 1</string>
+		<string>AirLinksADave Brubeck</string>
 		<string>ClarityGClassical</string>
+		<string>AirLinksAEWF</string>
 		<string>ClarityASwing Out Sister</string>
+		<string>AirLinksAZak Brown Band</string>
 		<string>ClarityALuke Bryan</string>
+		<string>AirLinksARobbie Dupree</string>
 		<string>ClarityABoz Scaggs live</string>
 		<string>ClarityGReggae</string>
+		<string>AirLinksANico n Vince</string>
 		<string>ClarityANeon Trees</string>
+		<string>AirLinksA5seconds</string>
 		<string>ClarityAStevie Wonder</string>
+		<string>AirLinksGOldies</string>
 		<string>ClarityAEd Sheeran</string>
+		<string>AirLinksGRock</string>
+		<string>AirLinksATeddy Pendegrass</string>
 		<string>ClarityATower</string>
+		<string>AirLinksAJohn Legend</string>
 		<string>ClarityAKaty Perry</string>
 		<string>ClarityAMegadeath</string>
+		<string>AirLinksANorah Jones</string>
 		<string>ClarityATeddy Pendegrass</string>
 		<string>ClarityAFrank Sinatra</string>
 		<string>ClarityGHeavy Metal</string>
 		<string>ClarityGHip-Hop Rap</string>
+		<string>AirLinksGAlternative</string>
+		<string>AirLinksGCountry</string>
 		<string>ClarityADiane Krall</string>
+		<string>AirLinksALed Zeppelin</string>
 		<string>ClarityANiki Minaj</string>
 		<string>ClarityAMichael Jackson</string>
 		<string>ClarityAZak Brown Band</string>
 		<string>ClarityA3 Doors Down</string>
+		<string>AirLinksAHired Guns</string>
 		<string>ClarityAStaind</string>
 		<string>ClarityAIggy Azelea</string>
 		<string>ClarityAAlicia Keys</string>
+		<string>AirLinksGLatina</string>
 		<string>ClarityALil Wayne</string>
+		<string>AirLinksRReference1</string>
 		<string>ClarityADrowning Pool</string>
+		<string>AirLinksAPitbull</string>
+		<string>AirLinksATrain</string>
 		<string>ClarityADisturbed</string>
 		<string>ClarityA50 Cent</string>
 		<string>ClarityATaylor Swift</string>
+		<string>AirLinksAAvicii</string>
+		<string>VictoryRReference1</string>
 		<string>ClarityAMachine Head</string>
 		<string>ClarityAOld Stevie Wonder</string>
+		<string>AirLinksASteely Dan</string>
+		<string>AirLinksATower Vintage</string>
 		<string>ClarityADinah Washington</string>
 		<string>ClarityAFleetwood Mac</string>
+		<string>AirLinksAJoe Nichols</string>
+		<string>AirLinksAAdventura</string>
 		<string>ClarityAEWF</string>
 		<string>ClarityGElectronica Dance</string>
+		<string>AirLinksAJames Taylor</string>
+		<string>AirLinksALuther Vandross</string>
 		<string>ClarityGRock</string>
+		<string>AirLinksALorde</string>
 		<string>ClarityAOne Republic</string>
 		<string>ClarityATower Bump City</string>
+		<string>AirLinksADinah Washington</string>
 		<string>ClarityAPrince</string>
-		<string>ClarityRReference1</string>
-		<string>DNAProRReference1</string>
-		<string>AirLinksRReference1</string>
-		<string>VictoryRReference1</string>
 	</array>
+	<key>versionNumber</key>
+	<integer>8</integer>
 </dict>
 </plist>
