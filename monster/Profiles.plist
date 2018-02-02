@@ -3,13 +3,87 @@
 <plist version="1.0">
 <dict>
 	<key>versionNumber</key>
-	<integer>6</integer>
+	<integer>7</integer>
 	<key>profiles</key>
 	<array>
+		<string>ClarityGAlternative</string>
+		<string>ClarityA6am</string>
+		<string>ClarityATrain</string>
+		<string>ClarityANico n Vince</string>
+		<string>ClarityANorah Jones</string>
+		<string>ClarityATower Live</string>
+		<string>ClarityAColdplay 1</string>
+		<string>ClarityAJohn Legend</string>
+		<string>ClarityAPitbull</string>
+		<string>ClarityADave Brubeck</string>
+		<string>ClarityALorde</string>
+		<string>ClarityATower To Oakland</string>
+		<string>ClarityGPop</string>
+		<string>ClarityALed Zeppelin</string>
+		<string>ClarityATower Vintage</string>
+		<string>ClarityAAdventura</string>
+		<string>ClarityGOldies</string>
+		<string>ClarityARobbie Dupree</string>
+		<string>ClarityALuther Vandross</string>
+		<string>ClarityA5seconds</string>
 		<string>ClarityRReference1</string>
-		<string>VictoryRReference1</string>
+		<string>ClarityAHired Guns</string>
+		<string>ClarityAArianne Grande</string>
+		<string>ClarityAJoe Nichols</string>
+		<string>ClarityASteely Dan</string>
+		<string>ClarityAMiles milestones</string>
+		<string>ClarityADrake</string>
+		<string>ClarityAJames Taylor</string>
+		<string>ClarityGLatina</string>
+		<string>ClarityABillie Holiday</string>
+		<string>ClarityGJazz</string>
+		<string>ClarityAAvicii</string>
+		<string>ClarityASade</string>
+		<string>ClarityGCountry</string>
+		<string>ClarityGR&amp;B Soul</string>
+		<string>ClarityAMotley Crüe</string>
+		<string>ClarityGClassical</string>
+		<string>ClarityASwing Out Sister</string>
+		<string>ClarityALuke Bryan</string>
+		<string>ClarityABoz Scaggs live</string>
+		<string>ClarityGReggae</string>
+		<string>ClarityANeon Trees</string>
+		<string>ClarityAStevie Wonder</string>
+		<string>ClarityAEd Sheeran</string>
+		<string>ClarityATower</string>
+		<string>ClarityAKaty Perry</string>
+		<string>ClarityAMegadeath</string>
+		<string>ClarityATeddy Pendegrass</string>
+		<string>ClarityAFrank Sinatra</string>
+		<string>ClarityGHeavy Metal</string>
+		<string>ClarityGHip-Hop Rap</string>
+		<string>ClarityADiane Krall</string>
+		<string>ClarityANiki Minaj</string>
+		<string>ClarityAMichael Jackson</string>
+		<string>ClarityAZak Brown Band</string>
+		<string>ClarityA3 Doors Down</string>
+		<string>ClarityAStaind</string>
+		<string>ClarityAIggy Azelea</string>
+		<string>ClarityAAlicia Keys</string>
+		<string>ClarityALil Wayne</string>
+		<string>ClarityADrowning Pool</string>
+		<string>ClarityADisturbed</string>
+		<string>ClarityA50 Cent</string>
+		<string>ClarityATaylor Swift</string>
+		<string>ClarityAMachine Head</string>
+		<string>ClarityAOld Stevie Wonder</string>
+		<string>ClarityADinah Washington</string>
+		<string>ClarityAFleetwood Mac</string>
+		<string>ClarityAEWF</string>
+		<string>ClarityGElectronica Dance</string>
+		<string>ClarityGRock</string>
+		<string>ClarityAOne Republic</string>
+		<string>ClarityATower Bump City</string>
+		<string>ClarityAPrince</string>
+		<string>ClarityRReference1</string>
 		<string>DNAProRReference1</string>
 		<string>AirLinksRReference1</string>
+		<string>VictoryRReference1</string>
 	</array>
 </dict>
 </plist>
