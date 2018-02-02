@@ -4,157 +4,215 @@
 <dict>
 	<key>profiles</key>
 	<array>
+		<string>VictoryAPrince</string>
+		<string>ClarityAFrankSinatra</string>
+		<string>AirLinksGHeavyMetal</string>
+		<string>ClarityAIggyAzelea</string>
 		<string>ClarityGAlternative</string>
+		<string>VictoryAJoeNichols</string>
+		<string>ClarityGElectronicaDance</string>
 		<string>ClarityA6am</string>
-		<string>AirLinksAArianne Grande</string>
-		<string>AirLinksADiane Krall</string>
+		<string>AirLinksADaveBrubeck</string>
+		<string>VictoryAArianneGrande</string>
 		<string>ClarityATrain</string>
-		<string>ClarityANico n Vince</string>
-		<string>AirLinksGHeavy Metal</string>
+		<string>VictoryA6am</string>
+		<string>VictoryASade</string>
 		<string>AirLinksADisturbed</string>
-		<string>AirLinksGHip-Hop Rap</string>
-		<string>AirLinksAMichael Jackson</string>
-		<string>ClarityANorah Jones</string>
-		<string>ClarityATower Live</string>
-		<string>ClarityAColdplay 1</string>
-		<string>AirLinksAMotley Crüe</string>
-		<string>AirLinksGElectronica Dance</string>
-		<string>ClarityAJohn Legend</string>
-		<string>AirLinksALuke Bryan</string>
-		<string>AirLinksALil Wayne</string>
+		<string>VictoryAMotleyCrüe</string>
+		<string>AirLinksGElectronicaDance</string>
+		<string>VictoryARobbieDupree</string>
+		<string>ClarityAMichaelJackson</string>
+		<string>VictoryGHeavyMetal</string>
 		<string>ClarityAPitbull</string>
-		<string>AirLinksA50 Cent</string>
-		<string>AirLinksADrowning Pool</string>
-		<string>AirLinksANeon Trees</string>
-		<string>ClarityADave Brubeck</string>
+		<string>VictoryGJazz</string>
+		<string>VictoryADrowningPool</string>
+		<string>AirLinksAJoeNichols</string>
+		<string>VictoryALedZeppelin</string>
+		<string>ClarityABozScaggslive</string>
+		<string>AirLinksASwingOutSister</string>
+		<string>AirLinksABillieHoliday</string>
+		<string>VictoryASteelyDan</string>
+		<string>ClarityAMilesmilestones</string>
 		<string>AirLinksASade</string>
+		<string>VictoryA50Cent</string>
+		<string>VictoryALilWayne</string>
 		<string>ClarityALorde</string>
-		<string>AirLinksABoz Scaggs live</string>
-		<string>ClarityATower To Oakland</string>
-		<string>AirLinksAEd Sheeran</string>
-		<string>AirLinksAKaty Perry</string>
+		<string>ClarityALilWayne</string>
+		<string>VictoryGPop</string>
+		<string>AirLinksAColdplay</string>
+		<string>VictoryADianeKrall</string>
+		<string>VictoryATaylorSwift</string>
+		<string>AirLinksASteelyDan</string>
+		<string>ClarityANikiMinaj</string>
+		<string>VictoryAJohnLegend</string>
+		<string>VictoryAFrankSinatra</string>
+		<string>AirLinksANorahJones</string>
+		<string>AirLinksAZakBrownBand</string>
 		<string>ClarityGPop</string>
-		<string>ClarityALed Zeppelin</string>
 		<string>AirLinksGReggae</string>
-		<string>ClarityATower Vintage</string>
-		<string>AirLinksATower To Oakland</string>
+		<string>VictoryADisturbed</string>
 		<string>ClarityAAdventura</string>
+		<string>ClarityANeonTrees</string>
+		<string>AirLinksAFleetwoodMac</string>
+		<string>VictoryAStaind</string>
+		<string>AirLinksADianeKrall</string>
+		<string>ClarityAKatyPerry</string>
+		<string>ClarityAJamesTaylor</string>
 		<string>ClarityGOldies</string>
-		<string>AirLinksANiki Minaj</string>
-		<string>AirLinksAFleetwood Mac</string>
-		<string>AirLinksABillie Holiday</string>
-		<string>AirLinksAOld Stevie Wonder</string>
+		<string>ClarityADrowningPool</string>
+		<string>ClarityARobbieDupree</string>
+		<string>ClarityAEdSheeran</string>
+		<string>VictoryANorahJones</string>
 		<string>AirLinksGJazz</string>
-		<string>ClarityARobbie Dupree</string>
-		<string>ClarityALuther Vandross</string>
-		<string>AirLinksATower Bump City</string>
+		<string>AirLinksAJohnLegend</string>
+		<string>AirLinksAAliciaKeys</string>
+		<string>VictoryGHip-HopRap</string>
+		<string>VictoryGR&amp;BSoul</string>
+		<string>AirLinksAMotleyCrüe</string>
+		<string>AirLinksAMichaelJackson</string>
 		<string>ClarityA5seconds</string>
 		<string>ClarityRReference1</string>
-		<string>AirLinksATaylor Swift</string>
-		<string>AirLinksAMachine Head</string>
+		<string>ClarityASwingOutSister</string>
+		<string>VictoryA5seconds</string>
+		<string>AirLinksANiconVince</string>
 		<string>AirLinksGClassical</string>
-		<string>AirLinksAStevie Wonder</string>
-		<string>ClarityAHired Guns</string>
-		<string>AirLinksAMiles milestones</string>
+		<string>ClarityAHiredGuns</string>
+		<string>VictoryAMilesmilestones</string>
+		<string>AirLinksAArianneGrande</string>
+		<string>VictoryADaveBrubeck</string>
 		<string>AirLinksGPop</string>
-		<string>ClarityAArianne Grande</string>
-		<string>AirLinksGR&amp;B Soul</string>
+		<string>AirLinksALedZeppelin</string>
+		<string>VictoryAAliciaKeys</string>
+		<string>AirLinksGHip-HopRap</string>
+		<string>VictoryAMegadeath</string>
+		<string>AirLinksATeddyPendegrass</string>
 		<string>AirLinksAPrince</string>
-		<string>AirLinksA3 Doors Down</string>
-		<string>ClarityAJoe Nichols</string>
-		<string>ClarityASteely Dan</string>
-		<string>ClarityAMiles milestones</string>
+		<string>VictoryANiconVince</string>
+		<string>VictoryABillieHoliday</string>
+		<string>ClarityAOneRepublic</string>
+		<string>VictoryALukeBryan</string>
 		<string>ClarityADrake</string>
 		<string>AirLinksAStaind</string>
-		<string>ClarityAJames Taylor</string>
 		<string>ClarityGLatina</string>
-		<string>AirLinksAFrank Sinatra</string>
-		<string>ClarityABillie Holiday</string>
+		<string>VictoryALutherVandross</string>
+		<string>AirLinksALukeBryan</string>
+		<string>AirLinksADinahWashington</string>
+		<string>VictoryGReggae</string>
+		<string>AirLinksAStevieWonder</string>
 		<string>ClarityGJazz</string>
 		<string>AirLinksAMegadeath</string>
-		<string>AirLinksAOne Republic</string>
+		<string>AirLinksATaylorSwift</string>
 		<string>ClarityAAvicii</string>
+		<string>ClarityA3DoorsDown</string>
+		<string>ClarityAMachineHead</string>
 		<string>ClarityASade</string>
-		<string>AirLinksAIggy Azelea</string>
-		<string>AirLinksAAlicia Keys</string>
+		<string>VictoryATower</string>
+		<string>AirLinksA50Cent</string>
+		<string>VictoryGClassical</string>
+		<string>AirLinksGR&amp;BSoul</string>
 		<string>ClarityGCountry</string>
 		<string>AirLinksA6am</string>
 		<string>AirLinksATower</string>
-		<string>ClarityGR&amp;B Soul</string>
-		<string>ClarityAMotley Crüe</string>
+		<string>VictoryADinahWashington</string>
+		<string>VictoryGCountry</string>
 		<string>AirLinksADrake</string>
-		<string>AirLinksASwing Out Sister</string>
-		<string>AirLinksATower Live</string>
-		<string>AirLinksAColdplay 1</string>
-		<string>AirLinksADave Brubeck</string>
+		<string>VictoryAMachineHead</string>
+		<string>ClarityGHeavyMetal</string>
+		<string>AirLinksAIggyAzelea</string>
+		<string>VictoryGRock</string>
+		<string>AirLinksAJamesTaylor</string>
+		<string>VictoryAFleetwoodMac</string>
+		<string>VictoryADrake</string>
+		<string>VictoryAAvicii</string>
+		<string>VictoryABozScaggslive</string>
+		<string>VictoryAZakBrownBand</string>
+		<string>ClarityAJoeNichols</string>
+		<string>AirLinksAHiredGuns</string>
+		<string>VictoryAMichaelJackson</string>
 		<string>ClarityGClassical</string>
 		<string>AirLinksAEWF</string>
-		<string>ClarityASwing Out Sister</string>
-		<string>AirLinksAZak Brown Band</string>
-		<string>ClarityALuke Bryan</string>
-		<string>AirLinksARobbie Dupree</string>
-		<string>ClarityABoz Scaggs live</string>
+		<string>AirLinksAFrankSinatra</string>
+		<string>VictoryAIggyAzelea</string>
 		<string>ClarityGReggae</string>
-		<string>AirLinksANico n Vince</string>
-		<string>ClarityANeon Trees</string>
 		<string>AirLinksA5seconds</string>
-		<string>ClarityAStevie Wonder</string>
+		<string>ClarityAArianneGrande</string>
+		<string>VictoryGLatina</string>
 		<string>AirLinksGOldies</string>
-		<string>ClarityAEd Sheeran</string>
 		<string>AirLinksGRock</string>
-		<string>AirLinksATeddy Pendegrass</string>
+		<string>ClarityAFleetwoodMac</string>
 		<string>ClarityATower</string>
-		<string>AirLinksAJohn Legend</string>
-		<string>ClarityAKaty Perry</string>
+		<string>VictoryAOneRepublic</string>
+		<string>AirLinksADrowningPool</string>
+		<string>AirLinksAMilesmilestones</string>
+		<string>ClarityANorahJones</string>
+		<string>VictoryAHiredGuns</string>
+		<string>VictoryGElectronicaDance</string>
+		<string>AirLinksARobbieDupree</string>
+		<string>ClarityADianeKrall</string>
 		<string>ClarityAMegadeath</string>
-		<string>AirLinksANorah Jones</string>
-		<string>ClarityATeddy Pendegrass</string>
-		<string>ClarityAFrank Sinatra</string>
-		<string>ClarityGHeavy Metal</string>
-		<string>ClarityGHip-Hop Rap</string>
+		<string>VictoryATeddyPendegrass</string>
+		<string>AirLinksALutherVandross</string>
+		<string>ClarityAJohnLegend</string>
 		<string>AirLinksGAlternative</string>
 		<string>AirLinksGCountry</string>
-		<string>ClarityADiane Krall</string>
-		<string>AirLinksALed Zeppelin</string>
-		<string>ClarityANiki Minaj</string>
-		<string>ClarityAMichael Jackson</string>
-		<string>ClarityAZak Brown Band</string>
-		<string>ClarityA3 Doors Down</string>
-		<string>AirLinksAHired Guns</string>
+		<string>ClarityGR&amp;BSoul</string>
+		<string>ClarityADaveBrubeck</string>
+		<string>ClarityALukeBryan</string>
+		<string>ClarityAZakBrownBand</string>
+		<string>VictoryANikiMinaj</string>
+		<string>VictoryAJamesTaylor</string>
+		<string>ClarityAAliciaKeys</string>
 		<string>ClarityAStaind</string>
-		<string>ClarityAIggy Azelea</string>
-		<string>ClarityAAlicia Keys</string>
+		<string>AirLinksABozScaggslive</string>
+		<string>VictoryGOldies</string>
 		<string>AirLinksGLatina</string>
-		<string>ClarityALil Wayne</string>
+		<string>VictoryASwingOutSister</string>
+		<string>AirLinksAMachineHead</string>
+		<string>ClarityANiconVince</string>
 		<string>AirLinksRReference1</string>
-		<string>ClarityADrowning Pool</string>
+		<string>ClarityABillieHoliday</string>
+		<string>ClarityADinahWashington</string>
+		<string>ClarityATaylorSwift</string>
 		<string>AirLinksAPitbull</string>
+		<string>VictoryAKatyPerry</string>
 		<string>AirLinksATrain</string>
 		<string>ClarityADisturbed</string>
-		<string>ClarityA50 Cent</string>
-		<string>ClarityATaylor Swift</string>
+		<string>ClarityGHip-HopRap</string>
+		<string>VictoryAStevieWonder</string>
+		<string>VictoryANeonTrees</string>
+		<string>VictoryAAdventura</string>
 		<string>AirLinksAAvicii</string>
+		<string>VictoryATrain</string>
+		<string>VictoryAEdSheeran</string>
 		<string>VictoryRReference1</string>
-		<string>ClarityAMachine Head</string>
-		<string>ClarityAOld Stevie Wonder</string>
-		<string>AirLinksASteely Dan</string>
-		<string>AirLinksATower Vintage</string>
-		<string>ClarityADinah Washington</string>
-		<string>ClarityAFleetwood Mac</string>
-		<string>AirLinksAJoe Nichols</string>
+		<string>ClarityA50Cent</string>
+		<string>VictoryAEWF</string>
+		<string>AirLinksAOneRepublic</string>
+		<string>AirLinksAEdSheeran</string>
+		<string>ClarityATeddyPendegrass</string>
+		<string>ClarityALutherVandross</string>
+		<string>VictoryA3DoorsDown</string>
+		<string>AirLinksAKatyPerry</string>
+		<string>VictoryAPitbull</string>
+		<string>AirLinksANeonTrees</string>
 		<string>AirLinksAAdventura</string>
 		<string>ClarityAEWF</string>
-		<string>ClarityGElectronica Dance</string>
-		<string>AirLinksAJames Taylor</string>
-		<string>AirLinksALuther Vandross</string>
+		<string>ClarityALedZeppelin</string>
+		<string>VictoryGAlternative</string>
+		<string>AirLinksALilWayne</string>
+		<string>VictoryALorde</string>
+		<string>VictoryAColdplay</string>
+		<string>AirLinksA3DoorsDown</string>
 		<string>ClarityGRock</string>
+		<string>ClarityAColdplay</string>
+		<string>AirLinksANikiMinaj</string>
+		<string>ClarityASteelyDan</string>
+		<string>ClarityAMotleyCrüe</string>
 		<string>AirLinksALorde</string>
-		<string>ClarityAOne Republic</string>
-		<string>ClarityATower Bump City</string>
-		<string>AirLinksADinah Washington</string>
+		<string>ClarityAStevieWonder</string>
 		<string>ClarityAPrince</string>
 	</array>
 	<key>versionNumber</key>
-	<integer>8</integer>
+	<integer>9</integer>
 </dict>
 </plist>
