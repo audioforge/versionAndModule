@@ -1,0 +1,14 @@
+e<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Date</key>
+	<date>2017-09-05T17:51:36Z</date>
+	<key>Title</key>
+	<string>Welcome to Remaster 2</string>
+	<key>Message</key>
+	<string>We completely rewritten Remaster and fixed a lot of issues. Additionally, you can now import audio from Google Drive and OneDrive as well as Dropbox.
+  The Audio Unit has also been fixed and should now cause no issues.
+	</string>
+</dict>
+</plist>
