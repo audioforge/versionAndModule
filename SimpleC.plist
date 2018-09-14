@@ -7,14 +7,20 @@
 	<key>news</key>
 	<string>Thank you for supporting Simple Complications. Let us know what you would like to have added to make your live easier keeping up-to-date.</string>
 	<key>webURL</key>
-	<string>api.fixer.io/latest?base=USD</string>
+	<string>www.floatrates.com/daily/eur.json</string>
+	<key>Number</key>
+	<true/>
 	<key>scrapeBefore</key>
-	<string>rates,EUR</string>
+	<string>usd,rate</string>
 	<key>scrapeAfter</key>
 	<string>date</string>
 	<key>sourceSelector</key>
 	<string>JSON</string>
 	<key>refreshRate</key>
 	<string>600</string>
+	<key>lowNumber</key>
+	<real>0.5</real>
+	<key>highNumber</key>
+	<real>2</real>
 </dict>
 </plist>
