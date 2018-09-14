@@ -6,7 +6,7 @@
 		<key>webURL</key>
 		<string>api.fixer.io/latest?base=USD</string>
 		<key>title</key>
-		<string>Currency exchange rates</string>
+		<string>Currency exchange rate USD EUR</string>
 		<key>scrapeBefore</key>
 		<string>rates,EUR</string>
 		<key>scrapeAfter</key>
