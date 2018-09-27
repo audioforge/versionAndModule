@@ -14,6 +14,23 @@
                 <h2>Scraping</h2>
                 <p>This process of going through the source code and collecting a certain piece of information is called scraping. Some 
               sites can easier be scraped than others. Some might not yield the results you are looking for at all.</p>
+                <h2>Design</h2>
+                <p>The returned data can be interpreted as text, number or image</p>
+                <h3>text</h3>
+                <p>The data is displayed on the complication exactly as it is load from the web. Long text will be truncated with ...</p>
+                <h3>number</h3>
+                <p>The data can be interpreted as number. That means, only a number is displayed if for example the data returned says 
+                    "15 F" the watch complication will only say "15".</p>
+                <p>A high and low expected number can be assigned, and if it is, the number will be displayed together with a graphical 
+                    representation of where it ends up within the range. It is also color code with green, yellow, red, depending on where 
+                    it ends up in the provided range.</p>
+                <p>The number of decimals can also be provide to make sure the significant data is displayed correctly. If decimals is set 
+                    to 0 and the number is larger than 1000, the 1000 will be replaced with a K. For example 2420 will show as 2K. Same 
+                    for million using an M.</p>
+                <h3>image</h3>
+                <p>the image is displayed as grayscale on Apple Watch series 1, 2 and 3. Only Series 4 has the capability to display 
+                    color images. Large images might take a long time to download and even the NASA example will take several hours before 
+                    it shows up</p>
                 <h3>More help</h3>                                   
               <p>Please email support with the button top right.</p>
             </DIV>
