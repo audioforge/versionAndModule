@@ -241,8 +241,52 @@
 		<string>DNAProGR&amp;BSoul</string>
 		<string>DNAProGReggae</string>
 		<string>DNAProGRock</string>
+		<string>DNAProADrowningPool</string>
+		<string>DNAProAEdSheeran</string>
+		<string>DNAProAEWF</string>
+		<string>DNAProAFleetwoodMac</string>
+		<string>DNAProAFrankSinatra</string>
+		<string>DNAProAHiredGuns</string>
+		<string>DNAProAIggyAzelea</string>
+		<string>DNAProAJamesTaylor</string>
+		<string>DNAProAJoeNichols</string>
+		<string>DNAProAJohnLegend</string>
+		<string>DNAProAKatyPerry</string>
+		<string>DNAProALedZeppelin</string>
+		<string>DNAProALilWayne</string>
+		<string>DNAProALorde</string>
+		<string>DNAProALukeBryan</string>
+		<string>DNAProALutherVandross</string>
+		<string>DNAProAMachineHead</string>
+		<string>DNAProAMegadeath</string>
+		<string>DNAProAMichaelJackson</string>
+		<string>DNAProAMilesmilestones</string>
+		<string>DNAProAMotleyCrue</string>
+		<string>DNAProANeonTrees</string>
+		<string>DNAProANiconVince</string>
+		<string>DNAProANikiMinaj</string>
+		<string>DNAProANorahJones</string>
+		<string>DNAProAOldStevieWonder</string>
+		<string>DNAProAOneRepublic</string>
+		<string>DNAProAPitbull</string>
+		<string>DNAProAPrince</string>
+		<string>DNAProARobbieDupree</string>
+		<string>DNAProASade</string>
+		<string>DNAProAStaind</string>
+		<string>DNAProASteelyDan</string>
+		<string>DNAProAStevieWonder</string>
+		<string>DNAProASwingOutSister</string>
+		<string>DNAProATaylorSwift</string>
+		<string>DNAProATeddyPendegrass</string>
+		<string>DNAProATower</string>
+		<string>DNAProATowerBumpCity</string>
+		<string>DNAProATowerLive</string>
+		<string>DNAProATowerToOakland</string>
+		<string>DNAProATowerVintage</string>
+		<string>DNAProATrain</string>
+		<string>DNAProAZakBrownBand</string>
 	</array>
 	<key>versionNumber</key>
-	<integer>11</integer>
+	<integer>12</integer>
 </dict>
 </plist>
