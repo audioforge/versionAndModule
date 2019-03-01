@@ -221,8 +221,28 @@
 		<string>DNAProAAvicii</string>
 		<string>DNAProABillieHoliday</string>
 		<string>DNAProABozScaggslive</string>
+		<string>DNAProAColdplay</string>
+		<string>DNAProADaveBrubeck</string>
+		<string>DNAProADianeKrall</string>
+		<string>DNAProADinahWashington</string>
+		<string>DNAProADisturbed</string>
+		<string>DNAProADrake</string>
+		<string>DNAProGAlternative</string>
+		<string>DNAProGClassical</string>
+		<string>DNAProGCountry</string>
+		<string>DNAProGElectronicaDance</string>
+		<string>DNAProGHeavyMetal</string>
+		<string>DNAProGHip-HopRap</string>
+		<string>DNAProGJazz</string>
+		<string>DNAProGJazz2</string>
+		<string>DNAProGLatina</string>
+		<string>DNAProGOldies</string>
+		<string>DNAProGPop</string>
+		<string>DNAProGR&amp;BSoul</string>
+		<string>DNAProGReggae</string>
+		<string>DNAProGRock</string>
 	</array>
 	<key>versionNumber</key>
-	<integer>10</integer>
+	<integer>11</integer>
 </dict>
 </plist>
