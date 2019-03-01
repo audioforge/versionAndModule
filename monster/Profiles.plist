@@ -211,8 +211,18 @@
 		<string>AirLinksALorde</string>
 		<string>ClarityAStevieWonder</string>
 		<string>ClarityAPrince</string>
+		<string>DNAProA3DoorsDown</string>
+		<string>DNAProA5seconds</string>
+		<string>DNAProA6am</string>
+		<string>DNAProA50Cent</string>
+		<string>DNAProAAdventura</string>
+		<string>DNAProAAliciaKeys</string>
+		<string>DNAProAArianneGrande</string>
+		<string>DNAProAAvicii</string>
+		<string>DNAProABillieHoliday</string>
+		<string>DNAProABozScaggslive</string>
 	</array>
 	<key>versionNumber</key>
-	<integer>9</integer>
+	<integer>10</integer>
 </dict>
 </plist>
