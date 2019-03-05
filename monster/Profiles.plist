@@ -285,8 +285,10 @@
 		<string>DNAProATowerVintage</string>
 		<string>DNAProATrain</string>
 		<string>DNAProAZakBrownBand</string>
+		<string>DNAProRReference2</string>
+		<string>DNAProRReference3</string>
 	</array>
 	<key>versionNumber</key>
-	<integer>12</integer>
+	<integer>13</integer>
 </dict>
 </plist>
