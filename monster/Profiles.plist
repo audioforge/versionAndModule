@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>devices</key>
+	<array>
+		<string>AirLinks</string>
+		<string>Clarity</string>
+		<string>Victory</string>
+	</array>
 	<key>profiles</key>
 	<array>
 		<string>VictoryAPrince</string>
@@ -289,6 +295,6 @@
 		<string>DNAProRReference3</string>
 	</array>
 	<key>versionNumber</key>
-	<integer>13</integer>
+	<integer>14</integer>
 </dict>
 </plist>
