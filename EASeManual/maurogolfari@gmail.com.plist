@@ -6,6 +6,10 @@
 	<string>YES</string>
 	<key>boolEASeTwo</key>
 	<string>YES</string>
+	<key>boolEASeThree</key>
+	<string>YES</string>
+	<key>boolEASeFour</key>
+	<string>YES</string>
 	<key>Category</key>
 	<string>Coupon</string>
 </dict>
