@@ -291,10 +291,13 @@
 		<string>DNAProATowerVintage</string>
 		<string>DNAProATrain</string>
 		<string>DNAProAZakBrownBand</string>
+		<string>DNAProRReference1</string>
 		<string>DNAProRReference2</string>
 		<string>DNAProRReference3</string>
+		<string>ElementsOnEarRReference1</string>
+		<string>ElementsOverEarRReference1</string>
 	</array>
 	<key>versionNumber</key>
-	<integer>14</integer>
+	<integer>16</integer>
 </dict>
 </plist>
