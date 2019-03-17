@@ -4,57 +4,57 @@
 <array>
 	<dict>
 		<key>frequency</key>
-		<real>40</real>
+		<real>39</real>
 		<key>gain</key>
-		<real>0.0</real>
+		<real>1.5017300844192505</real>
 		<key>q</key>
 		<real>1</real>
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>165</real>
+		<real>108</real>
 		<key>gain</key>
-		<real>0.0</real>
+		<real>-3.512110710144043</real>
 		<key>q</key>
 		<real>1</real>
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>165</real>
+		<real>194</real>
 		<key>gain</key>
-		<real>-14.688581466674805</real>
+		<real>-8.1626300811767578</real>
 		<key>q</key>
 		<real>1</real>
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>1250</real>
+		<real>307</real>
 		<key>gain</key>
-		<real>0.0</real>
+		<real>-4.0934257507324219</real>
 		<key>q</key>
 		<real>1</real>
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>3000</real>
+		<real>24</real>
 		<key>gain</key>
-		<real>0.0</real>
+		<real>0.096885815262794495</real>
 		<key>q</key>
 		<real>1</real>
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>5000</real>
+		<real>4924</real>
 		<key>gain</key>
-		<real>0.0</real>
+		<real>-2.4463667869567871</real>
 		<key>q</key>
-		<real>1</real>
+		<real>0.5</real>
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>13000</real>
+		<real>4852</real>
 		<key>gain</key>
-		<real>0.0</real>
+		<real>0.096885815262794495</real>
 		<key>q</key>
 		<real>1</real>
 	</dict>

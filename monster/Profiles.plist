@@ -7,6 +7,9 @@
 		<string>AirLinks</string>
 		<string>Clarity</string>
 		<string>Victory</string>
+		<string>METERSOV-1</string>
+		<string>ElementsOnEar</string>
+		<string>ElementsOverEar</string>
 	</array>
 	<key>profiles</key>
 	<array>
@@ -296,8 +299,11 @@
 		<string>DNAProRReference3</string>
 		<string>ElementsOnEarRReference1</string>
 		<string>ElementsOverEarRReference1</string>
+		<string>ElementsOverEarRReference5</string>
+		<string>ElementsOverEarRReference6</string>
+		<string>METERSOV-1RReference1</string>
 	</array>
 	<key>versionNumber</key>
-	<integer>16</integer>
+	<integer>17</integer>
 </dict>
 </plist>
