@@ -302,8 +302,10 @@
 		<string>ElementsOverEarRReference5</string>
 		<string>ElementsOverEarRReference6</string>
 		<string>METERSOV-1RReference1</string>
+		<string>ElementsOverEarRReference7</string>
+		<string>VictoryRReference2</string>
 	</array>
 	<key>versionNumber</key>
-	<integer>17</integer>
+	<integer>18</integer>
 </dict>
 </plist>
