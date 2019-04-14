@@ -104,7 +104,7 @@ Please read it thoroughly and if your question has not been answered, feel free 
 <b>iPhone functions</b> <br /><br />
  <b>Profile screen</b><br /><br />
  <img src="img/RaceProfile.png" alt="" border="0" /><br /><br />
-<p>Connect to Strava: Connect to your Strava account to be able to upload your runs to Strava and share them with other runners.<br>
+<p>Connect to Strava: Connect to your Strava account to be able to upload your runs to Strava and share them with other runners.
 Once connected, your last 30 days of run data are downloaded from Strava and distance per day is displayed in a graph.</p>
 
 <p> Enter 1 hour distance: The distance you estimate to be able to run in one hour. Typically less than a half marathon 
@@ -117,6 +117,70 @@ Once connected, your last 30 days of run data are downloaded from Strava and dis
 		</p>
 <p>At the bottom, there is the intensity chart that shows the run intensity of your last 28 runs. Most recent run is on the right.
 	It is generally accepted as good training practise to alternate hard and easy days.</p>
+		<b>RunLog Screen</b> <br />
+<p>Lists all tracked runs. Press on a run to upload it to Strava (if Strava is linked, if not, go to Profile to link to your Strava account)
+Each run record shows your distance, duration and intensity. You can edit distance, duration and fastest lap via edit functionality by swiping left on a run and press edit. 
+	Intensity is calculated using your one hour distance/threshold pace. </p>
+
+		<b>Target screen</b> <br />
+<p>Enter distance, lap distance and main target pace. 
+Once these three values are entered, the laps are pre-populated. You can change the duration of each lap (in seconds) to your desired pace.
+Press on Presets to save the presets or load a previously saved preset.
+	Press on ‘update watch’ to update the current target pace to your watch.</p>
+
+		<b>Watch functions</b> <bt />
+
+		<p>Two modes are currently available, free and target.</p>
+
+<p>Target mode is the default. To select free, press on the middle button to toggle between free and target. 
+	When target mode is selected, the middle button will show the target distance.</p>
+
+<b>Target mode:</b>
+<p>To prepare the app for the run, unlock it first by pressing on the unlock button (top button).
+Once unlocked and in the correct mode, all interaction will happen with the crown of the watch.
+Rotate the crown up to start the run.
+Top display shows the current pace. The color of the display background adjust to the accuracy of the 
+	GPS signal used to determine the pace. Green is high accuracy, black is medium and red is low
+The middle display shows the elapsed time
+The button display shows the target time for the next lap
+The footer display shows the current distance.
+To the right, there are two numbers and a progress bar, arranged vertically.
+The bottom number shows the elapsed number of laps. The top number shows the next lap. In between is a progress bar 
+	that goes from 0-25%-50%-75% </p>
+
+<p>Each lap will be announced with a gong. After the lap, the display changes for the next ten seconds for the top display to lap time. After ten seconds, the top display reverts back to current pace.
+The bottom display shows the time ahead or behind. If behind, the display background turns red.
+	After 0.1 km, the bottom display changes to the target time for the next lap.</p>
+
+		<p>Free mode allows you to do track intervals.</p>
+
+<p>Correcting the distance. During a race or known course, mile markers are often much more accurate than GPS calculations of distance. So in order to adjust your run to the correct distance, use the crown. Rotate the crown up to forward to the next lap distance. For example the app shows via GPS that you have run 12.7 km, so the button number is 12 and the top number is 13. But now you actually just pass the 13 km marker. Turn the crown upwards and the app adjusts your total distance to 13 km and corrects your target time. If the GPS was overshooting, lets say you pass the 12 km marker and the app shows 12.7, just turn the crown down. The GPS will continue working and just accepts the correction. Please note that if the app announces a lap change with the gong, the crown feature is disabled for 2 seconds as to avoid false corrections.
+	Crown rotation is acknowledged with a clear audio signal to avoid the need for second guessing.</p>
+
+<p>To end a run, long press on the screen. A menu of three choices will pop up.
+Cancel: keeps the run going
+Stop: stops the run when stop is pressed
+Trim: trims the run back to the last recorded lap. So if you prefer to finish tracking your run exactly when you cross the 
+	finish line, make sure to mark a lap (with crown upwards turning) and then use the trim function to crop the run to 
+	that last lap.</p>
+
+<p>In summary, once mode is selected, and the app is unlocked, there is no tap interaction with the app anymore until 
+	the run is complete. This prevents false presses from clothing or rain. But it also ensures you can run in gloves 
+	and can still operate the watch (until you are done and need to long press without gloves).</p>
+
+<p>Free mode is used for track workouts but can be used for many other runs as well. 
+In free mode, there is no auto lap. The current pace is displayed in the top display.
+Middle display shows the total time elapsed.
+Bottom display shows the current lap time. If the crown is rotated up(there is no real point in turning it down) a new 
+	lap is started. The lap time is displayed for 10 seconds in the top display.</p>
+
+<p>Once a run is finished, it is stored on the watch. RacePacer will try to transfer the run to iPhone but for the transfer 
+	to complete, the iPhone app and the watch app need to be in the foreground. Once the transfer has started, the watch 
+	app displays ‘transferring to iPhone’ in the footer display.</p>
+		<p>Once the transfer is complete, the footer displays ‘file synced’.</p>
+<p>Now the run is stored on the iPhone app under the Run Log tab and can be uploaded to Strava by pressing on it. 
+	Make sure you are connected to the internet otherwise the transfer will fail. </p>
+
 
 
 	<!-- END Manual code from manual.html -->    
