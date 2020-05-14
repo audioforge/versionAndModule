@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Date</key>
+	<date>2017-09-05T17:51:36Z</date>
+	<key>Title</key>
+	<string>Welcome to Crown Run</string>
+	<key>Message</key>
+	<string>Welcome to the first release of Crown Run. Familiarize yourself with the app. The manual is available 
+  on www.audioforge.net.
+	</string>
+  <key>Footer</key>
+	<string>Running with Crown</string>
+</dict>
+</plist>
