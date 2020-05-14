@@ -9,6 +9,7 @@
 	<key>Message</key>
 	<string>Welcome to the first release of Crown Run. Familiarize yourself with the app. The manual is available on www.audioforge.net
 Please send questions and suggestions to support@audioforge.ca
+Touch this message to toggle to Strava stats.
 	</string>
   <key>Footer</key>
 	<string>Running with Crown</string>
