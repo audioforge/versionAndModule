@@ -4,8 +4,6 @@
 <dict>
 	<key>boolEASeOne</key>
 	<string>YES</string>
-	<key>boolNative</key>
-	<string>YES</string>
 	<key>boolEASeNative</key>
 	<string>YES</string>
 	<key>strings</key>
