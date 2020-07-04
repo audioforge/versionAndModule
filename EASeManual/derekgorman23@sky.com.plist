@@ -6,6 +6,12 @@
 	<string>YES</string>
 	<key>boolNative</key>
 	<string>YES</string>
+	<key>boolEASeNative</key>
+	<string>YES</string>
+	<key>strings</key>
+	<string>1</string>
+	<key>datee</key>
+	<date>2020-10-10T04:26:21Z</date>
 	<key>Category</key>
 	<string>Coupon</string>
 </dict>
