@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>Date</key>
-	<date>2017-09-05T17:51:36Z</date>
+	<date>2021-06-05T17:51:36Z</date>
 	<key>Title</key>
 	<string>Welcome to EASe 3</string>
 	<key>Message</key>
 	<string>Please select a subscription in the settings menu by tapping on the gear button. 
 		Contact us at support@audioforge.ca for more info.
 	</string>
+	<key>StudyEmail</key>
+	<string>MisophoniaBrenau2021@gmail.com</string>
 </dict>
 </plist>
