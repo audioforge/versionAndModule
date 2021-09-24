@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Date</key>
-	<date>2021-03-27T17:51:36Z</date>
+	<date>2021-03-28T17:51:36Z</date>
 	<key>Title</key>
 	<string>Equalizer support</string>
 	<key>Message</key>
@@ -13,6 +13,6 @@
 	donation every other year or so to ensure we can keep the doors open on Equalizer. If you continue using Equalizer after many years, please
         press Donate to reach our Paypal donation site.</string>
 	<key>DonnateButton</key>
-	<Number>1</Number>
+	<real>1</real>
 </dict>
 </plist>
