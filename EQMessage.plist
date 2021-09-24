@@ -3,11 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>Date</key>
-	<date>2017-02-23T17:51:36Z</date>
+	<date>2022-02-23T17:51:36Z</date>
 	<key>Title</key>
-	<string>Welcome to Equalizer Free</string>
+	<string>Equalizer support</string>
 	<key>Message</key>
-	<string>Equalizer free allows you to stream audio from Dropbox and your Music Library. 
-  If you want to stream from other sources, please contact us via the support button.</string>
+	<string>Equalizer has been in the App Store since 2009 and we have been maintaining it for as long. It cost $3.99 since very early on and 
+	never increased in price. We are deeply committed to continuing support and maintenance for Equalizer. However, paid apps have received a 
+	decisive hit in sales for a series of years now. Instead of requiring subsciptions or other forced payments, we would request a small 
+	donation every other year or so to ensure we can keep the doors open on Equalizer. If you continue using Equalizer after many years, please
+        press Donate to reach our Paypal donation site.</string>
 </dict>
 </plist>
