@@ -3,10 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>Date</key>
-	<date>2021-03-29T17:51:36Z</date>
+	<date>2021-03-30T17:51:36Z</date>
 	<key>Title</key>
 	<string>Equalizer support</string>
 	<key>Message</key>
+	<string>Equalizer has been updated to the latest iOS version.</string>
+	<key>OldMessage</key>
 	<string>Equalizer has been in the App Store since 2009 and we have been maintaining it for as long. It cost $3.99 since very early on and 
 	never increased in price. We are deeply committed to continuing support and maintenance for Equalizer. However, paid apps have received a 
 	decisive hit in sales for a series of years now. Instead of requiring subsciptions or other forced payments, we would request a small 
