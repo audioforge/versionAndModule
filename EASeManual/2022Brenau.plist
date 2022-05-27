@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Comments</key>
+	<string>Please leave a comment about how the session went.</string>
+	<key>strings</key>
+	<string>2</string>
+	<key>datee</key>
+	<date>2022-12-30T04:26:21Z</date>
+	<key>Category</key>
+	<string>Coupon</string>
+</dict>
+</plist>
