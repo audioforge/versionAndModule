@@ -5,9 +5,9 @@
 	<key>Date</key>
 	<date>2023-10-21T17:51:36Z</date>
 	<key>Title</key>
-	<string>Equalizer support</string>
+	<string>Equalizer update</string>
 	<key>Message</key>
-	<string>If you are running iOS17 and encounter audio artefacts during cross fade, please turn cross fade off for now. We are working on an update to fix the issue.</string>
+	<string>If you are running iOS17 and encounter audio artefacts during cross fade, please turn cross fade off for now. Update coming soon!</string>
 	<key>DonnateButton</key>
 	<real>0</real>
 </dict>
