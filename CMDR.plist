@@ -9,6 +9,6 @@
 	<key>Message</key>
 	<string>Hit the scan button and take photos of your materials inventory until you have all the materials scanned. Then hit save to convert them so they appear in the inventory as recorded. Then sync with Inara.</string>
 	<key>DonnateButton</key>
-	<real>1</real>
+	<real>0</real>
 </dict>
 </plist>
