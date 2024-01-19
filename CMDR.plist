@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Date</key>
+	<date>2023-11-23T17:51:36Z</date>
+	<key>Title</key>
+	<string>Welcome CMDR</string>
+	<key>Message</key>
+	<string>Hit the scan button and take photos of your materials inventory until you have all the materials scanned. Then hit save to convert them so they appear in the inventory as recorded. Then sync with Inara.</string>
+	<key>DonnateButton</key>
+	<real>0</real>
+</dict>
+</plist>
